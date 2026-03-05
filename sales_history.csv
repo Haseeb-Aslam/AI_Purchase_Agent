@@ -1,0 +1,1201 @@
+sale_id,sku_id,product_name,category,sale_date,qty_sold,unit_price_usd,total_revenue_usd,channel,region,return_qty,discount_pct
+SALE-9000,SKU-1031,Blender,Home & Kitchen,2025-05-11,41,504.08,20667.28,B2B Direct,Central,0,0
+SALE-9001,SKU-1016,Desk Organizer,Office,2025-12-16,37,444.56,16448.72,Website,West,0,0
+SALE-9002,SKU-1016,Desk Organizer,Office,2025-11-02,41,444.56,18226.96,Website,West,0,0
+SALE-9003,SKU-1035,Food Storage Containers,Home & Kitchen,2025-12-14,17,314.44,5345.48,Marketplace,North,0,15
+SALE-9004,SKU-1038,Mixing Bowls Set,Home & Kitchen,2025-06-13,37,260.8,9649.6,B2B Direct,Central,1,0
+SALE-9005,SKU-1020,Men T-Shirt,Clothing,2026-02-11,33,371.05,12244.65,Retail Store,West,0,0
+SALE-9006,SKU-1040,Face Moisturizer,Beauty,2025-05-17,11,215.83,2374.13,Marketplace,West,0,0
+SALE-9007,SKU-1004,Webcam,Electronics,2025-04-13,11,342.33,3765.63,Marketplace,South,0,0
+SALE-9008,SKU-1017,Printer Ink Cartridge,Office,2026-01-07,42,587.04,24655.68,Retail Store,East,0,15
+SALE-9009,SKU-1047,Eye Cream,Beauty,2025-12-29,34,102.49,3484.66,Retail Store,West,0,0
+SALE-9010,SKU-1046,Body Lotion,Beauty,2025-07-02,43,51.61,2219.23,Marketplace,North,0,0
+SALE-9011,SKU-1004,Webcam,Electronics,2025-11-01,36,479.26,17253.36,Website,North,0,20
+SALE-9012,SKU-1006,LED Desk Lamp,Electronics,2025-07-16,40,581.48,23259.2,Mobile App,North,3,0
+SALE-9013,SKU-1014,File Folders,Office,2025-07-08,48,348.85,16744.8,Marketplace,West,0,5
+SALE-9014,SKU-1010,Ballpoint Pens (Box),Office,2025-03-18,3,139.01,417.03,Marketplace,East,0,15
+SALE-9015,SKU-1017,Printer Ink Cartridge,Office,2025-12-09,29,821.86,23833.94,Mobile App,Central,0,0
+SALE-9016,SKU-1047,Eye Cream,Beauty,2026-01-23,37,73.21,2708.77,Retail Store,Central,0,0
+SALE-9017,SKU-1022,Hoodie,Clothing,2025-11-05,35,120.26,4209.1,Mobile App,North,0,0
+SALE-9018,SKU-1009,Laptop Stand,Electronics,2025-08-06,1,84.62,84.62,Website,Central,0,0
+SALE-9019,SKU-1000,Wireless Earbuds,Electronics,2026-02-19,32,376.49,12047.68,Retail Store,East,0,10
+SALE-9020,SKU-1038,Mixing Bowls Set,Home & Kitchen,2025-06-30,1,260.8,260.8,B2B Direct,East,0,5
+SALE-9021,SKU-1025,Socks (Pack-6),Clothing,2025-07-09,11,470.4,5174.4,Retail Store,West,0,0
+SALE-9022,SKU-1015,Whiteboard Markers,Office,2025-11-23,49,356.62,17474.38,B2B Direct,East,0,5
+SALE-9023,SKU-1017,Printer Ink Cartridge,Office,2025-10-01,13,587.04,7631.52,Website,South,0,5
+SALE-9024,SKU-1039,Dish Rack,Home & Kitchen,2025-10-21,18,325.0,5850.0,B2B Direct,West,0,0
+SALE-9025,SKU-1034,Kitchen Knife Set,Home & Kitchen,2025-03-15,12,279.9,3358.8,Website,East,0,0
+SALE-9026,SKU-1000,Wireless Earbuds,Electronics,2025-07-01,6,451.79,2710.74,Mobile App,North,0,0
+SALE-9027,SKU-1031,Blender,Home & Kitchen,2025-09-10,30,504.08,15122.4,Website,East,0,20
+SALE-9028,SKU-1003,Gaming Mouse,Electronics,2025-07-18,50,400.7,20035.0,Retail Store,North,0,0
+SALE-9029,SKU-1016,Desk Organizer,Office,2025-09-15,1,317.54,317.54,Website,South,0,0
+SALE-9030,SKU-1047,Eye Cream,Beauty,2025-03-21,13,73.21,951.73,Retail Store,North,0,0
+SALE-9031,SKU-1024,Baseball Cap,Clothing,2026-02-15,20,124.9,2498.0,Marketplace,South,0,10
+SALE-9032,SKU-1035,Food Storage Containers,Home & Kitchen,2025-11-25,8,314.44,2515.52,Marketplace,West,0,0
+SALE-9033,SKU-1003,Gaming Mouse,Electronics,2026-02-08,14,333.92,4674.88,Website,South,0,0
+SALE-9034,SKU-1017,Printer Ink Cartridge,Office,2025-12-28,8,821.86,6574.88,Retail Store,South,1,5
+SALE-9035,SKU-1044,Lip Balm,Beauty,2025-11-02,45,667.88,30054.6,B2B Direct,South,0,0
+SALE-9036,SKU-1031,Blender,Home & Kitchen,2025-04-19,44,504.08,22179.52,B2B Direct,East,0,0
+SALE-9037,SKU-1009,Laptop Stand,Electronics,2026-02-26,35,84.62,2961.7,Website,South,0,20
+SALE-9038,SKU-1041,Shampoo 500ml,Beauty,2025-08-28,29,344.31,9984.99,Mobile App,North,0,10
+SALE-9039,SKU-1016,Desk Organizer,Office,2025-03-24,32,317.54,10161.28,Retail Store,Central,0,0
+SALE-9040,SKU-1036,Electric Kettle,Home & Kitchen,2025-06-07,35,48.41,1694.35,Marketplace,East,0,15
+SALE-9041,SKU-1038,Mixing Bowls Set,Home & Kitchen,2025-12-12,11,304.26,3346.86,Website,Central,0,10
+SALE-9042,SKU-1034,Kitchen Knife Set,Home & Kitchen,2025-09-07,30,279.9,8397.0,Website,Central,0,15
+SALE-9043,SKU-1039,Dish Rack,Home & Kitchen,2025-09-06,50,325.0,16250.0,B2B Direct,South,0,5
+SALE-9044,SKU-1034,Kitchen Knife Set,Home & Kitchen,2025-09-18,13,279.9,3638.7,B2B Direct,West,0,0
+SALE-9045,SKU-1026,Polo Shirt,Clothing,2026-01-26,21,255.0,5355.0,Website,North,0,0
+SALE-9046,SKU-1008,Smart Speaker,Electronics,2025-06-03,3,255.61,766.83,Mobile App,North,0,0
+SALE-9047,SKU-1041,Shampoo 500ml,Beauty,2025-09-18,43,344.31,14805.33,Retail Store,Central,0,0
+SALE-9048,SKU-1023,Running Shoes,Clothing,2025-06-25,39,492.38,19202.82,Website,North,0,15
+SALE-9049,SKU-1005,Monitor Stand,Electronics,2025-10-29,41,357.41,14653.81,Website,East,0,15
+SALE-9050,SKU-1023,Running Shoes,Clothing,2026-03-01,4,410.32,1641.28,B2B Direct,East,0,0
+SALE-9051,SKU-1019,Tape Dispenser,Office,2025-04-12,14,477.85,6689.9,B2B Direct,North,0,5
+SALE-9052,SKU-1012,Sticky Notes Pack,Office,2025-06-10,34,305.74,10395.16,Mobile App,Central,3,5
+SALE-9053,SKU-1035,Food Storage Containers,Home & Kitchen,2025-10-02,48,224.6,10780.8,Website,Central,0,10
+SALE-9054,SKU-1027,Winter Jacket,Clothing,2025-04-26,11,483.4,5317.4,Mobile App,Central,0,5
+SALE-9055,SKU-1034,Kitchen Knife Set,Home & Kitchen,2026-01-05,29,279.9,8117.1,Marketplace,East,3,0
+SALE-9056,SKU-1023,Running Shoes,Clothing,2025-10-01,49,410.32,20105.68,Retail Store,East,0,5
+SALE-9057,SKU-1024,Baseball Cap,Clothing,2025-12-10,48,174.86,8393.28,Marketplace,East,0,0
+SALE-9058,SKU-1046,Body Lotion,Beauty,2025-03-21,19,43.01,817.19,B2B Direct,North,0,15
+SALE-9059,SKU-1000,Wireless Earbuds,Electronics,2025-08-04,15,376.49,5647.35,Mobile App,East,0,15
+SALE-9060,SKU-1017,Printer Ink Cartridge,Office,2025-12-12,33,821.86,27121.38,B2B Direct,Central,0,0
+SALE-9061,SKU-1022,Hoodie,Clothing,2025-05-22,9,85.9,773.1,Marketplace,East,0,0
+SALE-9062,SKU-1019,Tape Dispenser,Office,2025-04-20,37,477.85,17680.45,Retail Store,Central,0,10
+SALE-9063,SKU-1030,Coffee Maker,Home & Kitchen,2025-05-31,32,420.91,13469.12,B2B Direct,North,0,0
+SALE-9064,SKU-1036,Electric Kettle,Home & Kitchen,2025-09-15,6,40.34,242.04,Website,East,0,0
+SALE-9065,SKU-1007,Power Bank,Electronics,2025-06-28,48,364.87,17513.76,B2B Direct,North,0,0
+SALE-9066,SKU-1019,Tape Dispenser,Office,2025-11-27,3,668.99,2006.97,Marketplace,Central,0,5
+SALE-9067,SKU-1014,File Folders,Office,2025-05-21,4,290.71,1162.84,Retail Store,West,0,0
+SALE-9068,SKU-1027,Winter Jacket,Clothing,2025-07-30,26,580.08,15082.08,Mobile App,South,0,5
+SALE-9069,SKU-1003,Gaming Mouse,Electronics,2025-12-09,26,467.49,12154.74,Marketplace,North,0,10
+SALE-9070,SKU-1008,Smart Speaker,Electronics,2025-05-12,31,213.01,6603.31,B2B Direct,South,0,5
+SALE-9071,SKU-1035,Food Storage Containers,Home & Kitchen,2026-01-13,48,224.6,10780.8,B2B Direct,South,0,10
+SALE-9072,SKU-1020,Men T-Shirt,Clothing,2026-02-17,37,371.05,13728.85,Website,North,0,0
+SALE-9073,SKU-1012,Sticky Notes Pack,Office,2025-08-15,23,254.78,5859.94,B2B Direct,North,0,0
+SALE-9074,SKU-1028,Denim Shorts,Clothing,2026-01-17,10,191.99,1919.9,Retail Store,North,0,0
+SALE-9075,SKU-1048,Toner,Beauty,2025-04-16,8,284.78,2278.24,Website,South,3,15
+SALE-9076,SKU-1018,Scissors,Office,2025-03-11,22,125.99,2771.78,Website,East,0,0
+SALE-9077,SKU-1047,Eye Cream,Beauty,2025-12-04,14,102.49,1434.86,Mobile App,Central,0,5
+SALE-9078,SKU-1039,Dish Rack,Home & Kitchen,2025-05-15,45,325.0,14625.0,Website,West,3,5
+SALE-9079,SKU-1016,Desk Organizer,Office,2025-05-30,4,317.54,1270.16,Marketplace,South,0,0
+SALE-9080,SKU-1041,Shampoo 500ml,Beauty,2025-03-08,5,344.31,1721.55,Retail Store,East,0,5
+SALE-9081,SKU-1006,LED Desk Lamp,Electronics,2025-03-13,19,484.57,9206.83,Retail Store,South,0,10
+SALE-9082,SKU-1020,Men T-Shirt,Clothing,2025-11-07,39,519.47,20259.33,B2B Direct,North,0,20
+SALE-9083,SKU-1035,Food Storage Containers,Home & Kitchen,2026-03-03,2,224.6,449.2,Website,South,0,0
+SALE-9084,SKU-1047,Eye Cream,Beauty,2025-05-23,2,73.21,146.42,Marketplace,East,0,0
+SALE-9085,SKU-1032,Non-stick Pan,Home & Kitchen,2025-07-23,4,454.52,1818.08,Marketplace,West,1,15
+SALE-9086,SKU-1014,File Folders,Office,2025-05-20,22,290.71,6395.62,Retail Store,South,0,5
+SALE-9087,SKU-1043,Sunscreen SPF50,Beauty,2026-01-11,41,334.2,13702.2,Mobile App,West,0,0
+SALE-9088,SKU-1019,Tape Dispenser,Office,2026-01-07,22,477.85,10512.7,Retail Store,Central,0,0
+SALE-9089,SKU-1034,Kitchen Knife Set,Home & Kitchen,2026-02-17,13,279.9,3638.7,Mobile App,East,0,5
+SALE-9090,SKU-1008,Smart Speaker,Electronics,2025-10-10,50,213.01,10650.5,Mobile App,Central,0,5
+SALE-9091,SKU-1046,Body Lotion,Beauty,2025-05-03,12,43.01,516.12,Marketplace,South,0,0
+SALE-9092,SKU-1026,Polo Shirt,Clothing,2025-09-30,20,255.0,5100.0,Retail Store,East,0,0
+SALE-9093,SKU-1011,A4 Paper (Ream),Office,2025-03-17,49,515.31,25250.19,B2B Direct,Central,0,5
+SALE-9094,SKU-1038,Mixing Bowls Set,Home & Kitchen,2025-06-30,15,260.8,3912.0,Website,East,0,0
+SALE-9095,SKU-1032,Non-stick Pan,Home & Kitchen,2026-01-07,31,378.77,11741.87,Marketplace,South,0,0
+SALE-9096,SKU-1012,Sticky Notes Pack,Office,2025-06-27,3,305.74,917.22,Retail Store,North,2,0
+SALE-9097,SKU-1042,Conditioner 500ml,Beauty,2025-06-15,49,75.36,3692.64,Mobile App,North,1,20
+SALE-9098,SKU-1039,Dish Rack,Home & Kitchen,2025-11-09,45,455.0,20475.0,Marketplace,West,0,10
+SALE-9099,SKU-1038,Mixing Bowls Set,Home & Kitchen,2025-09-14,47,217.33,10214.51,Marketplace,West,3,5
+SALE-9100,SKU-1034,Kitchen Knife Set,Home & Kitchen,2025-11-27,42,391.86,16458.12,Website,Central,0,10
+SALE-9101,SKU-1002,Mechanical Keyboard,Electronics,2025-07-07,34,295.31,10040.54,B2B Direct,West,0,0
+SALE-9102,SKU-1048,Toner,Beauty,2026-01-20,4,284.78,1139.12,Mobile App,East,0,0
+SALE-9103,SKU-1018,Scissors,Office,2025-10-26,11,125.99,1385.89,Retail Store,East,3,5
+SALE-9104,SKU-1009,Laptop Stand,Electronics,2025-10-27,42,84.62,3554.04,Retail Store,North,0,0
+SALE-9105,SKU-1037,Air Fryer,Home & Kitchen,2026-02-23,35,250.76,8776.6,Mobile App,West,0,0
+SALE-9106,SKU-1029,Sport Leggings,Clothing,2025-12-31,46,100.87,4640.02,Mobile App,West,0,5
+SALE-9107,SKU-1045,Hand Cream,Beauty,2025-05-26,46,336.24,15467.04,Website,North,0,5
+SALE-9108,SKU-1005,Monitor Stand,Electronics,2025-11-27,46,500.37,23017.02,Retail Store,Central,3,0
+SALE-9109,SKU-1024,Baseball Cap,Clothing,2025-03-26,50,124.9,6245.0,Mobile App,East,0,15
+SALE-9110,SKU-1010,Ballpoint Pens (Box),Office,2025-05-17,12,139.01,1668.12,Website,West,0,10
+SALE-9111,SKU-1028,Denim Shorts,Clothing,2025-07-29,41,230.39,9445.99,Mobile App,North,1,0
+SALE-9112,SKU-1048,Toner,Beauty,2025-07-11,1,341.74,341.74,Retail Store,West,0,0
+SALE-9113,SKU-1031,Blender,Home & Kitchen,2025-07-03,14,604.9,8468.6,B2B Direct,West,0,0
+SALE-9114,SKU-1038,Mixing Bowls Set,Home & Kitchen,2025-03-07,16,217.33,3477.28,B2B Direct,East,0,10
+SALE-9115,SKU-1013,Stapler,Office,2025-03-29,12,196.06,2352.72,Mobile App,North,0,0
+SALE-9116,SKU-1002,Mechanical Keyboard,Electronics,2026-02-08,37,246.09,9105.33,B2B Direct,East,2,0
+SALE-9117,SKU-1026,Polo Shirt,Clothing,2025-06-03,11,306.0,3366.0,Marketplace,Central,0,5
+SALE-9118,SKU-1035,Food Storage Containers,Home & Kitchen,2025-06-02,30,269.52,8085.6,B2B Direct,East,0,0
+SALE-9119,SKU-1023,Running Shoes,Clothing,2025-09-14,5,410.32,2051.6,Retail Store,Central,0,0
+SALE-9120,SKU-1044,Lip Balm,Beauty,2025-07-22,22,572.47,12594.34,B2B Direct,West,0,0
+SALE-9121,SKU-1003,Gaming Mouse,Electronics,2025-04-28,37,333.92,12355.04,B2B Direct,North,0,5
+SALE-9122,SKU-1045,Hand Cream,Beauty,2025-07-29,28,403.49,11297.72,B2B Direct,East,0,20
+SALE-9123,SKU-1022,Hoodie,Clothing,2025-05-09,40,85.9,3436.0,B2B Direct,West,0,0
+SALE-9124,SKU-1011,A4 Paper (Ream),Office,2026-01-10,15,515.31,7729.65,Marketplace,South,0,0
+SALE-9125,SKU-1007,Power Bank,Electronics,2025-06-18,40,364.87,14594.8,Retail Store,West,0,5
+SALE-9126,SKU-1040,Face Moisturizer,Beauty,2025-06-20,1,259.0,259.0,Mobile App,East,0,0
+SALE-9127,SKU-1032,Non-stick Pan,Home & Kitchen,2025-12-10,21,530.28,11135.88,Website,North,0,0
+SALE-9128,SKU-1036,Electric Kettle,Home & Kitchen,2026-01-13,2,40.34,80.68,Mobile App,South,0,15
+SALE-9129,SKU-1030,Coffee Maker,Home & Kitchen,2025-11-01,3,589.27,1767.81,Mobile App,West,0,15
+SALE-9130,SKU-1034,Kitchen Knife Set,Home & Kitchen,2025-08-22,30,279.9,8397.0,Retail Store,North,0,10
+SALE-9131,SKU-1020,Men T-Shirt,Clothing,2025-12-13,35,519.47,18181.45,Website,South,0,10
+SALE-9132,SKU-1022,Hoodie,Clothing,2025-04-06,10,85.9,859.0,Marketplace,North,2,5
+SALE-9133,SKU-1010,Ballpoint Pens (Box),Office,2025-12-21,39,194.61,7589.79,Retail Store,South,0,10
+SALE-9134,SKU-1019,Tape Dispenser,Office,2026-02-28,21,477.85,10034.85,Website,East,0,15
+SALE-9135,SKU-1023,Running Shoes,Clothing,2025-10-21,20,410.32,8206.4,Mobile App,Central,0,0
+SALE-9136,SKU-1002,Mechanical Keyboard,Electronics,2025-06-15,6,295.31,1771.86,Retail Store,Central,0,15
+SALE-9137,SKU-1009,Laptop Stand,Electronics,2025-06-09,22,101.54,2233.88,Retail Store,Central,0,0
+SALE-9138,SKU-1006,LED Desk Lamp,Electronics,2025-11-23,44,678.4,29849.6,Mobile App,South,0,0
+SALE-9139,SKU-1033,Cutting Board,Home & Kitchen,2025-05-02,1,355.21,355.21,Marketplace,North,0,15
+SALE-9140,SKU-1021,Women Jeans,Clothing,2025-10-29,3,305.44,916.32,Website,Central,0,0
+SALE-9141,SKU-1048,Toner,Beauty,2025-08-10,41,284.78,11675.98,Mobile App,East,0,0
+SALE-9142,SKU-1020,Men T-Shirt,Clothing,2025-10-15,43,371.05,15955.15,Website,East,0,0
+SALE-9143,SKU-1039,Dish Rack,Home & Kitchen,2025-12-15,33,455.0,15015.0,Website,South,0,0
+SALE-9144,SKU-1009,Laptop Stand,Electronics,2026-02-27,19,84.62,1607.78,B2B Direct,South,0,5
+SALE-9145,SKU-1021,Women Jeans,Clothing,2025-12-05,29,427.62,12400.98,Website,South,0,5
+SALE-9146,SKU-1006,LED Desk Lamp,Electronics,2025-09-16,4,484.57,1938.28,Website,West,0,5
+SALE-9147,SKU-1037,Air Fryer,Home & Kitchen,2026-01-20,45,250.76,11284.2,Retail Store,Central,0,10
+SALE-9148,SKU-1045,Hand Cream,Beauty,2026-02-10,35,336.24,11768.4,Website,West,0,10
+SALE-9149,SKU-1044,Lip Balm,Beauty,2025-10-29,7,477.06,3339.42,Retail Store,East,0,10
+SALE-9150,SKU-1030,Coffee Maker,Home & Kitchen,2025-06-30,15,505.09,7576.35,Mobile App,Central,2,0
+SALE-9151,SKU-1044,Lip Balm,Beauty,2026-02-07,22,477.06,10495.32,Marketplace,West,0,0
+SALE-9152,SKU-1022,Hoodie,Clothing,2025-11-04,30,120.26,3607.8,Mobile App,East,0,0
+SALE-9153,SKU-1006,LED Desk Lamp,Electronics,2025-09-27,46,484.57,22290.22,Website,East,0,10
+SALE-9154,SKU-1034,Kitchen Knife Set,Home & Kitchen,2025-10-26,26,279.9,7277.4,B2B Direct,West,0,5
+SALE-9155,SKU-1030,Coffee Maker,Home & Kitchen,2025-09-16,5,420.91,2104.55,Marketplace,South,0,10
+SALE-9156,SKU-1027,Winter Jacket,Clothing,2025-12-19,22,676.76,14888.72,B2B Direct,South,0,0
+SALE-9157,SKU-1045,Hand Cream,Beauty,2025-12-22,32,470.74,15063.68,Website,Central,0,5
+SALE-9158,SKU-1028,Denim Shorts,Clothing,2025-06-02,20,230.39,4607.8,Retail Store,North,0,10
+SALE-9159,SKU-1049,Serum 30ml,Beauty,2025-09-14,21,409.33,8595.93,Retail Store,North,0,0
+SALE-9160,SKU-1037,Air Fryer,Home & Kitchen,2026-01-23,1,250.76,250.76,Mobile App,South,0,0
+SALE-9161,SKU-1036,Electric Kettle,Home & Kitchen,2025-10-18,13,40.34,524.42,Mobile App,East,0,15
+SALE-9162,SKU-1019,Tape Dispenser,Office,2025-10-12,46,477.85,21981.1,Marketplace,North,0,20
+SALE-9163,SKU-1025,Socks (Pack-6),Clothing,2025-05-08,19,392.0,7448.0,Website,East,3,0
+SALE-9164,SKU-1035,Food Storage Containers,Home & Kitchen,2025-09-03,8,224.6,1796.8,Marketplace,North,0,5
+SALE-9165,SKU-1040,Face Moisturizer,Beauty,2025-08-13,46,215.83,9928.18,Retail Store,West,0,0
+SALE-9166,SKU-1011,A4 Paper (Ream),Office,2025-11-02,9,721.43,6492.87,Mobile App,Central,0,0
+SALE-9167,SKU-1026,Polo Shirt,Clothing,2025-05-21,19,255.0,4845.0,Mobile App,South,0,0
+SALE-9168,SKU-1046,Body Lotion,Beauty,2025-11-08,43,60.21,2589.03,Retail Store,South,0,10
+SALE-9169,SKU-1029,Sport Leggings,Clothing,2026-02-23,39,72.05,2809.95,Retail Store,Central,0,0
+SALE-9170,SKU-1028,Denim Shorts,Clothing,2025-09-16,23,191.99,4415.77,Mobile App,South,0,5
+SALE-9171,SKU-1046,Body Lotion,Beauty,2025-07-03,46,51.61,2374.06,B2B Direct,East,2,5
+SALE-9172,SKU-1002,Mechanical Keyboard,Electronics,2025-03-23,37,246.09,9105.33,Retail Store,East,0,20
+SALE-9173,SKU-1005,Monitor Stand,Electronics,2025-05-15,47,357.41,16798.27,B2B Direct,East,0,5
+SALE-9174,SKU-1039,Dish Rack,Home & Kitchen,2025-04-18,16,325.0,5200.0,Retail Store,North,0,10
+SALE-9175,SKU-1019,Tape Dispenser,Office,2026-01-11,4,477.85,1911.4,Marketplace,Central,0,5
+SALE-9176,SKU-1030,Coffee Maker,Home & Kitchen,2025-12-22,47,589.27,27695.69,Marketplace,West,2,10
+SALE-9177,SKU-1018,Scissors,Office,2025-05-28,3,125.99,377.97,B2B Direct,East,0,0
+SALE-9178,SKU-1040,Face Moisturizer,Beauty,2025-11-01,38,302.16,11482.08,Mobile App,Central,0,0
+SALE-9179,SKU-1047,Eye Cream,Beauty,2026-01-17,2,73.21,146.42,Marketplace,West,0,0
+SALE-9180,SKU-1017,Printer Ink Cartridge,Office,2025-07-11,9,704.45,6340.05,B2B Direct,East,0,0
+SALE-9181,SKU-1007,Power Bank,Electronics,2026-01-07,12,304.06,3648.72,B2B Direct,South,0,10
+SALE-9182,SKU-1016,Desk Organizer,Office,2026-02-25,16,317.54,5080.64,Retail Store,South,0,0
+SALE-9183,SKU-1005,Monitor Stand,Electronics,2025-05-17,39,357.41,13938.99,Mobile App,West,0,0
+SALE-9184,SKU-1028,Denim Shorts,Clothing,2026-01-24,11,191.99,2111.89,Mobile App,Central,0,0
+SALE-9185,SKU-1016,Desk Organizer,Office,2025-05-02,4,317.54,1270.16,Mobile App,West,0,0
+SALE-9186,SKU-1048,Toner,Beauty,2025-12-01,15,398.69,5980.35,Retail Store,West,0,5
+SALE-9187,SKU-1027,Winter Jacket,Clothing,2025-03-10,19,483.4,9184.6,Retail Store,West,0,5
+SALE-9188,SKU-1002,Mechanical Keyboard,Electronics,2025-04-22,35,246.09,8613.15,Marketplace,West,3,15
+SALE-9189,SKU-1021,Women Jeans,Clothing,2025-07-20,18,366.53,6597.54,Website,East,0,0
+SALE-9190,SKU-1043,Sunscreen SPF50,Beauty,2025-07-05,47,401.04,18848.88,B2B Direct,South,0,5
+SALE-9191,SKU-1011,A4 Paper (Ream),Office,2025-08-11,36,515.31,18551.16,Website,North,0,0
+SALE-9192,SKU-1006,LED Desk Lamp,Electronics,2026-02-17,29,484.57,14052.53,Marketplace,South,0,0
+SALE-9193,SKU-1001,USB-C Hub,Electronics,2026-01-15,6,507.79,3046.74,Website,Central,0,0
+SALE-9194,SKU-1038,Mixing Bowls Set,Home & Kitchen,2026-01-24,8,217.33,1738.64,Website,North,0,5
+SALE-9195,SKU-1041,Shampoo 500ml,Beauty,2025-12-18,12,482.03,5784.36,Website,South,0,5
+SALE-9196,SKU-1004,Webcam,Electronics,2026-01-25,30,342.33,10269.9,Marketplace,West,3,10
+SALE-9197,SKU-1020,Men T-Shirt,Clothing,2025-07-13,11,445.26,4897.86,Website,East,0,0
+SALE-9198,SKU-1003,Gaming Mouse,Electronics,2025-07-14,17,400.7,6811.9,Mobile App,West,0,15
+SALE-9199,SKU-1039,Dish Rack,Home & Kitchen,2025-09-21,12,325.0,3900.0,Retail Store,North,0,0
+SALE-9200,SKU-1039,Dish Rack,Home & Kitchen,2026-01-27,7,325.0,2275.0,Retail Store,East,0,0
+SALE-9201,SKU-1046,Body Lotion,Beauty,2025-07-10,50,51.61,2580.5,Retail Store,North,0,5
+SALE-9202,SKU-1002,Mechanical Keyboard,Electronics,2026-02-07,25,246.09,6152.25,Marketplace,South,0,0
+SALE-9203,SKU-1000,Wireless Earbuds,Electronics,2025-11-22,46,527.09,24246.14,Retail Store,West,0,10
+SALE-9204,SKU-1004,Webcam,Electronics,2025-12-05,15,479.26,7188.9,Website,West,0,0
+SALE-9205,SKU-1036,Electric Kettle,Home & Kitchen,2025-12-03,23,56.48,1299.04,Marketplace,East,0,20
+SALE-9206,SKU-1041,Shampoo 500ml,Beauty,2025-04-19,24,344.31,8263.44,B2B Direct,East,0,10
+SALE-9207,SKU-1018,Scissors,Office,2026-01-29,13,125.99,1637.87,Mobile App,Central,1,5
+SALE-9208,SKU-1019,Tape Dispenser,Office,2026-02-23,25,477.85,11946.25,Website,East,0,5
+SALE-9209,SKU-1047,Eye Cream,Beauty,2025-06-09,9,87.85,790.65,Website,South,0,5
+SALE-9210,SKU-1031,Blender,Home & Kitchen,2025-09-19,5,504.08,2520.4,B2B Direct,East,0,10
+SALE-9211,SKU-1028,Denim Shorts,Clothing,2025-03-12,3,191.99,575.97,Marketplace,North,0,0
+SALE-9212,SKU-1007,Power Bank,Electronics,2025-06-20,42,364.87,15324.54,B2B Direct,West,0,5
+SALE-9213,SKU-1047,Eye Cream,Beauty,2025-12-25,15,102.49,1537.35,Website,North,0,5
+SALE-9214,SKU-1030,Coffee Maker,Home & Kitchen,2026-01-14,3,420.91,1262.73,Mobile App,South,0,0
+SALE-9215,SKU-1019,Tape Dispenser,Office,2025-04-22,30,477.85,14335.5,B2B Direct,South,0,10
+SALE-9216,SKU-1007,Power Bank,Electronics,2025-11-13,39,425.68,16601.52,B2B Direct,South,0,0
+SALE-9217,SKU-1047,Eye Cream,Beauty,2026-02-14,26,73.21,1903.46,Marketplace,North,0,0
+SALE-9218,SKU-1013,Stapler,Office,2025-03-27,38,196.06,7450.28,Mobile App,East,0,0
+SALE-9219,SKU-1026,Polo Shirt,Clothing,2025-05-29,45,255.0,11475.0,Marketplace,Central,0,15
+SALE-9220,SKU-1002,Mechanical Keyboard,Electronics,2025-05-11,7,246.09,1722.63,B2B Direct,West,0,0
+SALE-9221,SKU-1000,Wireless Earbuds,Electronics,2025-03-07,12,376.49,4517.88,Website,Central,0,10
+SALE-9222,SKU-1049,Serum 30ml,Beauty,2025-11-02,45,573.06,25787.7,Mobile App,South,0,5
+SALE-9223,SKU-1026,Polo Shirt,Clothing,2025-07-04,12,306.0,3672.0,B2B Direct,North,0,0
+SALE-9224,SKU-1005,Monitor Stand,Electronics,2026-01-19,20,357.41,7148.2,Marketplace,West,0,0
+SALE-9225,SKU-1033,Cutting Board,Home & Kitchen,2025-04-21,40,355.21,14208.4,Marketplace,Central,0,10
+SALE-9226,SKU-1042,Conditioner 500ml,Beauty,2025-06-18,18,75.36,1356.48,Website,South,0,5
+SALE-9227,SKU-1030,Coffee Maker,Home & Kitchen,2025-11-13,12,589.27,7071.24,Mobile App,North,0,0
+SALE-9228,SKU-1027,Winter Jacket,Clothing,2025-07-10,22,580.08,12761.76,B2B Direct,West,0,0
+SALE-9229,SKU-1034,Kitchen Knife Set,Home & Kitchen,2025-06-02,11,335.88,3694.68,Website,West,0,15
+SALE-9230,SKU-1046,Body Lotion,Beauty,2025-10-17,38,43.01,1634.38,B2B Direct,East,0,5
+SALE-9231,SKU-1020,Men T-Shirt,Clothing,2025-06-29,50,445.26,22263.0,Website,East,0,10
+SALE-9232,SKU-1012,Sticky Notes Pack,Office,2025-09-12,15,254.78,3821.7,Website,West,0,15
+SALE-9233,SKU-1009,Laptop Stand,Electronics,2025-06-22,40,101.54,4061.6,Retail Store,South,0,0
+SALE-9234,SKU-1012,Sticky Notes Pack,Office,2026-01-21,23,254.78,5859.94,Marketplace,South,0,5
+SALE-9235,SKU-1003,Gaming Mouse,Electronics,2025-07-25,9,400.7,3606.3,Website,West,0,10
+SALE-9236,SKU-1014,File Folders,Office,2025-08-02,39,290.71,11337.69,Mobile App,Central,0,5
+SALE-9237,SKU-1014,File Folders,Office,2025-04-17,27,290.71,7849.17,B2B Direct,West,0,10
+SALE-9238,SKU-1017,Printer Ink Cartridge,Office,2025-03-11,47,587.04,27590.88,Retail Store,South,0,5
+SALE-9239,SKU-1037,Air Fryer,Home & Kitchen,2025-05-19,37,250.76,9278.12,Website,West,0,0
+SALE-9240,SKU-1049,Serum 30ml,Beauty,2025-11-17,3,573.06,1719.18,Retail Store,Central,0,10
+SALE-9241,SKU-1006,LED Desk Lamp,Electronics,2025-10-21,32,484.57,15506.24,Mobile App,North,0,5
+SALE-9242,SKU-1026,Polo Shirt,Clothing,2025-06-23,9,306.0,2754.0,Marketplace,East,0,0
+SALE-9243,SKU-1030,Coffee Maker,Home & Kitchen,2026-02-09,20,420.91,8418.2,Mobile App,West,0,0
+SALE-9244,SKU-1029,Sport Leggings,Clothing,2025-10-27,50,72.05,3602.5,Mobile App,West,0,0
+SALE-9245,SKU-1029,Sport Leggings,Clothing,2026-02-27,41,72.05,2954.05,Website,North,0,0
+SALE-9246,SKU-1002,Mechanical Keyboard,Electronics,2025-08-02,28,246.09,6890.52,Marketplace,Central,0,0
+SALE-9247,SKU-1043,Sunscreen SPF50,Beauty,2025-04-14,40,334.2,13368.0,Marketplace,North,3,5
+SALE-9248,SKU-1003,Gaming Mouse,Electronics,2025-04-29,25,333.92,8348.0,Marketplace,West,0,0
+SALE-9249,SKU-1041,Shampoo 500ml,Beauty,2025-12-15,46,482.03,22173.38,Website,Central,0,0
+SALE-9250,SKU-1021,Women Jeans,Clothing,2025-07-04,35,366.53,12828.55,Website,West,3,5
+SALE-9251,SKU-1044,Lip Balm,Beauty,2025-06-19,49,572.47,28051.03,Mobile App,East,0,5
+SALE-9252,SKU-1027,Winter Jacket,Clothing,2025-07-23,4,580.08,2320.32,Website,East,0,5
+SALE-9253,SKU-1007,Power Bank,Electronics,2025-10-30,46,304.06,13986.76,B2B Direct,Central,0,0
+SALE-9254,SKU-1043,Sunscreen SPF50,Beauty,2026-02-21,5,334.2,1671.0,Mobile App,West,0,15
+SALE-9255,SKU-1018,Scissors,Office,2025-04-12,7,125.99,881.93,Mobile App,East,0,0
+SALE-9256,SKU-1013,Stapler,Office,2025-11-25,41,274.48,11253.68,Website,East,2,5
+SALE-9257,SKU-1008,Smart Speaker,Electronics,2025-11-01,23,298.21,6858.83,Retail Store,West,0,0
+SALE-9258,SKU-1004,Webcam,Electronics,2025-03-15,15,342.33,5134.95,B2B Direct,East,0,5
+SALE-9259,SKU-1020,Men T-Shirt,Clothing,2025-11-07,38,519.47,19739.86,B2B Direct,Central,0,5
+SALE-9260,SKU-1019,Tape Dispenser,Office,2025-05-30,17,477.85,8123.45,Mobile App,West,2,10
+SALE-9261,SKU-1003,Gaming Mouse,Electronics,2025-05-18,23,333.92,7680.16,Marketplace,West,0,0
+SALE-9262,SKU-1034,Kitchen Knife Set,Home & Kitchen,2025-07-28,12,335.88,4030.56,Mobile App,South,0,0
+SALE-9263,SKU-1020,Men T-Shirt,Clothing,2025-12-23,9,519.47,4675.23,Retail Store,East,0,5
+SALE-9264,SKU-1002,Mechanical Keyboard,Electronics,2026-02-07,21,246.09,5167.89,Marketplace,South,0,20
+SALE-9265,SKU-1034,Kitchen Knife Set,Home & Kitchen,2025-08-05,8,279.9,2239.2,Website,West,0,15
+SALE-9266,SKU-1020,Men T-Shirt,Clothing,2025-05-22,1,371.05,371.05,B2B Direct,Central,0,0
+SALE-9267,SKU-1018,Scissors,Office,2025-12-22,43,176.39,7584.77,Mobile App,Central,3,0
+SALE-9268,SKU-1044,Lip Balm,Beauty,2025-04-30,47,477.06,22421.82,Retail Store,North,0,0
+SALE-9269,SKU-1001,USB-C Hub,Electronics,2025-09-25,40,507.79,20311.6,Mobile App,West,0,0
+SALE-9270,SKU-1041,Shampoo 500ml,Beauty,2025-06-11,38,413.17,15700.46,B2B Direct,South,0,0
+SALE-9271,SKU-1028,Denim Shorts,Clothing,2026-02-13,43,191.99,8255.57,Website,Central,0,0
+SALE-9272,SKU-1038,Mixing Bowls Set,Home & Kitchen,2025-11-20,4,304.26,1217.04,Marketplace,West,0,0
+SALE-9273,SKU-1024,Baseball Cap,Clothing,2025-09-10,1,124.9,124.9,Marketplace,East,0,0
+SALE-9274,SKU-1035,Food Storage Containers,Home & Kitchen,2025-04-17,14,224.6,3144.4,Retail Store,West,0,10
+SALE-9275,SKU-1027,Winter Jacket,Clothing,2025-10-02,9,483.4,4350.6,B2B Direct,Central,0,0
+SALE-9276,SKU-1033,Cutting Board,Home & Kitchen,2025-08-22,5,355.21,1776.05,B2B Direct,West,0,5
+SALE-9277,SKU-1017,Printer Ink Cartridge,Office,2025-10-02,12,587.04,7044.48,B2B Direct,West,0,15
+SALE-9278,SKU-1012,Sticky Notes Pack,Office,2025-06-07,25,305.74,7643.5,Marketplace,Central,0,10
+SALE-9279,SKU-1037,Air Fryer,Home & Kitchen,2025-08-06,32,250.76,8024.32,B2B Direct,West,0,0
+SALE-9280,SKU-1016,Desk Organizer,Office,2025-08-04,41,317.54,13019.14,Retail Store,North,0,0
+SALE-9281,SKU-1011,A4 Paper (Ream),Office,2025-11-10,45,721.43,32464.35,Mobile App,North,0,0
+SALE-9282,SKU-1004,Webcam,Electronics,2026-01-04,48,342.33,16431.84,Marketplace,Central,0,15
+SALE-9283,SKU-1040,Face Moisturizer,Beauty,2026-02-18,31,215.83,6690.73,Website,East,0,0
+SALE-9284,SKU-1016,Desk Organizer,Office,2025-05-26,38,317.54,12066.52,Website,South,0,5
+SALE-9285,SKU-1022,Hoodie,Clothing,2025-05-26,4,85.9,343.6,Marketplace,East,0,20
+SALE-9286,SKU-1003,Gaming Mouse,Electronics,2025-07-30,19,400.7,7613.3,B2B Direct,North,0,5
+SALE-9287,SKU-1048,Toner,Beauty,2025-04-21,39,284.78,11106.42,Mobile App,Central,0,10
+SALE-9288,SKU-1043,Sunscreen SPF50,Beauty,2025-08-05,18,334.2,6015.6,Marketplace,North,0,10
+SALE-9289,SKU-1000,Wireless Earbuds,Electronics,2025-05-13,34,376.49,12800.66,Marketplace,East,0,15
+SALE-9290,SKU-1010,Ballpoint Pens (Box),Office,2025-04-25,14,139.01,1946.14,Mobile App,Central,0,10
+SALE-9291,SKU-1035,Food Storage Containers,Home & Kitchen,2026-01-12,45,224.6,10107.0,B2B Direct,Central,0,10
+SALE-9292,SKU-1007,Power Bank,Electronics,2025-10-03,30,304.06,9121.8,Website,North,1,0
+SALE-9293,SKU-1019,Tape Dispenser,Office,2026-02-20,24,477.85,11468.4,Mobile App,West,0,20
+SALE-9294,SKU-1011,A4 Paper (Ream),Office,2026-03-02,20,515.31,10306.2,Website,North,0,5
+SALE-9295,SKU-1044,Lip Balm,Beauty,2025-06-28,20,572.47,11449.4,Mobile App,South,1,0
+SALE-9296,SKU-1048,Toner,Beauty,2025-04-30,5,284.78,1423.9,Website,West,0,0
+SALE-9297,SKU-1042,Conditioner 500ml,Beauty,2025-11-21,38,87.92,3340.96,Website,West,1,0
+SALE-9298,SKU-1019,Tape Dispenser,Office,2026-02-08,1,477.85,477.85,Website,North,0,15
+SALE-9299,SKU-1011,A4 Paper (Ream),Office,2026-02-10,23,515.31,11852.13,Website,North,0,15
+SALE-9300,SKU-1037,Air Fryer,Home & Kitchen,2025-08-29,23,250.76,5767.48,Mobile App,Central,0,5
+SALE-9301,SKU-1004,Webcam,Electronics,2025-04-23,38,342.33,13008.54,Website,Central,0,20
+SALE-9302,SKU-1010,Ballpoint Pens (Box),Office,2025-12-04,1,194.61,194.61,Website,South,0,0
+SALE-9303,SKU-1044,Lip Balm,Beauty,2025-12-30,12,667.88,8014.56,Retail Store,North,0,20
+SALE-9304,SKU-1027,Winter Jacket,Clothing,2025-06-21,33,580.08,19142.64,Mobile App,West,0,0
+SALE-9305,SKU-1029,Sport Leggings,Clothing,2025-04-29,34,72.05,2449.7,Mobile App,West,0,5
+SALE-9306,SKU-1002,Mechanical Keyboard,Electronics,2025-04-15,21,246.09,5167.89,Retail Store,North,0,5
+SALE-9307,SKU-1019,Tape Dispenser,Office,2026-02-18,29,477.85,13857.65,Mobile App,Central,0,15
+SALE-9308,SKU-1012,Sticky Notes Pack,Office,2025-04-08,31,254.78,7898.18,Marketplace,South,1,0
+SALE-9309,SKU-1006,LED Desk Lamp,Electronics,2025-09-22,29,484.57,14052.53,B2B Direct,North,0,0
+SALE-9310,SKU-1037,Air Fryer,Home & Kitchen,2025-04-25,48,250.76,12036.48,Mobile App,North,2,0
+SALE-9311,SKU-1038,Mixing Bowls Set,Home & Kitchen,2025-09-26,8,217.33,1738.64,Mobile App,West,0,10
+SALE-9312,SKU-1049,Serum 30ml,Beauty,2025-12-26,38,573.06,21776.28,Marketplace,West,0,5
+SALE-9313,SKU-1025,Socks (Pack-6),Clothing,2025-11-07,33,548.8,18110.4,Marketplace,South,0,0
+SALE-9314,SKU-1031,Blender,Home & Kitchen,2025-06-30,41,604.9,24800.9,Mobile App,North,0,10
+SALE-9315,SKU-1031,Blender,Home & Kitchen,2026-02-14,2,504.08,1008.16,Mobile App,West,0,0
+SALE-9316,SKU-1039,Dish Rack,Home & Kitchen,2026-01-17,7,325.0,2275.0,Website,Central,0,0
+SALE-9317,SKU-1042,Conditioner 500ml,Beauty,2025-11-13,32,87.92,2813.44,B2B Direct,East,0,15
+SALE-9318,SKU-1034,Kitchen Knife Set,Home & Kitchen,2025-03-13,49,279.9,13715.1,Website,West,0,0
+SALE-9319,SKU-1024,Baseball Cap,Clothing,2025-10-16,30,124.9,3747.0,Website,North,0,15
+SALE-9320,SKU-1019,Tape Dispenser,Office,2026-02-28,11,477.85,5256.35,Retail Store,West,0,0
+SALE-9321,SKU-1048,Toner,Beauty,2025-04-29,37,284.78,10536.86,Retail Store,Central,0,0
+SALE-9322,SKU-1035,Food Storage Containers,Home & Kitchen,2025-05-23,33,224.6,7411.8,Website,West,0,20
+SALE-9323,SKU-1039,Dish Rack,Home & Kitchen,2026-02-13,23,325.0,7475.0,Marketplace,East,0,0
+SALE-9324,SKU-1023,Running Shoes,Clothing,2025-08-29,48,410.32,19695.36,B2B Direct,North,0,0
+SALE-9325,SKU-1022,Hoodie,Clothing,2025-09-02,27,85.9,2319.3,Marketplace,North,0,0
+SALE-9326,SKU-1019,Tape Dispenser,Office,2026-01-01,6,477.85,2867.1,Website,East,0,0
+SALE-9327,SKU-1020,Men T-Shirt,Clothing,2025-03-23,30,371.05,11131.5,Retail Store,Central,3,0
+SALE-9328,SKU-1044,Lip Balm,Beauty,2025-10-30,38,477.06,18128.28,Website,East,0,0
+SALE-9329,SKU-1006,LED Desk Lamp,Electronics,2025-11-09,7,678.4,4748.8,Mobile App,East,0,10
+SALE-9330,SKU-1021,Women Jeans,Clothing,2025-05-28,40,305.44,12217.6,Marketplace,East,0,5
+SALE-9331,SKU-1004,Webcam,Electronics,2025-12-03,14,479.26,6709.64,Marketplace,East,0,5
+SALE-9332,SKU-1014,File Folders,Office,2026-01-17,48,290.71,13954.08,Website,Central,0,0
+SALE-9333,SKU-1036,Electric Kettle,Home & Kitchen,2025-11-30,31,56.48,1750.88,Retail Store,South,0,5
+SALE-9334,SKU-1019,Tape Dispenser,Office,2025-11-17,20,668.99,13379.8,Retail Store,Central,0,0
+SALE-9335,SKU-1039,Dish Rack,Home & Kitchen,2025-11-22,30,455.0,13650.0,B2B Direct,South,0,5
+SALE-9336,SKU-1011,A4 Paper (Ream),Office,2025-12-24,32,721.43,23085.76,Mobile App,West,2,5
+SALE-9337,SKU-1039,Dish Rack,Home & Kitchen,2025-10-12,37,325.0,12025.0,Website,Central,0,0
+SALE-9338,SKU-1009,Laptop Stand,Electronics,2026-02-17,49,84.62,4146.38,Marketplace,West,0,10
+SALE-9339,SKU-1004,Webcam,Electronics,2026-01-22,14,342.33,4792.62,Retail Store,East,0,0
+SALE-9340,SKU-1038,Mixing Bowls Set,Home & Kitchen,2025-07-02,26,260.8,6780.8,Mobile App,North,0,0
+SALE-9341,SKU-1019,Tape Dispenser,Office,2025-10-27,32,477.85,15291.2,B2B Direct,West,0,0
+SALE-9342,SKU-1010,Ballpoint Pens (Box),Office,2025-07-21,9,166.81,1501.29,Website,East,0,0
+SALE-9343,SKU-1002,Mechanical Keyboard,Electronics,2025-11-07,2,344.53,689.06,Website,North,0,15
+SALE-9344,SKU-1026,Polo Shirt,Clothing,2025-09-06,43,255.0,10965.0,Website,West,0,0
+SALE-9345,SKU-1036,Electric Kettle,Home & Kitchen,2025-11-15,8,56.48,451.84,B2B Direct,Central,0,15
+SALE-9346,SKU-1015,Whiteboard Markers,Office,2026-01-05,8,254.73,2037.84,Marketplace,East,0,10
+SALE-9347,SKU-1047,Eye Cream,Beauty,2025-07-02,28,87.85,2459.8,Mobile App,South,0,20
+SALE-9348,SKU-1028,Denim Shorts,Clothing,2025-09-29,17,191.99,3263.83,B2B Direct,North,0,5
+SALE-9349,SKU-1007,Power Bank,Electronics,2025-08-13,35,304.06,10642.1,Retail Store,West,0,0
+SALE-9350,SKU-1009,Laptop Stand,Electronics,2025-09-05,31,84.62,2623.22,Marketplace,East,0,15
+SALE-9351,SKU-1002,Mechanical Keyboard,Electronics,2026-02-06,4,246.09,984.36,Mobile App,East,0,5
+SALE-9352,SKU-1044,Lip Balm,Beauty,2025-09-05,44,477.06,20990.64,Website,Central,0,0
+SALE-9353,SKU-1025,Socks (Pack-6),Clothing,2025-07-12,20,470.4,9408.0,Website,South,0,15
+SALE-9354,SKU-1028,Denim Shorts,Clothing,2026-01-21,21,191.99,4031.79,Retail Store,North,0,10
+SALE-9355,SKU-1031,Blender,Home & Kitchen,2025-10-31,48,504.08,24195.84,Retail Store,East,0,15
+SALE-9356,SKU-1006,LED Desk Lamp,Electronics,2025-05-25,45,484.57,21805.65,Marketplace,Central,0,5
+SALE-9357,SKU-1035,Food Storage Containers,Home & Kitchen,2025-08-18,30,224.6,6738.0,Website,North,0,5
+SALE-9358,SKU-1041,Shampoo 500ml,Beauty,2025-05-12,1,344.31,344.31,Retail Store,South,0,5
+SALE-9359,SKU-1007,Power Bank,Electronics,2025-05-23,16,304.06,4864.96,B2B Direct,South,0,10
+SALE-9360,SKU-1020,Men T-Shirt,Clothing,2025-10-21,31,371.05,11502.55,Mobile App,East,0,10
+SALE-9361,SKU-1018,Scissors,Office,2025-06-13,6,151.19,907.14,Retail Store,East,0,0
+SALE-9362,SKU-1036,Electric Kettle,Home & Kitchen,2025-06-26,2,48.41,96.82,Website,Central,0,0
+SALE-9363,SKU-1005,Monitor Stand,Electronics,2025-10-26,13,357.41,4646.33,Marketplace,South,0,0
+SALE-9364,SKU-1016,Desk Organizer,Office,2025-05-19,6,317.54,1905.24,Marketplace,South,0,10
+SALE-9365,SKU-1027,Winter Jacket,Clothing,2025-10-22,44,483.4,21269.6,Retail Store,North,0,0
+SALE-9366,SKU-1017,Printer Ink Cartridge,Office,2025-07-29,48,704.45,33813.6,Retail Store,West,0,0
+SALE-9367,SKU-1013,Stapler,Office,2025-07-26,47,235.27,11057.69,Mobile App,West,0,0
+SALE-9368,SKU-1018,Scissors,Office,2025-07-16,16,151.19,2419.04,B2B Direct,West,0,5
+SALE-9369,SKU-1029,Sport Leggings,Clothing,2025-04-16,1,72.05,72.05,Retail Store,South,2,0
+SALE-9370,SKU-1013,Stapler,Office,2025-09-16,46,196.06,9018.76,Retail Store,Central,0,5
+SALE-9371,SKU-1003,Gaming Mouse,Electronics,2025-08-21,16,333.92,5342.72,Retail Store,East,3,20
+SALE-9372,SKU-1038,Mixing Bowls Set,Home & Kitchen,2026-03-02,48,217.33,10431.84,Website,North,0,0
+SALE-9373,SKU-1025,Socks (Pack-6),Clothing,2026-02-10,24,392.0,9408.0,Mobile App,Central,0,0
+SALE-9374,SKU-1032,Non-stick Pan,Home & Kitchen,2025-11-11,22,530.28,11666.16,Retail Store,South,0,5
+SALE-9375,SKU-1009,Laptop Stand,Electronics,2025-07-15,8,101.54,812.32,Marketplace,North,0,20
+SALE-9376,SKU-1017,Printer Ink Cartridge,Office,2025-09-04,28,587.04,16437.12,Marketplace,East,0,15
+SALE-9377,SKU-1033,Cutting Board,Home & Kitchen,2025-08-11,28,355.21,9945.88,Mobile App,East,3,10
+SALE-9378,SKU-1009,Laptop Stand,Electronics,2025-12-13,43,118.47,5094.21,Retail Store,North,0,0
+SALE-9379,SKU-1002,Mechanical Keyboard,Electronics,2025-10-30,17,246.09,4183.53,Mobile App,West,0,15
+SALE-9380,SKU-1031,Blender,Home & Kitchen,2025-03-24,29,504.08,14618.32,Marketplace,Central,0,0
+SALE-9381,SKU-1046,Body Lotion,Beauty,2025-05-18,8,43.01,344.08,Marketplace,North,0,0
+SALE-9382,SKU-1010,Ballpoint Pens (Box),Office,2025-11-19,18,194.61,3502.98,B2B Direct,Central,0,20
+SALE-9383,SKU-1033,Cutting Board,Home & Kitchen,2025-12-21,12,497.29,5967.48,Retail Store,North,0,5
+SALE-9384,SKU-1021,Women Jeans,Clothing,2025-03-17,19,305.44,5803.36,Website,West,0,20
+SALE-9385,SKU-1020,Men T-Shirt,Clothing,2025-05-21,2,371.05,742.1,Website,West,0,0
+SALE-9386,SKU-1017,Printer Ink Cartridge,Office,2026-01-02,43,587.04,25242.72,Website,East,0,20
+SALE-9387,SKU-1020,Men T-Shirt,Clothing,2025-12-20,9,519.47,4675.23,Mobile App,North,0,10
+SALE-9388,SKU-1047,Eye Cream,Beauty,2025-04-09,36,73.21,2635.56,B2B Direct,West,0,0
+SALE-9389,SKU-1049,Serum 30ml,Beauty,2025-09-24,6,409.33,2455.98,Website,South,0,0
+SALE-9390,SKU-1041,Shampoo 500ml,Beauty,2026-02-01,10,344.31,3443.1,Website,East,0,10
+SALE-9391,SKU-1019,Tape Dispenser,Office,2026-02-17,39,477.85,18636.15,Mobile App,East,0,0
+SALE-9392,SKU-1012,Sticky Notes Pack,Office,2025-11-09,29,356.69,10344.01,Retail Store,West,0,0
+SALE-9393,SKU-1048,Toner,Beauty,2025-10-06,24,284.78,6834.72,B2B Direct,South,0,0
+SALE-9394,SKU-1032,Non-stick Pan,Home & Kitchen,2025-08-25,30,378.77,11363.1,Mobile App,South,0,5
+SALE-9395,SKU-1005,Monitor Stand,Electronics,2025-07-30,30,428.89,12866.7,Retail Store,North,0,20
+SALE-9396,SKU-1043,Sunscreen SPF50,Beauty,2025-08-04,16,334.2,5347.2,B2B Direct,West,0,5
+SALE-9397,SKU-1002,Mechanical Keyboard,Electronics,2025-11-21,7,344.53,2411.71,B2B Direct,West,0,5
+SALE-9398,SKU-1036,Electric Kettle,Home & Kitchen,2025-07-11,23,48.41,1113.43,Marketplace,Central,0,0
+SALE-9399,SKU-1047,Eye Cream,Beauty,2026-02-05,30,73.21,2196.3,Mobile App,South,0,0
+SALE-9400,SKU-1045,Hand Cream,Beauty,2025-08-03,21,336.24,7061.04,B2B Direct,West,0,10
+SALE-9401,SKU-1021,Women Jeans,Clothing,2025-06-07,14,366.53,5131.42,Mobile App,North,3,0
+SALE-9402,SKU-1043,Sunscreen SPF50,Beauty,2025-04-27,28,334.2,9357.6,B2B Direct,North,0,0
+SALE-9403,SKU-1041,Shampoo 500ml,Beauty,2025-11-03,30,482.03,14460.9,Retail Store,Central,0,5
+SALE-9404,SKU-1039,Dish Rack,Home & Kitchen,2025-09-04,45,325.0,14625.0,Retail Store,East,0,0
+SALE-9405,SKU-1007,Power Bank,Electronics,2025-03-12,45,304.06,13682.7,Mobile App,North,0,0
+SALE-9406,SKU-1015,Whiteboard Markers,Office,2025-10-13,41,254.73,10443.93,B2B Direct,South,0,0
+SALE-9407,SKU-1030,Coffee Maker,Home & Kitchen,2025-10-06,2,420.91,841.82,Website,South,0,0
+SALE-9408,SKU-1031,Blender,Home & Kitchen,2025-10-31,2,504.08,1008.16,Retail Store,Central,0,5
+SALE-9409,SKU-1025,Socks (Pack-6),Clothing,2025-03-30,22,392.0,8624.0,Website,North,0,0
+SALE-9410,SKU-1026,Polo Shirt,Clothing,2025-11-12,48,357.0,17136.0,B2B Direct,Central,0,0
+SALE-9411,SKU-1031,Blender,Home & Kitchen,2025-09-24,32,504.08,16130.56,B2B Direct,Central,0,5
+SALE-9412,SKU-1031,Blender,Home & Kitchen,2025-06-30,46,604.9,27825.4,Website,Central,0,0
+SALE-9413,SKU-1004,Webcam,Electronics,2025-07-19,42,410.8,17253.6,Retail Store,West,0,15
+SALE-9414,SKU-1022,Hoodie,Clothing,2025-10-19,45,85.9,3865.5,Retail Store,North,0,0
+SALE-9415,SKU-1022,Hoodie,Clothing,2025-10-14,15,85.9,1288.5,B2B Direct,South,3,0
+SALE-9416,SKU-1038,Mixing Bowls Set,Home & Kitchen,2026-02-03,30,217.33,6519.9,Mobile App,East,0,20
+SALE-9417,SKU-1043,Sunscreen SPF50,Beauty,2026-02-01,48,334.2,16041.6,Marketplace,West,0,0
+SALE-9418,SKU-1047,Eye Cream,Beauty,2025-04-17,43,73.21,3148.03,Retail Store,South,0,5
+SALE-9419,SKU-1006,LED Desk Lamp,Electronics,2025-10-02,32,484.57,15506.24,Marketplace,South,0,20
+SALE-9420,SKU-1022,Hoodie,Clothing,2025-07-15,23,103.08,2370.84,Mobile App,South,0,0
+SALE-9421,SKU-1027,Winter Jacket,Clothing,2025-05-01,40,483.4,19336.0,Mobile App,North,0,0
+SALE-9422,SKU-1021,Women Jeans,Clothing,2025-09-01,50,305.44,15272.0,Website,Central,0,15
+SALE-9423,SKU-1032,Non-stick Pan,Home & Kitchen,2026-01-07,43,378.77,16287.11,Website,North,0,20
+SALE-9424,SKU-1048,Toner,Beauty,2025-04-29,7,284.78,1993.46,B2B Direct,Central,0,0
+SALE-9425,SKU-1006,LED Desk Lamp,Electronics,2025-05-28,41,484.57,19867.37,Website,South,0,0
+SALE-9426,SKU-1028,Denim Shorts,Clothing,2025-11-18,32,268.79,8601.28,Website,South,0,10
+SALE-9427,SKU-1007,Power Bank,Electronics,2025-06-15,29,364.87,10581.23,Retail Store,North,0,0
+SALE-9428,SKU-1018,Scissors,Office,2025-11-17,11,176.39,1940.29,Website,East,0,0
+SALE-9429,SKU-1040,Face Moisturizer,Beauty,2026-02-07,16,215.83,3453.28,Mobile App,Central,0,0
+SALE-9430,SKU-1027,Winter Jacket,Clothing,2025-10-01,27,483.4,13051.8,Retail Store,Central,0,0
+SALE-9431,SKU-1009,Laptop Stand,Electronics,2025-03-09,46,84.62,3892.52,B2B Direct,North,0,0
+SALE-9432,SKU-1049,Serum 30ml,Beauty,2025-05-27,28,409.33,11461.24,Website,West,0,5
+SALE-9433,SKU-1036,Electric Kettle,Home & Kitchen,2025-04-02,41,40.34,1653.94,B2B Direct,East,0,5
+SALE-9434,SKU-1035,Food Storage Containers,Home & Kitchen,2025-08-06,47,224.6,10556.2,Marketplace,East,0,15
+SALE-9435,SKU-1039,Dish Rack,Home & Kitchen,2025-05-18,45,325.0,14625.0,Retail Store,West,0,5
+SALE-9436,SKU-1039,Dish Rack,Home & Kitchen,2026-01-31,29,325.0,9425.0,Marketplace,West,0,0
+SALE-9437,SKU-1034,Kitchen Knife Set,Home & Kitchen,2025-08-22,25,279.9,6997.5,Mobile App,Central,0,0
+SALE-9438,SKU-1035,Food Storage Containers,Home & Kitchen,2025-08-10,34,224.6,7636.4,Marketplace,South,0,10
+SALE-9439,SKU-1037,Air Fryer,Home & Kitchen,2025-07-14,16,300.91,4814.56,Marketplace,West,0,0
+SALE-9440,SKU-1023,Running Shoes,Clothing,2025-07-14,41,492.38,20187.58,B2B Direct,East,0,5
+SALE-9441,SKU-1007,Power Bank,Electronics,2025-10-19,20,304.06,6081.2,B2B Direct,North,0,0
+SALE-9442,SKU-1047,Eye Cream,Beauty,2025-12-26,37,102.49,3792.13,B2B Direct,Central,0,0
+SALE-9443,SKU-1045,Hand Cream,Beauty,2025-12-22,44,470.74,20712.56,Mobile App,West,0,0
+SALE-9444,SKU-1033,Cutting Board,Home & Kitchen,2025-12-27,13,497.29,6464.77,Marketplace,West,0,0
+SALE-9445,SKU-1026,Polo Shirt,Clothing,2025-04-14,6,255.0,1530.0,Website,West,0,0
+SALE-9446,SKU-1023,Running Shoes,Clothing,2026-02-13,34,410.32,13950.88,Retail Store,Central,0,0
+SALE-9447,SKU-1016,Desk Organizer,Office,2025-12-28,32,444.56,14225.92,Retail Store,West,3,0
+SALE-9448,SKU-1026,Polo Shirt,Clothing,2025-05-26,10,255.0,2550.0,B2B Direct,South,0,0
+SALE-9449,SKU-1045,Hand Cream,Beauty,2025-11-21,34,470.74,16005.16,Website,South,0,10
+SALE-9450,SKU-1035,Food Storage Containers,Home & Kitchen,2025-09-09,8,224.6,1796.8,B2B Direct,West,0,5
+SALE-9451,SKU-1002,Mechanical Keyboard,Electronics,2025-11-26,10,344.53,3445.3,Website,East,2,0
+SALE-9452,SKU-1031,Blender,Home & Kitchen,2025-03-18,10,504.08,5040.8,Mobile App,Central,0,15
+SALE-9453,SKU-1018,Scissors,Office,2025-06-22,12,151.19,1814.28,Retail Store,North,0,0
+SALE-9454,SKU-1002,Mechanical Keyboard,Electronics,2025-10-03,31,246.09,7628.79,B2B Direct,East,0,0
+SALE-9455,SKU-1024,Baseball Cap,Clothing,2025-11-02,47,174.86,8218.42,B2B Direct,South,0,0
+SALE-9456,SKU-1028,Denim Shorts,Clothing,2026-02-08,29,191.99,5567.71,Mobile App,East,0,5
+SALE-9457,SKU-1026,Polo Shirt,Clothing,2025-09-18,15,255.0,3825.0,Retail Store,East,0,5
+SALE-9458,SKU-1028,Denim Shorts,Clothing,2025-07-24,42,230.39,9676.38,Website,South,0,5
+SALE-9459,SKU-1049,Serum 30ml,Beauty,2026-03-01,20,409.33,8186.6,B2B Direct,North,0,0
+SALE-9460,SKU-1039,Dish Rack,Home & Kitchen,2025-12-06,37,455.0,16835.0,Website,Central,0,0
+SALE-9461,SKU-1001,USB-C Hub,Electronics,2025-05-04,43,507.79,21834.97,B2B Direct,South,0,0
+SALE-9462,SKU-1045,Hand Cream,Beauty,2025-12-25,29,470.74,13651.46,Website,Central,0,5
+SALE-9463,SKU-1031,Blender,Home & Kitchen,2025-03-15,22,504.08,11089.76,Retail Store,South,0,5
+SALE-9464,SKU-1024,Baseball Cap,Clothing,2025-07-13,6,149.88,899.28,Website,North,0,0
+SALE-9465,SKU-1016,Desk Organizer,Office,2025-04-18,10,317.54,3175.4,Marketplace,West,0,5
+SALE-9466,SKU-1020,Men T-Shirt,Clothing,2025-06-04,2,445.26,890.52,Website,East,0,0
+SALE-9467,SKU-1020,Men T-Shirt,Clothing,2025-07-14,25,445.26,11131.5,Website,North,0,5
+SALE-9468,SKU-1015,Whiteboard Markers,Office,2025-11-11,33,356.62,11768.46,B2B Direct,West,0,0
+SALE-9469,SKU-1035,Food Storage Containers,Home & Kitchen,2025-09-28,5,224.6,1123.0,Retail Store,North,0,15
+SALE-9470,SKU-1001,USB-C Hub,Electronics,2025-07-19,36,609.35,21936.6,B2B Direct,North,0,5
+SALE-9471,SKU-1008,Smart Speaker,Electronics,2025-08-06,37,213.01,7881.37,Retail Store,West,0,5
+SALE-9472,SKU-1009,Laptop Stand,Electronics,2025-09-11,35,84.62,2961.7,Mobile App,South,3,20
+SALE-9473,SKU-1035,Food Storage Containers,Home & Kitchen,2025-10-21,3,224.6,673.8,Website,West,0,20
+SALE-9474,SKU-1000,Wireless Earbuds,Electronics,2025-04-03,31,376.49,11671.19,Marketplace,Central,0,0
+SALE-9475,SKU-1022,Hoodie,Clothing,2026-01-21,14,85.9,1202.6,B2B Direct,Central,0,10
+SALE-9476,SKU-1036,Electric Kettle,Home & Kitchen,2025-04-08,20,40.34,806.8,Website,West,0,0
+SALE-9477,SKU-1035,Food Storage Containers,Home & Kitchen,2025-07-25,28,269.52,7546.56,Mobile App,Central,3,0
+SALE-9478,SKU-1043,Sunscreen SPF50,Beauty,2025-08-26,41,334.2,13702.2,Marketplace,West,0,20
+SALE-9479,SKU-1021,Women Jeans,Clothing,2025-06-19,30,366.53,10995.9,B2B Direct,East,1,0
+SALE-9480,SKU-1000,Wireless Earbuds,Electronics,2026-01-09,31,376.49,11671.19,Website,North,0,5
+SALE-9481,SKU-1044,Lip Balm,Beauty,2026-02-27,32,477.06,15265.92,Retail Store,Central,0,5
+SALE-9482,SKU-1004,Webcam,Electronics,2025-12-04,2,479.26,958.52,Retail Store,North,2,0
+SALE-9483,SKU-1038,Mixing Bowls Set,Home & Kitchen,2025-09-03,25,217.33,5433.25,Mobile App,North,0,15
+SALE-9484,SKU-1028,Denim Shorts,Clothing,2025-03-08,15,191.99,2879.85,Website,East,3,0
+SALE-9485,SKU-1005,Monitor Stand,Electronics,2026-01-12,41,357.41,14653.81,Marketplace,South,1,20
+SALE-9486,SKU-1002,Mechanical Keyboard,Electronics,2025-07-25,32,295.31,9449.92,B2B Direct,South,0,10
+SALE-9487,SKU-1025,Socks (Pack-6),Clothing,2025-04-29,18,392.0,7056.0,B2B Direct,Central,0,0
+SALE-9488,SKU-1047,Eye Cream,Beauty,2025-12-18,44,102.49,4509.56,B2B Direct,Central,0,0
+SALE-9489,SKU-1004,Webcam,Electronics,2025-05-08,17,342.33,5819.61,B2B Direct,South,0,0
+SALE-9490,SKU-1043,Sunscreen SPF50,Beauty,2025-03-15,45,334.2,15039.0,B2B Direct,Central,0,15
+SALE-9491,SKU-1000,Wireless Earbuds,Electronics,2025-10-08,42,376.49,15812.58,Website,East,0,0
+SALE-9492,SKU-1007,Power Bank,Electronics,2026-02-15,34,304.06,10338.04,Retail Store,West,0,0
+SALE-9493,SKU-1046,Body Lotion,Beauty,2025-06-26,4,51.61,206.44,Marketplace,West,0,0
+SALE-9494,SKU-1012,Sticky Notes Pack,Office,2025-08-22,6,254.78,1528.68,B2B Direct,North,0,5
+SALE-9495,SKU-1004,Webcam,Electronics,2025-07-09,13,410.8,5340.4,Mobile App,East,0,5
+SALE-9496,SKU-1001,USB-C Hub,Electronics,2025-11-04,28,710.91,19905.48,Website,Central,3,10
+SALE-9497,SKU-1015,Whiteboard Markers,Office,2025-04-28,31,254.73,7896.63,Mobile App,East,0,5
+SALE-9498,SKU-1015,Whiteboard Markers,Office,2025-04-10,50,254.73,12736.5,B2B Direct,Central,0,5
+SALE-9499,SKU-1037,Air Fryer,Home & Kitchen,2025-05-06,6,250.76,1504.56,Website,North,0,10
+SALE-9500,SKU-1004,Webcam,Electronics,2025-05-08,4,342.33,1369.32,Retail Store,North,0,0
+SALE-9501,SKU-1006,LED Desk Lamp,Electronics,2026-02-13,4,484.57,1938.28,B2B Direct,North,0,0
+SALE-9502,SKU-1039,Dish Rack,Home & Kitchen,2025-09-30,15,325.0,4875.0,B2B Direct,Central,0,0
+SALE-9503,SKU-1027,Winter Jacket,Clothing,2026-01-15,40,483.4,19336.0,Website,East,3,10
+SALE-9504,SKU-1029,Sport Leggings,Clothing,2025-11-23,22,100.87,2219.14,B2B Direct,South,0,5
+SALE-9505,SKU-1004,Webcam,Electronics,2026-01-01,13,342.33,4450.29,B2B Direct,South,0,0
+SALE-9506,SKU-1030,Coffee Maker,Home & Kitchen,2026-01-15,29,420.91,12206.39,Mobile App,South,0,0
+SALE-9507,SKU-1019,Tape Dispenser,Office,2025-12-28,28,668.99,18731.72,B2B Direct,East,0,5
+SALE-9508,SKU-1009,Laptop Stand,Electronics,2025-05-18,31,84.62,2623.22,Marketplace,Central,0,20
+SALE-9509,SKU-1033,Cutting Board,Home & Kitchen,2025-12-29,43,497.29,21383.47,Mobile App,North,0,10
+SALE-9510,SKU-1003,Gaming Mouse,Electronics,2025-10-06,23,333.92,7680.16,Mobile App,South,3,10
+SALE-9511,SKU-1021,Women Jeans,Clothing,2025-06-08,43,366.53,15760.79,Retail Store,West,0,15
+SALE-9512,SKU-1036,Electric Kettle,Home & Kitchen,2025-08-22,40,40.34,1613.6,Marketplace,West,0,0
+SALE-9513,SKU-1002,Mechanical Keyboard,Electronics,2025-11-12,15,344.53,5167.95,Website,South,0,5
+SALE-9514,SKU-1015,Whiteboard Markers,Office,2025-11-05,48,356.62,17117.76,Marketplace,West,0,10
+SALE-9515,SKU-1000,Wireless Earbuds,Electronics,2025-09-05,1,376.49,376.49,Website,East,0,0
+SALE-9516,SKU-1028,Denim Shorts,Clothing,2025-06-11,41,230.39,9445.99,B2B Direct,East,1,0
+SALE-9517,SKU-1018,Scissors,Office,2025-06-01,15,151.19,2267.85,Marketplace,South,0,0
+SALE-9518,SKU-1012,Sticky Notes Pack,Office,2025-03-15,12,254.78,3057.36,Marketplace,North,0,0
+SALE-9519,SKU-1041,Shampoo 500ml,Beauty,2025-04-29,22,344.31,7574.82,Mobile App,East,0,10
+SALE-9520,SKU-1042,Conditioner 500ml,Beauty,2025-05-30,34,62.8,2135.2,B2B Direct,West,0,0
+SALE-9521,SKU-1008,Smart Speaker,Electronics,2025-06-09,13,255.61,3322.93,B2B Direct,West,0,5
+SALE-9522,SKU-1040,Face Moisturizer,Beauty,2025-07-07,3,259.0,777.0,B2B Direct,Central,0,0
+SALE-9523,SKU-1009,Laptop Stand,Electronics,2025-08-18,16,84.62,1353.92,Website,East,0,20
+SALE-9524,SKU-1031,Blender,Home & Kitchen,2025-06-19,47,604.9,28430.3,Website,West,0,0
+SALE-9525,SKU-1024,Baseball Cap,Clothing,2026-01-28,49,124.9,6120.1,B2B Direct,East,0,0
+SALE-9526,SKU-1045,Hand Cream,Beauty,2025-09-11,34,336.24,11432.16,Retail Store,West,0,0
+SALE-9527,SKU-1037,Air Fryer,Home & Kitchen,2026-01-30,3,250.76,752.28,Mobile App,South,0,0
+SALE-9528,SKU-1013,Stapler,Office,2025-08-07,28,196.06,5489.68,Retail Store,Central,1,0
+SALE-9529,SKU-1035,Food Storage Containers,Home & Kitchen,2025-04-16,9,224.6,2021.4,Website,East,0,0
+SALE-9530,SKU-1002,Mechanical Keyboard,Electronics,2025-10-28,33,246.09,8120.97,B2B Direct,East,0,0
+SALE-9531,SKU-1023,Running Shoes,Clothing,2025-11-13,21,574.45,12063.45,Marketplace,West,0,0
+SALE-9532,SKU-1041,Shampoo 500ml,Beauty,2025-04-11,23,344.31,7919.13,Website,East,0,5
+SALE-9533,SKU-1017,Printer Ink Cartridge,Office,2025-06-28,7,704.45,4931.15,Website,North,0,0
+SALE-9534,SKU-1012,Sticky Notes Pack,Office,2026-02-12,22,254.78,5605.16,Marketplace,East,0,5
+SALE-9535,SKU-1017,Printer Ink Cartridge,Office,2025-06-09,46,704.45,32404.7,B2B Direct,South,0,15
+SALE-9536,SKU-1000,Wireless Earbuds,Electronics,2025-08-04,19,376.49,7153.31,Marketplace,West,0,10
+SALE-9537,SKU-1000,Wireless Earbuds,Electronics,2025-10-31,42,376.49,15812.58,B2B Direct,South,0,10
+SALE-9538,SKU-1013,Stapler,Office,2025-11-01,15,274.48,4117.2,B2B Direct,Central,0,10
+SALE-9539,SKU-1029,Sport Leggings,Clothing,2025-08-25,6,72.05,432.3,Marketplace,South,0,5
+SALE-9540,SKU-1013,Stapler,Office,2025-10-14,29,196.06,5685.74,B2B Direct,North,0,15
+SALE-9541,SKU-1019,Tape Dispenser,Office,2025-03-08,32,477.85,15291.2,Marketplace,East,0,5
+SALE-9542,SKU-1025,Socks (Pack-6),Clothing,2026-02-20,35,392.0,13720.0,Marketplace,East,0,10
+SALE-9543,SKU-1008,Smart Speaker,Electronics,2025-05-21,22,213.01,4686.22,B2B Direct,Central,0,0
+SALE-9544,SKU-1024,Baseball Cap,Clothing,2025-06-16,26,149.88,3896.88,Website,Central,0,0
+SALE-9545,SKU-1036,Electric Kettle,Home & Kitchen,2025-10-21,41,40.34,1653.94,Marketplace,North,0,5
+SALE-9546,SKU-1002,Mechanical Keyboard,Electronics,2026-02-19,39,246.09,9597.51,Retail Store,North,0,15
+SALE-9547,SKU-1024,Baseball Cap,Clothing,2025-07-27,14,149.88,2098.32,Mobile App,East,0,0
+SALE-9548,SKU-1023,Running Shoes,Clothing,2025-11-24,1,574.45,574.45,Mobile App,East,0,20
+SALE-9549,SKU-1008,Smart Speaker,Electronics,2025-12-03,27,298.21,8051.67,Retail Store,North,2,15
+SALE-9550,SKU-1008,Smart Speaker,Electronics,2025-06-17,20,255.61,5112.2,Retail Store,West,0,15
+SALE-9551,SKU-1037,Air Fryer,Home & Kitchen,2025-06-15,33,300.91,9930.03,Retail Store,East,0,0
+SALE-9552,SKU-1004,Webcam,Electronics,2025-09-24,39,342.33,13350.87,Mobile App,Central,2,15
+SALE-9553,SKU-1029,Sport Leggings,Clothing,2025-10-26,37,72.05,2665.85,Website,North,0,15
+SALE-9554,SKU-1022,Hoodie,Clothing,2026-02-25,46,85.9,3951.4,Marketplace,West,0,10
+SALE-9555,SKU-1026,Polo Shirt,Clothing,2025-07-09,12,306.0,3672.0,B2B Direct,West,0,5
+SALE-9556,SKU-1044,Lip Balm,Beauty,2025-12-20,7,667.88,4675.16,Retail Store,North,0,0
+SALE-9557,SKU-1040,Face Moisturizer,Beauty,2025-12-04,19,302.16,5741.04,Website,South,0,10
+SALE-9558,SKU-1007,Power Bank,Electronics,2025-09-08,5,304.06,1520.3,Website,Central,0,0
+SALE-9559,SKU-1013,Stapler,Office,2025-11-18,3,274.48,823.44,Retail Store,North,0,5
+SALE-9560,SKU-1029,Sport Leggings,Clothing,2025-09-15,22,72.05,1585.1,Retail Store,South,0,0
+SALE-9561,SKU-1045,Hand Cream,Beauty,2025-05-12,21,336.24,7061.04,Retail Store,West,0,5
+SALE-9562,SKU-1015,Whiteboard Markers,Office,2025-10-14,9,254.73,2292.57,Retail Store,East,0,0
+SALE-9563,SKU-1006,LED Desk Lamp,Electronics,2025-06-02,19,581.48,11048.12,Website,Central,0,0
+SALE-9564,SKU-1048,Toner,Beauty,2025-03-09,44,284.78,12530.32,Marketplace,South,0,0
+SALE-9565,SKU-1002,Mechanical Keyboard,Electronics,2026-02-12,35,246.09,8613.15,Mobile App,West,0,5
+SALE-9566,SKU-1033,Cutting Board,Home & Kitchen,2026-01-26,43,355.21,15274.03,Website,West,0,0
+SALE-9567,SKU-1000,Wireless Earbuds,Electronics,2025-03-28,50,376.49,18824.5,Retail Store,South,0,0
+SALE-9568,SKU-1005,Monitor Stand,Electronics,2025-03-12,27,357.41,9650.07,Website,North,0,5
+SALE-9569,SKU-1004,Webcam,Electronics,2025-06-24,7,410.8,2875.6,Mobile App,South,0,0
+SALE-9570,SKU-1020,Men T-Shirt,Clothing,2025-08-16,36,371.05,13357.8,Mobile App,Central,1,0
+SALE-9571,SKU-1027,Winter Jacket,Clothing,2025-05-04,15,483.4,7251.0,Mobile App,North,0,0
+SALE-9572,SKU-1041,Shampoo 500ml,Beauty,2025-08-12,1,344.31,344.31,Retail Store,South,0,5
+SALE-9573,SKU-1017,Printer Ink Cartridge,Office,2026-01-30,40,587.04,23481.6,Marketplace,North,0,0
+SALE-9574,SKU-1049,Serum 30ml,Beauty,2026-01-04,32,409.33,13098.56,Website,Central,0,20
+SALE-9575,SKU-1038,Mixing Bowls Set,Home & Kitchen,2025-08-17,41,217.33,8910.53,Retail Store,South,0,10
+SALE-9576,SKU-1044,Lip Balm,Beauty,2025-08-13,43,477.06,20513.58,Retail Store,North,0,15
+SALE-9577,SKU-1028,Denim Shorts,Clothing,2025-09-15,33,191.99,6335.67,Mobile App,Central,0,0
+SALE-9578,SKU-1001,USB-C Hub,Electronics,2026-01-13,49,507.79,24881.71,Website,East,0,10
+SALE-9579,SKU-1039,Dish Rack,Home & Kitchen,2025-04-13,4,325.0,1300.0,Mobile App,East,0,0
+SALE-9580,SKU-1013,Stapler,Office,2026-01-26,3,196.06,588.18,Mobile App,Central,0,0
+SALE-9581,SKU-1017,Printer Ink Cartridge,Office,2025-08-13,42,587.04,24655.68,Website,Central,0,0
+SALE-9582,SKU-1001,USB-C Hub,Electronics,2025-06-29,47,609.35,28639.45,Marketplace,East,0,0
+SALE-9583,SKU-1042,Conditioner 500ml,Beauty,2025-07-09,44,75.36,3315.84,Mobile App,Central,0,0
+SALE-9584,SKU-1040,Face Moisturizer,Beauty,2025-03-07,5,215.83,1079.15,Retail Store,North,0,20
+SALE-9585,SKU-1013,Stapler,Office,2025-05-07,6,196.06,1176.36,Mobile App,Central,0,15
+SALE-9586,SKU-1015,Whiteboard Markers,Office,2025-11-18,6,356.62,2139.72,Retail Store,West,0,0
+SALE-9587,SKU-1027,Winter Jacket,Clothing,2025-06-02,39,580.08,22623.12,Mobile App,East,0,20
+SALE-9588,SKU-1012,Sticky Notes Pack,Office,2025-07-21,31,305.74,9477.94,Website,East,0,0
+SALE-9589,SKU-1027,Winter Jacket,Clothing,2025-11-17,40,676.76,27070.4,Retail Store,South,0,0
+SALE-9590,SKU-1005,Monitor Stand,Electronics,2025-08-04,39,357.41,13938.99,B2B Direct,South,0,0
+SALE-9591,SKU-1029,Sport Leggings,Clothing,2025-08-07,30,72.05,2161.5,Marketplace,West,0,0
+SALE-9592,SKU-1008,Smart Speaker,Electronics,2025-10-30,13,213.01,2769.13,Mobile App,South,0,5
+SALE-9593,SKU-1046,Body Lotion,Beauty,2025-09-11,32,43.01,1376.32,Retail Store,West,2,0
+SALE-9594,SKU-1031,Blender,Home & Kitchen,2025-08-08,42,504.08,21171.36,B2B Direct,North,0,20
+SALE-9595,SKU-1007,Power Bank,Electronics,2025-09-17,37,304.06,11250.22,Mobile App,South,2,10
+SALE-9596,SKU-1048,Toner,Beauty,2025-08-29,33,284.78,9397.74,Retail Store,East,0,0
+SALE-9597,SKU-1027,Winter Jacket,Clothing,2025-07-08,16,580.08,9281.28,Retail Store,North,0,5
+SALE-9598,SKU-1044,Lip Balm,Beauty,2026-02-07,42,477.06,20036.52,Mobile App,East,0,5
+SALE-9599,SKU-1016,Desk Organizer,Office,2025-07-08,39,381.05,14860.95,B2B Direct,South,0,0
+SALE-9600,SKU-1045,Hand Cream,Beauty,2025-09-16,26,336.24,8742.24,B2B Direct,North,3,15
+SALE-9601,SKU-1010,Ballpoint Pens (Box),Office,2025-10-08,17,139.01,2363.17,Marketplace,Central,0,0
+SALE-9602,SKU-1019,Tape Dispenser,Office,2025-09-30,49,477.85,23414.65,Website,North,0,10
+SALE-9603,SKU-1009,Laptop Stand,Electronics,2025-07-19,48,101.54,4873.92,Mobile App,West,0,20
+SALE-9604,SKU-1031,Blender,Home & Kitchen,2025-03-04,7,504.08,3528.56,Website,West,0,0
+SALE-9605,SKU-1027,Winter Jacket,Clothing,2025-05-30,12,483.4,5800.8,Marketplace,South,0,0
+SALE-9606,SKU-1032,Non-stick Pan,Home & Kitchen,2025-04-29,29,378.77,10984.33,B2B Direct,South,0,10
+SALE-9607,SKU-1048,Toner,Beauty,2025-06-10,17,341.74,5809.58,Retail Store,West,3,0
+SALE-9608,SKU-1040,Face Moisturizer,Beauty,2025-05-28,6,215.83,1294.98,Marketplace,North,0,0
+SALE-9609,SKU-1001,USB-C Hub,Electronics,2025-12-28,16,710.91,11374.56,Retail Store,West,0,0
+SALE-9610,SKU-1017,Printer Ink Cartridge,Office,2025-03-07,43,587.04,25242.72,B2B Direct,North,0,10
+SALE-9611,SKU-1024,Baseball Cap,Clothing,2026-01-06,34,124.9,4246.6,Marketplace,West,0,5
+SALE-9612,SKU-1021,Women Jeans,Clothing,2025-09-09,44,305.44,13439.36,Marketplace,East,1,5
+SALE-9613,SKU-1024,Baseball Cap,Clothing,2026-01-10,4,124.9,499.6,Marketplace,East,0,15
+SALE-9614,SKU-1025,Socks (Pack-6),Clothing,2025-05-14,2,392.0,784.0,B2B Direct,North,0,5
+SALE-9615,SKU-1015,Whiteboard Markers,Office,2025-09-08,29,254.73,7387.17,B2B Direct,West,0,0
+SALE-9616,SKU-1040,Face Moisturizer,Beauty,2025-08-15,2,215.83,431.66,Marketplace,North,0,0
+SALE-9617,SKU-1038,Mixing Bowls Set,Home & Kitchen,2025-11-07,26,304.26,7910.76,B2B Direct,North,0,15
+SALE-9618,SKU-1030,Coffee Maker,Home & Kitchen,2026-02-04,45,420.91,18940.95,Website,West,0,10
+SALE-9619,SKU-1033,Cutting Board,Home & Kitchen,2025-12-21,46,497.29,22875.34,B2B Direct,North,0,0
+SALE-9620,SKU-1043,Sunscreen SPF50,Beauty,2025-12-09,30,467.88,14036.4,Mobile App,West,0,5
+SALE-9621,SKU-1015,Whiteboard Markers,Office,2025-06-20,11,305.68,3362.48,Website,North,2,0
+SALE-9622,SKU-1020,Men T-Shirt,Clothing,2025-09-16,50,371.05,18552.5,Marketplace,South,0,0
+SALE-9623,SKU-1042,Conditioner 500ml,Beauty,2025-05-06,43,62.8,2700.4,Mobile App,Central,0,0
+SALE-9624,SKU-1044,Lip Balm,Beauty,2025-08-21,15,477.06,7155.9,B2B Direct,Central,0,0
+SALE-9625,SKU-1045,Hand Cream,Beauty,2025-09-15,42,336.24,14122.08,B2B Direct,West,0,0
+SALE-9626,SKU-1005,Monitor Stand,Electronics,2025-04-30,6,357.41,2144.46,Marketplace,Central,0,0
+SALE-9627,SKU-1023,Running Shoes,Clothing,2025-05-08,21,410.32,8616.72,Retail Store,Central,0,0
+SALE-9628,SKU-1034,Kitchen Knife Set,Home & Kitchen,2025-06-09,25,335.88,8397.0,Retail Store,East,0,15
+SALE-9629,SKU-1008,Smart Speaker,Electronics,2025-11-25,43,298.21,12823.03,B2B Direct,Central,0,0
+SALE-9630,SKU-1029,Sport Leggings,Clothing,2025-08-12,10,72.05,720.5,Marketplace,South,0,0
+SALE-9631,SKU-1018,Scissors,Office,2025-05-17,48,125.99,6047.52,Website,Central,0,20
+SALE-9632,SKU-1007,Power Bank,Electronics,2025-07-22,46,364.87,16784.02,B2B Direct,West,0,0
+SALE-9633,SKU-1045,Hand Cream,Beauty,2025-09-12,4,336.24,1344.96,Marketplace,South,0,10
+SALE-9634,SKU-1014,File Folders,Office,2026-02-25,48,290.71,13954.08,Website,South,0,0
+SALE-9635,SKU-1042,Conditioner 500ml,Beauty,2025-05-24,2,62.8,125.6,B2B Direct,West,0,0
+SALE-9636,SKU-1022,Hoodie,Clothing,2025-09-20,26,85.9,2233.4,Website,Central,0,5
+SALE-9637,SKU-1012,Sticky Notes Pack,Office,2026-02-25,36,254.78,9172.08,Retail Store,North,0,10
+SALE-9638,SKU-1003,Gaming Mouse,Electronics,2026-03-02,20,333.92,6678.4,Retail Store,South,0,5
+SALE-9639,SKU-1018,Scissors,Office,2025-05-17,14,125.99,1763.86,Mobile App,South,0,0
+SALE-9640,SKU-1036,Electric Kettle,Home & Kitchen,2025-04-25,44,40.34,1774.96,Mobile App,West,0,0
+SALE-9641,SKU-1003,Gaming Mouse,Electronics,2025-04-22,23,333.92,7680.16,Retail Store,South,0,5
+SALE-9642,SKU-1021,Women Jeans,Clothing,2026-01-01,28,305.44,8552.32,Mobile App,West,0,0
+SALE-9643,SKU-1031,Blender,Home & Kitchen,2025-08-05,45,504.08,22683.6,B2B Direct,South,0,10
+SALE-9644,SKU-1042,Conditioner 500ml,Beauty,2026-02-04,6,62.8,376.8,Retail Store,West,0,0
+SALE-9645,SKU-1000,Wireless Earbuds,Electronics,2025-05-04,8,376.49,3011.92,Website,North,0,15
+SALE-9646,SKU-1014,File Folders,Office,2025-03-15,38,290.71,11046.98,B2B Direct,Central,0,10
+SALE-9647,SKU-1037,Air Fryer,Home & Kitchen,2025-06-04,25,300.91,7522.75,Retail Store,West,0,0
+SALE-9648,SKU-1004,Webcam,Electronics,2025-12-04,12,479.26,5751.12,Retail Store,North,0,5
+SALE-9649,SKU-1033,Cutting Board,Home & Kitchen,2025-11-09,5,497.29,2486.45,B2B Direct,Central,0,10
+SALE-9650,SKU-1007,Power Bank,Electronics,2025-06-18,43,364.87,15689.41,Website,South,0,0
+SALE-9651,SKU-1028,Denim Shorts,Clothing,2025-08-11,8,191.99,1535.92,Website,South,0,0
+SALE-9652,SKU-1035,Food Storage Containers,Home & Kitchen,2025-07-13,49,269.52,13206.48,Website,North,0,0
+SALE-9653,SKU-1034,Kitchen Knife Set,Home & Kitchen,2025-05-30,28,279.9,7837.2,Website,South,0,15
+SALE-9654,SKU-1018,Scissors,Office,2026-02-04,35,125.99,4409.65,Retail Store,South,0,0
+SALE-9655,SKU-1022,Hoodie,Clothing,2026-01-08,35,85.9,3006.5,B2B Direct,South,0,10
+SALE-9656,SKU-1015,Whiteboard Markers,Office,2025-03-22,13,254.73,3311.49,Mobile App,East,1,5
+SALE-9657,SKU-1013,Stapler,Office,2025-12-31,23,274.48,6313.04,Marketplace,South,0,0
+SALE-9658,SKU-1016,Desk Organizer,Office,2025-07-15,25,381.05,9526.25,Mobile App,West,0,0
+SALE-9659,SKU-1027,Winter Jacket,Clothing,2026-02-22,10,483.4,4834.0,B2B Direct,South,0,0
+SALE-9660,SKU-1040,Face Moisturizer,Beauty,2026-02-23,42,215.83,9064.86,Mobile App,East,0,10
+SALE-9661,SKU-1038,Mixing Bowls Set,Home & Kitchen,2025-05-26,27,217.33,5867.91,Mobile App,East,0,20
+SALE-9662,SKU-1015,Whiteboard Markers,Office,2025-04-12,18,254.73,4585.14,Website,Central,0,0
+SALE-9663,SKU-1021,Women Jeans,Clothing,2026-01-25,6,305.44,1832.64,Marketplace,East,0,10
+SALE-9664,SKU-1017,Printer Ink Cartridge,Office,2025-03-09,7,587.04,4109.28,Retail Store,South,2,10
+SALE-9665,SKU-1007,Power Bank,Electronics,2025-06-01,34,364.87,12405.58,Marketplace,Central,0,0
+SALE-9666,SKU-1036,Electric Kettle,Home & Kitchen,2025-07-26,36,48.41,1742.76,Marketplace,Central,0,0
+SALE-9667,SKU-1048,Toner,Beauty,2025-09-19,12,284.78,3417.36,Marketplace,Central,0,10
+SALE-9668,SKU-1030,Coffee Maker,Home & Kitchen,2026-01-01,9,420.91,3788.19,Marketplace,North,0,0
+SALE-9669,SKU-1008,Smart Speaker,Electronics,2025-05-16,25,213.01,5325.25,B2B Direct,East,1,5
+SALE-9670,SKU-1023,Running Shoes,Clothing,2026-03-01,50,410.32,20516.0,Mobile App,Central,0,0
+SALE-9671,SKU-1022,Hoodie,Clothing,2025-10-29,33,85.9,2834.7,Marketplace,East,0,10
+SALE-9672,SKU-1014,File Folders,Office,2025-08-07,41,290.71,11919.11,Website,East,0,10
+SALE-9673,SKU-1040,Face Moisturizer,Beauty,2025-04-13,5,215.83,1079.15,Mobile App,North,0,0
+SALE-9674,SKU-1018,Scissors,Office,2025-12-12,32,176.39,5644.48,Website,West,0,10
+SALE-9675,SKU-1030,Coffee Maker,Home & Kitchen,2025-11-13,33,589.27,19445.91,B2B Direct,North,0,0
+SALE-9676,SKU-1047,Eye Cream,Beauty,2025-03-07,46,73.21,3367.66,Retail Store,Central,0,20
+SALE-9677,SKU-1042,Conditioner 500ml,Beauty,2025-11-29,44,87.92,3868.48,B2B Direct,North,0,0
+SALE-9678,SKU-1048,Toner,Beauty,2025-11-27,15,398.69,5980.35,Mobile App,North,0,5
+SALE-9679,SKU-1003,Gaming Mouse,Electronics,2025-10-06,32,333.92,10685.44,Retail Store,South,2,0
+SALE-9680,SKU-1043,Sunscreen SPF50,Beauty,2025-07-09,35,401.04,14036.4,Website,East,0,0
+SALE-9681,SKU-1000,Wireless Earbuds,Electronics,2026-01-21,37,376.49,13930.13,Retail Store,South,2,20
+SALE-9682,SKU-1032,Non-stick Pan,Home & Kitchen,2025-03-22,30,378.77,11363.1,B2B Direct,West,0,5
+SALE-9683,SKU-1021,Women Jeans,Clothing,2025-08-03,23,305.44,7025.12,Website,North,0,0
+SALE-9684,SKU-1022,Hoodie,Clothing,2025-03-08,7,85.9,601.3,Retail Store,West,0,5
+SALE-9685,SKU-1009,Laptop Stand,Electronics,2025-09-30,8,84.62,676.96,Retail Store,North,0,0
+SALE-9686,SKU-1030,Coffee Maker,Home & Kitchen,2025-09-22,24,420.91,10101.84,Marketplace,East,0,5
+SALE-9687,SKU-1017,Printer Ink Cartridge,Office,2025-04-28,29,587.04,17024.16,Retail Store,South,0,0
+SALE-9688,SKU-1022,Hoodie,Clothing,2026-03-02,13,85.9,1116.7,Website,South,0,0
+SALE-9689,SKU-1047,Eye Cream,Beauty,2025-08-20,3,73.21,219.63,Mobile App,South,2,20
+SALE-9690,SKU-1007,Power Bank,Electronics,2025-10-05,32,304.06,9729.92,B2B Direct,West,0,0
+SALE-9691,SKU-1048,Toner,Beauty,2025-09-24,33,284.78,9397.74,Retail Store,South,1,10
+SALE-9692,SKU-1008,Smart Speaker,Electronics,2025-05-22,23,213.01,4899.23,B2B Direct,North,0,5
+SALE-9693,SKU-1021,Women Jeans,Clothing,2025-10-09,39,305.44,11912.16,Website,West,0,0
+SALE-9694,SKU-1048,Toner,Beauty,2025-10-09,16,284.78,4556.48,B2B Direct,South,0,0
+SALE-9695,SKU-1049,Serum 30ml,Beauty,2025-05-01,17,409.33,6958.61,Mobile App,West,0,10
+SALE-9696,SKU-1006,LED Desk Lamp,Electronics,2026-02-25,47,484.57,22774.79,B2B Direct,Central,0,15
+SALE-9697,SKU-1040,Face Moisturizer,Beauty,2026-01-22,10,215.83,2158.3,Mobile App,North,0,0
+SALE-9698,SKU-1012,Sticky Notes Pack,Office,2025-05-17,28,254.78,7133.84,Website,Central,0,0
+SALE-9699,SKU-1026,Polo Shirt,Clothing,2025-11-27,20,357.0,7140.0,Mobile App,South,0,0
+SALE-9700,SKU-1027,Winter Jacket,Clothing,2026-01-27,4,483.4,1933.6,Marketplace,North,0,15
+SALE-9701,SKU-1045,Hand Cream,Beauty,2025-10-04,16,336.24,5379.84,Marketplace,North,0,0
+SALE-9702,SKU-1047,Eye Cream,Beauty,2025-08-15,14,73.21,1024.94,Marketplace,West,2,0
+SALE-9703,SKU-1011,A4 Paper (Ream),Office,2025-07-11,32,618.37,19787.84,Marketplace,East,0,5
+SALE-9704,SKU-1043,Sunscreen SPF50,Beauty,2025-12-11,50,467.88,23394.0,Mobile App,East,0,0
+SALE-9705,SKU-1049,Serum 30ml,Beauty,2025-12-30,34,573.06,19484.04,B2B Direct,East,0,0
+SALE-9706,SKU-1024,Baseball Cap,Clothing,2025-04-17,7,124.9,874.3,Mobile App,Central,0,20
+SALE-9707,SKU-1041,Shampoo 500ml,Beauty,2025-06-09,13,413.17,5371.21,Retail Store,North,1,5
+SALE-9708,SKU-1019,Tape Dispenser,Office,2025-11-01,49,668.99,32780.51,Mobile App,Central,0,0
+SALE-9709,SKU-1026,Polo Shirt,Clothing,2025-12-10,46,357.0,16422.0,Marketplace,Central,0,0
+SALE-9710,SKU-1045,Hand Cream,Beauty,2025-05-03,28,336.24,9414.72,Website,West,0,20
+SALE-9711,SKU-1001,USB-C Hub,Electronics,2025-05-28,39,507.79,19803.81,Marketplace,South,0,5
+SALE-9712,SKU-1044,Lip Balm,Beauty,2025-06-09,48,572.47,27478.56,Retail Store,West,0,5
+SALE-9713,SKU-1004,Webcam,Electronics,2025-05-27,29,342.33,9927.57,B2B Direct,West,0,0
+SALE-9714,SKU-1017,Printer Ink Cartridge,Office,2025-06-17,12,704.45,8453.4,Website,South,0,5
+SALE-9715,SKU-1032,Non-stick Pan,Home & Kitchen,2025-10-23,33,378.77,12499.41,B2B Direct,East,0,0
+SALE-9716,SKU-1017,Printer Ink Cartridge,Office,2025-12-11,8,821.86,6574.88,Mobile App,South,0,0
+SALE-9717,SKU-1040,Face Moisturizer,Beauty,2025-05-18,18,215.83,3884.94,Mobile App,East,0,0
+SALE-9718,SKU-1013,Stapler,Office,2025-12-02,8,274.48,2195.84,Website,East,0,0
+SALE-9719,SKU-1005,Monitor Stand,Electronics,2026-02-28,36,357.41,12866.76,Marketplace,South,0,0
+SALE-9720,SKU-1003,Gaming Mouse,Electronics,2026-01-18,1,333.92,333.92,Marketplace,South,3,0
+SALE-9721,SKU-1001,USB-C Hub,Electronics,2025-12-04,43,710.91,30569.13,B2B Direct,North,0,0
+SALE-9722,SKU-1041,Shampoo 500ml,Beauty,2025-07-13,41,413.17,16939.97,B2B Direct,Central,0,0
+SALE-9723,SKU-1017,Printer Ink Cartridge,Office,2025-06-16,38,704.45,26769.1,Retail Store,South,0,10
+SALE-9724,SKU-1023,Running Shoes,Clothing,2025-05-18,31,410.32,12719.92,Website,West,0,10
+SALE-9725,SKU-1011,A4 Paper (Ream),Office,2025-06-08,37,618.37,22879.69,Retail Store,South,0,0
+SALE-9726,SKU-1011,A4 Paper (Ream),Office,2025-09-21,44,515.31,22673.64,B2B Direct,South,0,0
+SALE-9727,SKU-1029,Sport Leggings,Clothing,2026-01-28,26,72.05,1873.3,Website,Central,0,10
+SALE-9728,SKU-1038,Mixing Bowls Set,Home & Kitchen,2025-04-24,25,217.33,5433.25,Retail Store,North,0,10
+SALE-9729,SKU-1041,Shampoo 500ml,Beauty,2025-03-26,9,344.31,3098.79,Mobile App,North,0,5
+SALE-9730,SKU-1000,Wireless Earbuds,Electronics,2025-03-08,7,376.49,2635.43,B2B Direct,East,0,0
+SALE-9731,SKU-1048,Toner,Beauty,2025-12-17,29,398.69,11562.01,Mobile App,East,0,0
+SALE-9732,SKU-1034,Kitchen Knife Set,Home & Kitchen,2026-02-21,18,279.9,5038.2,B2B Direct,North,0,0
+SALE-9733,SKU-1018,Scissors,Office,2025-04-25,33,125.99,4157.67,Retail Store,South,1,0
+SALE-9734,SKU-1027,Winter Jacket,Clothing,2025-09-17,10,483.4,4834.0,Marketplace,East,1,5
+SALE-9735,SKU-1043,Sunscreen SPF50,Beauty,2025-04-30,32,334.2,10694.4,Mobile App,North,0,20
+SALE-9736,SKU-1022,Hoodie,Clothing,2025-04-12,40,85.9,3436.0,Marketplace,North,2,15
+SALE-9737,SKU-1002,Mechanical Keyboard,Electronics,2026-01-07,10,246.09,2460.9,Mobile App,West,0,0
+SALE-9738,SKU-1027,Winter Jacket,Clothing,2025-05-19,43,483.4,20786.2,Marketplace,Central,0,0
+SALE-9739,SKU-1031,Blender,Home & Kitchen,2026-02-05,24,504.08,12097.92,Marketplace,North,0,20
+SALE-9740,SKU-1049,Serum 30ml,Beauty,2026-02-02,10,409.33,4093.3,Marketplace,South,0,10
+SALE-9741,SKU-1030,Coffee Maker,Home & Kitchen,2025-04-07,8,420.91,3367.28,B2B Direct,West,0,0
+SALE-9742,SKU-1008,Smart Speaker,Electronics,2025-06-05,50,255.61,12780.5,Retail Store,East,0,0
+SALE-9743,SKU-1026,Polo Shirt,Clothing,2026-01-06,41,255.0,10455.0,Marketplace,South,3,0
+SALE-9744,SKU-1035,Food Storage Containers,Home & Kitchen,2025-11-13,35,314.44,11005.4,B2B Direct,West,0,0
+SALE-9745,SKU-1005,Monitor Stand,Electronics,2025-12-26,46,500.37,23017.02,Retail Store,Central,0,10
+SALE-9746,SKU-1014,File Folders,Office,2026-02-26,6,290.71,1744.26,Mobile App,East,0,15
+SALE-9747,SKU-1023,Running Shoes,Clothing,2025-12-14,31,574.45,17807.95,Mobile App,North,1,0
+SALE-9748,SKU-1049,Serum 30ml,Beauty,2025-05-14,19,409.33,7777.27,Retail Store,South,3,15
+SALE-9749,SKU-1015,Whiteboard Markers,Office,2025-06-19,15,305.68,4585.2,Website,South,1,10
+SALE-9750,SKU-1024,Baseball Cap,Clothing,2025-03-17,45,124.9,5620.5,Retail Store,East,0,5
+SALE-9751,SKU-1004,Webcam,Electronics,2025-11-03,39,479.26,18691.14,Mobile App,North,0,0
+SALE-9752,SKU-1004,Webcam,Electronics,2025-03-10,37,342.33,12666.21,Retail Store,South,0,0
+SALE-9753,SKU-1033,Cutting Board,Home & Kitchen,2026-02-24,20,355.21,7104.2,Retail Store,West,0,10
+SALE-9754,SKU-1044,Lip Balm,Beauty,2025-03-10,19,477.06,9064.14,Website,South,0,0
+SALE-9755,SKU-1048,Toner,Beauty,2025-05-31,33,284.78,9397.74,Mobile App,North,0,5
+SALE-9756,SKU-1029,Sport Leggings,Clothing,2025-12-12,46,100.87,4640.02,Marketplace,Central,0,0
+SALE-9757,SKU-1010,Ballpoint Pens (Box),Office,2025-07-21,6,166.81,1000.86,B2B Direct,West,0,0
+SALE-9758,SKU-1003,Gaming Mouse,Electronics,2025-06-24,26,400.7,10418.2,Mobile App,Central,0,10
+SALE-9759,SKU-1029,Sport Leggings,Clothing,2025-11-03,21,100.87,2118.27,Retail Store,West,0,0
+SALE-9760,SKU-1027,Winter Jacket,Clothing,2025-06-11,18,580.08,10441.44,Website,North,0,10
+SALE-9761,SKU-1021,Women Jeans,Clothing,2025-03-18,16,305.44,4887.04,Marketplace,South,0,0
+SALE-9762,SKU-1000,Wireless Earbuds,Electronics,2025-08-09,13,376.49,4894.37,B2B Direct,South,3,0
+SALE-9763,SKU-1005,Monitor Stand,Electronics,2025-12-20,37,500.37,18513.69,Website,Central,0,0
+SALE-9764,SKU-1019,Tape Dispenser,Office,2025-03-08,23,477.85,10990.55,Marketplace,West,0,10
+SALE-9765,SKU-1046,Body Lotion,Beauty,2025-09-02,9,43.01,387.09,Website,East,0,5
+SALE-9766,SKU-1032,Non-stick Pan,Home & Kitchen,2025-05-19,2,378.77,757.54,B2B Direct,West,0,15
+SALE-9767,SKU-1018,Scissors,Office,2025-05-25,10,125.99,1259.9,Retail Store,North,0,10
+SALE-9768,SKU-1013,Stapler,Office,2026-02-15,42,196.06,8234.52,Mobile App,South,0,10
+SALE-9769,SKU-1041,Shampoo 500ml,Beauty,2025-11-26,50,482.03,24101.5,Marketplace,West,0,0
+SALE-9770,SKU-1027,Winter Jacket,Clothing,2025-03-24,46,483.4,22236.4,Retail Store,South,1,5
+SALE-9771,SKU-1009,Laptop Stand,Electronics,2025-12-19,41,118.47,4857.27,Retail Store,North,0,15
+SALE-9772,SKU-1035,Food Storage Containers,Home & Kitchen,2025-04-17,32,224.6,7187.2,Website,West,0,0
+SALE-9773,SKU-1004,Webcam,Electronics,2025-07-25,37,410.8,15199.6,Marketplace,East,0,10
+SALE-9774,SKU-1029,Sport Leggings,Clothing,2025-07-14,31,86.46,2680.26,Marketplace,West,3,15
+SALE-9775,SKU-1036,Electric Kettle,Home & Kitchen,2025-11-08,3,56.48,169.44,Marketplace,East,0,5
+SALE-9776,SKU-1043,Sunscreen SPF50,Beauty,2025-05-09,29,334.2,9691.8,Marketplace,Central,3,0
+SALE-9777,SKU-1043,Sunscreen SPF50,Beauty,2025-10-01,33,334.2,11028.6,Retail Store,East,0,20
+SALE-9778,SKU-1003,Gaming Mouse,Electronics,2025-07-07,45,400.7,18031.5,B2B Direct,North,0,0
+SALE-9779,SKU-1010,Ballpoint Pens (Box),Office,2025-12-20,26,194.61,5059.86,Website,South,0,5
+SALE-9780,SKU-1022,Hoodie,Clothing,2025-10-28,30,85.9,2577.0,B2B Direct,West,0,10
+SALE-9781,SKU-1025,Socks (Pack-6),Clothing,2025-10-11,13,392.0,5096.0,Retail Store,East,0,20
+SALE-9782,SKU-1031,Blender,Home & Kitchen,2025-06-20,45,604.9,27220.5,Retail Store,North,0,5
+SALE-9783,SKU-1030,Coffee Maker,Home & Kitchen,2025-05-17,41,420.91,17257.31,Mobile App,East,0,5
+SALE-9784,SKU-1024,Baseball Cap,Clothing,2025-04-04,24,124.9,2997.6,Retail Store,West,0,15
+SALE-9785,SKU-1048,Toner,Beauty,2026-02-17,28,284.78,7973.84,Marketplace,East,0,0
+SALE-9786,SKU-1017,Printer Ink Cartridge,Office,2025-09-27,6,587.04,3522.24,Marketplace,West,0,5
+SALE-9787,SKU-1016,Desk Organizer,Office,2025-06-06,4,381.05,1524.2,Website,West,2,0
+SALE-9788,SKU-1012,Sticky Notes Pack,Office,2025-08-29,27,254.78,6879.06,Retail Store,West,0,0
+SALE-9789,SKU-1044,Lip Balm,Beauty,2025-10-13,23,477.06,10972.38,B2B Direct,West,0,15
+SALE-9790,SKU-1012,Sticky Notes Pack,Office,2025-04-12,47,254.78,11974.66,B2B Direct,Central,0,20
+SALE-9791,SKU-1046,Body Lotion,Beauty,2025-08-13,1,43.01,43.01,Mobile App,West,0,0
+SALE-9792,SKU-1043,Sunscreen SPF50,Beauty,2025-09-28,17,334.2,5681.4,B2B Direct,North,2,15
+SALE-9793,SKU-1040,Face Moisturizer,Beauty,2025-10-20,41,215.83,8849.03,B2B Direct,North,0,20
+SALE-9794,SKU-1026,Polo Shirt,Clothing,2026-02-23,35,255.0,8925.0,Mobile App,Central,0,0
+SALE-9795,SKU-1012,Sticky Notes Pack,Office,2026-02-14,37,254.78,9426.86,Website,East,0,15
+SALE-9796,SKU-1032,Non-stick Pan,Home & Kitchen,2025-05-06,45,378.77,17044.65,Retail Store,West,0,0
+SALE-9797,SKU-1034,Kitchen Knife Set,Home & Kitchen,2025-10-08,34,279.9,9516.6,Marketplace,North,0,0
+SALE-9798,SKU-1035,Food Storage Containers,Home & Kitchen,2026-01-02,11,224.6,2470.6,B2B Direct,West,0,5
+SALE-9799,SKU-1043,Sunscreen SPF50,Beauty,2025-10-13,41,334.2,13702.2,Marketplace,Central,1,10
+SALE-9800,SKU-1006,LED Desk Lamp,Electronics,2025-04-18,42,484.57,20351.94,Website,Central,0,10
+SALE-9801,SKU-1039,Dish Rack,Home & Kitchen,2025-12-07,7,455.0,3185.0,Retail Store,Central,0,5
+SALE-9802,SKU-1026,Polo Shirt,Clothing,2025-06-20,15,306.0,4590.0,Retail Store,Central,0,15
+SALE-9803,SKU-1007,Power Bank,Electronics,2025-08-30,30,304.06,9121.8,Retail Store,West,1,10
+SALE-9804,SKU-1032,Non-stick Pan,Home & Kitchen,2025-07-27,18,454.52,8181.36,Marketplace,East,0,0
+SALE-9805,SKU-1026,Polo Shirt,Clothing,2025-03-20,1,255.0,255.0,Website,South,0,5
+SALE-9806,SKU-1047,Eye Cream,Beauty,2026-01-05,21,73.21,1537.41,Marketplace,South,3,0
+SALE-9807,SKU-1025,Socks (Pack-6),Clothing,2025-06-10,40,470.4,18816.0,Retail Store,North,0,15
+SALE-9808,SKU-1024,Baseball Cap,Clothing,2025-05-31,26,124.9,3247.4,Marketplace,Central,0,0
+SALE-9809,SKU-1008,Smart Speaker,Electronics,2025-11-17,8,298.21,2385.68,B2B Direct,West,3,10
+SALE-9810,SKU-1010,Ballpoint Pens (Box),Office,2025-08-16,14,139.01,1946.14,Website,North,0,5
+SALE-9811,SKU-1037,Air Fryer,Home & Kitchen,2025-05-21,2,250.76,501.52,B2B Direct,Central,0,0
+SALE-9812,SKU-1046,Body Lotion,Beauty,2025-05-09,30,43.01,1290.3,Marketplace,South,0,0
+SALE-9813,SKU-1012,Sticky Notes Pack,Office,2025-12-03,16,356.69,5707.04,Retail Store,East,0,0
+SALE-9814,SKU-1009,Laptop Stand,Electronics,2026-01-19,2,84.62,169.24,B2B Direct,North,0,5
+SALE-9815,SKU-1006,LED Desk Lamp,Electronics,2025-05-15,19,484.57,9206.83,Marketplace,South,0,10
+SALE-9816,SKU-1013,Stapler,Office,2025-09-20,7,196.06,1372.42,Retail Store,North,0,20
+SALE-9817,SKU-1004,Webcam,Electronics,2025-06-19,44,410.8,18075.2,Retail Store,West,0,0
+SALE-9818,SKU-1010,Ballpoint Pens (Box),Office,2025-06-04,20,166.81,3336.2,Website,South,0,5
+SALE-9819,SKU-1002,Mechanical Keyboard,Electronics,2025-05-03,22,246.09,5413.98,Marketplace,West,0,0
+SALE-9820,SKU-1033,Cutting Board,Home & Kitchen,2025-07-12,8,426.25,3410.0,Mobile App,Central,0,5
+SALE-9821,SKU-1048,Toner,Beauty,2025-05-21,14,284.78,3986.92,Marketplace,North,0,0
+SALE-9822,SKU-1005,Monitor Stand,Electronics,2026-02-21,9,357.41,3216.69,Marketplace,East,0,0
+SALE-9823,SKU-1045,Hand Cream,Beauty,2025-12-11,42,470.74,19771.08,Marketplace,West,0,0
+SALE-9824,SKU-1025,Socks (Pack-6),Clothing,2025-06-10,17,470.4,7996.8,Mobile App,South,0,10
+SALE-9825,SKU-1025,Socks (Pack-6),Clothing,2025-04-25,38,392.0,14896.0,B2B Direct,East,0,20
+SALE-9826,SKU-1031,Blender,Home & Kitchen,2025-10-11,29,504.08,14618.32,Retail Store,Central,0,0
+SALE-9827,SKU-1006,LED Desk Lamp,Electronics,2026-01-08,25,484.57,12114.25,Retail Store,South,0,15
+SALE-9828,SKU-1004,Webcam,Electronics,2025-10-20,11,342.33,3765.63,Website,Central,0,0
+SALE-9829,SKU-1041,Shampoo 500ml,Beauty,2025-11-30,23,482.03,11086.69,Retail Store,North,0,0
+SALE-9830,SKU-1011,A4 Paper (Ream),Office,2025-09-03,16,515.31,8244.96,Website,South,0,0
+SALE-9831,SKU-1020,Men T-Shirt,Clothing,2025-05-05,1,371.05,371.05,Marketplace,North,0,0
+SALE-9832,SKU-1020,Men T-Shirt,Clothing,2025-07-01,36,445.26,16029.36,Website,West,0,5
+SALE-9833,SKU-1006,LED Desk Lamp,Electronics,2025-12-16,18,678.4,12211.2,B2B Direct,North,0,0
+SALE-9834,SKU-1048,Toner,Beauty,2025-10-12,21,284.78,5980.38,Marketplace,South,0,0
+SALE-9835,SKU-1002,Mechanical Keyboard,Electronics,2025-07-22,27,295.31,7973.37,Website,North,0,0
+SALE-9836,SKU-1024,Baseball Cap,Clothing,2025-07-03,37,149.88,5545.56,Website,East,0,15
+SALE-9837,SKU-1000,Wireless Earbuds,Electronics,2025-10-26,19,376.49,7153.31,Mobile App,West,0,15
+SALE-9838,SKU-1002,Mechanical Keyboard,Electronics,2025-08-23,42,246.09,10335.78,Website,North,0,10
+SALE-9839,SKU-1046,Body Lotion,Beauty,2025-08-05,18,43.01,774.18,Marketplace,East,0,10
+SALE-9840,SKU-1031,Blender,Home & Kitchen,2026-01-11,4,504.08,2016.32,Retail Store,East,3,0
+SALE-9841,SKU-1041,Shampoo 500ml,Beauty,2025-05-05,24,344.31,8263.44,B2B Direct,North,0,10
+SALE-9842,SKU-1008,Smart Speaker,Electronics,2025-04-26,21,213.01,4473.21,Retail Store,South,0,10
+SALE-9843,SKU-1023,Running Shoes,Clothing,2025-12-04,1,574.45,574.45,Website,East,0,15
+SALE-9844,SKU-1004,Webcam,Electronics,2025-07-17,22,410.8,9037.6,B2B Direct,West,0,15
+SALE-9845,SKU-1037,Air Fryer,Home & Kitchen,2025-10-25,8,250.76,2006.08,Mobile App,East,0,15
+SALE-9846,SKU-1026,Polo Shirt,Clothing,2026-01-24,29,255.0,7395.0,Website,Central,0,0
+SALE-9847,SKU-1031,Blender,Home & Kitchen,2025-07-25,21,604.9,12702.9,Retail Store,South,0,0
+SALE-9848,SKU-1005,Monitor Stand,Electronics,2025-08-31,36,357.41,12866.76,Mobile App,South,0,20
+SALE-9849,SKU-1003,Gaming Mouse,Electronics,2025-06-20,1,400.7,400.7,Mobile App,West,0,0
+SALE-9850,SKU-1013,Stapler,Office,2025-12-31,49,274.48,13449.52,B2B Direct,Central,0,0
+SALE-9851,SKU-1029,Sport Leggings,Clothing,2026-02-02,10,72.05,720.5,B2B Direct,North,0,0
+SALE-9852,SKU-1028,Denim Shorts,Clothing,2026-01-15,33,191.99,6335.67,Mobile App,West,0,0
+SALE-9853,SKU-1043,Sunscreen SPF50,Beauty,2025-08-08,37,334.2,12365.4,Website,South,0,10
+SALE-9854,SKU-1015,Whiteboard Markers,Office,2025-03-12,30,254.73,7641.9,Mobile App,East,0,5
+SALE-9855,SKU-1022,Hoodie,Clothing,2025-07-17,8,103.08,824.64,B2B Direct,North,0,0
+SALE-9856,SKU-1032,Non-stick Pan,Home & Kitchen,2025-10-10,33,378.77,12499.41,Marketplace,North,0,0
+SALE-9857,SKU-1041,Shampoo 500ml,Beauty,2025-09-15,47,344.31,16182.57,Retail Store,South,0,0
+SALE-9858,SKU-1017,Printer Ink Cartridge,Office,2025-11-30,39,821.86,32052.54,Retail Store,Central,0,0
+SALE-9859,SKU-1015,Whiteboard Markers,Office,2025-04-29,15,254.73,3820.95,Website,North,0,0
+SALE-9860,SKU-1034,Kitchen Knife Set,Home & Kitchen,2025-04-24,18,279.9,5038.2,Mobile App,Central,0,0
+SALE-9861,SKU-1006,LED Desk Lamp,Electronics,2025-06-24,47,581.48,27329.56,Marketplace,West,0,0
+SALE-9862,SKU-1040,Face Moisturizer,Beauty,2025-07-29,46,259.0,11914.0,B2B Direct,East,0,0
+SALE-9863,SKU-1044,Lip Balm,Beauty,2026-01-16,31,477.06,14788.86,Marketplace,South,0,0
+SALE-9864,SKU-1011,A4 Paper (Ream),Office,2025-08-21,30,515.31,15459.3,Mobile App,North,0,0
+SALE-9865,SKU-1011,A4 Paper (Ream),Office,2025-07-17,5,618.37,3091.85,Mobile App,North,0,0
+SALE-9866,SKU-1000,Wireless Earbuds,Electronics,2025-11-09,16,527.09,8433.44,Retail Store,North,0,5
+SALE-9867,SKU-1018,Scissors,Office,2025-06-28,34,151.19,5140.46,B2B Direct,South,0,0
+SALE-9868,SKU-1047,Eye Cream,Beauty,2025-08-22,29,73.21,2123.09,Retail Store,East,0,0
+SALE-9869,SKU-1023,Running Shoes,Clothing,2025-10-24,1,410.32,410.32,Marketplace,East,0,5
+SALE-9870,SKU-1042,Conditioner 500ml,Beauty,2026-01-03,31,62.8,1946.8,Website,East,0,5
+SALE-9871,SKU-1009,Laptop Stand,Electronics,2025-09-30,15,84.62,1269.3,Mobile App,East,0,5
+SALE-9872,SKU-1044,Lip Balm,Beauty,2025-10-10,24,477.06,11449.44,Mobile App,North,1,0
+SALE-9873,SKU-1006,LED Desk Lamp,Electronics,2025-07-22,41,581.48,23840.68,B2B Direct,West,0,15
+SALE-9874,SKU-1022,Hoodie,Clothing,2025-08-20,26,85.9,2233.4,B2B Direct,West,0,0
+SALE-9875,SKU-1033,Cutting Board,Home & Kitchen,2026-02-26,22,355.21,7814.62,B2B Direct,North,0,5
+SALE-9876,SKU-1022,Hoodie,Clothing,2025-07-29,8,103.08,824.64,Website,West,0,5
+SALE-9877,SKU-1033,Cutting Board,Home & Kitchen,2025-07-30,40,426.25,17050.0,B2B Direct,South,0,0
+SALE-9878,SKU-1018,Scissors,Office,2025-03-11,30,125.99,3779.7,Website,South,0,0
+SALE-9879,SKU-1031,Blender,Home & Kitchen,2025-08-07,1,504.08,504.08,Retail Store,East,0,0
+SALE-9880,SKU-1008,Smart Speaker,Electronics,2025-08-30,19,213.01,4047.19,B2B Direct,Central,1,10
+SALE-9881,SKU-1009,Laptop Stand,Electronics,2025-06-12,28,101.54,2843.12,B2B Direct,North,0,0
+SALE-9882,SKU-1022,Hoodie,Clothing,2025-07-09,44,103.08,4535.52,Retail Store,West,2,0
+SALE-9883,SKU-1016,Desk Organizer,Office,2025-08-05,39,317.54,12384.06,Marketplace,South,0,15
+SALE-9884,SKU-1037,Air Fryer,Home & Kitchen,2025-05-14,44,250.76,11033.44,Mobile App,East,0,0
+SALE-9885,SKU-1019,Tape Dispenser,Office,2025-04-16,20,477.85,9557.0,B2B Direct,West,0,10
+SALE-9886,SKU-1027,Winter Jacket,Clothing,2025-04-22,9,483.4,4350.6,B2B Direct,West,0,15
+SALE-9887,SKU-1045,Hand Cream,Beauty,2025-09-03,30,336.24,10087.2,Marketplace,West,0,0
+SALE-9888,SKU-1001,USB-C Hub,Electronics,2025-12-15,2,710.91,1421.82,Retail Store,North,0,0
+SALE-9889,SKU-1015,Whiteboard Markers,Office,2025-12-26,33,356.62,11768.46,Marketplace,South,0,5
+SALE-9890,SKU-1018,Scissors,Office,2025-03-31,49,125.99,6173.51,Retail Store,South,0,0
+SALE-9891,SKU-1048,Toner,Beauty,2025-11-24,30,398.69,11960.7,Website,North,0,20
+SALE-9892,SKU-1006,LED Desk Lamp,Electronics,2025-08-21,39,484.57,18898.23,Website,East,0,0
+SALE-9893,SKU-1003,Gaming Mouse,Electronics,2025-05-05,48,333.92,16028.16,B2B Direct,Central,0,10
+SALE-9894,SKU-1033,Cutting Board,Home & Kitchen,2025-05-16,36,355.21,12787.56,Retail Store,South,0,5
+SALE-9895,SKU-1009,Laptop Stand,Electronics,2025-08-05,41,84.62,3469.42,Marketplace,North,0,0
+SALE-9896,SKU-1004,Webcam,Electronics,2025-03-04,10,342.33,3423.3,B2B Direct,North,0,0
+SALE-9897,SKU-1030,Coffee Maker,Home & Kitchen,2025-03-16,33,420.91,13890.03,Retail Store,West,1,0
+SALE-9898,SKU-1030,Coffee Maker,Home & Kitchen,2025-06-06,16,505.09,8081.44,B2B Direct,East,0,15
+SALE-9899,SKU-1039,Dish Rack,Home & Kitchen,2025-05-06,28,325.0,9100.0,Mobile App,North,0,10
+SALE-9900,SKU-1015,Whiteboard Markers,Office,2025-05-30,33,254.73,8406.09,B2B Direct,South,0,0
+SALE-9901,SKU-1006,LED Desk Lamp,Electronics,2025-12-30,32,678.4,21708.8,Marketplace,East,0,10
+SALE-9902,SKU-1029,Sport Leggings,Clothing,2025-10-03,28,72.05,2017.4,Mobile App,North,0,5
+SALE-9903,SKU-1000,Wireless Earbuds,Electronics,2025-12-26,20,527.09,10541.8,Website,Central,0,15
+SALE-9904,SKU-1008,Smart Speaker,Electronics,2025-10-29,47,213.01,10011.47,Retail Store,East,1,0
+SALE-9905,SKU-1032,Non-stick Pan,Home & Kitchen,2025-06-19,23,454.52,10453.96,B2B Direct,West,0,5
+SALE-9906,SKU-1022,Hoodie,Clothing,2026-02-02,47,85.9,4037.3,B2B Direct,East,0,10
+SALE-9907,SKU-1017,Printer Ink Cartridge,Office,2026-02-04,20,587.04,11740.8,Retail Store,North,0,20
+SALE-9908,SKU-1038,Mixing Bowls Set,Home & Kitchen,2026-02-04,12,217.33,2607.96,B2B Direct,Central,0,0
+SALE-9909,SKU-1020,Men T-Shirt,Clothing,2025-12-30,38,519.47,19739.86,Marketplace,Central,0,0
+SALE-9910,SKU-1001,USB-C Hub,Electronics,2025-05-24,15,507.79,7616.85,Website,North,2,0
+SALE-9911,SKU-1048,Toner,Beauty,2025-06-30,50,341.74,17087.0,Mobile App,North,0,0
+SALE-9912,SKU-1026,Polo Shirt,Clothing,2025-04-05,4,255.0,1020.0,B2B Direct,East,0,10
+SALE-9913,SKU-1028,Denim Shorts,Clothing,2025-09-11,39,191.99,7487.61,Website,South,0,0
+SALE-9914,SKU-1008,Smart Speaker,Electronics,2026-01-24,37,213.01,7881.37,B2B Direct,South,0,0
+SALE-9915,SKU-1018,Scissors,Office,2025-06-27,13,151.19,1965.47,Mobile App,West,0,0
+SALE-9916,SKU-1037,Air Fryer,Home & Kitchen,2025-03-16,41,250.76,10281.16,Website,South,0,15
+SALE-9917,SKU-1023,Running Shoes,Clothing,2025-09-28,37,410.32,15181.84,B2B Direct,North,0,10
+SALE-9918,SKU-1046,Body Lotion,Beauty,2026-01-26,34,43.01,1462.34,Retail Store,South,0,0
+SALE-9919,SKU-1022,Hoodie,Clothing,2025-09-02,40,85.9,3436.0,B2B Direct,South,0,5
+SALE-9920,SKU-1004,Webcam,Electronics,2025-12-20,6,479.26,2875.56,Mobile App,Central,0,0
+SALE-9921,SKU-1003,Gaming Mouse,Electronics,2026-01-05,35,333.92,11687.2,Marketplace,North,0,0
+SALE-9922,SKU-1016,Desk Organizer,Office,2025-09-19,46,317.54,14606.84,Marketplace,North,1,0
+SALE-9923,SKU-1036,Electric Kettle,Home & Kitchen,2025-07-05,34,48.41,1645.94,B2B Direct,Central,0,0
+SALE-9924,SKU-1044,Lip Balm,Beauty,2025-04-29,38,477.06,18128.28,Retail Store,East,0,0
+SALE-9925,SKU-1016,Desk Organizer,Office,2025-06-14,22,381.05,8383.1,Website,South,0,10
+SALE-9926,SKU-1048,Toner,Beauty,2026-02-06,4,284.78,1139.12,Mobile App,West,0,5
+SALE-9927,SKU-1039,Dish Rack,Home & Kitchen,2026-02-26,49,325.0,15925.0,Website,East,1,5
+SALE-9928,SKU-1039,Dish Rack,Home & Kitchen,2025-04-14,36,325.0,11700.0,Retail Store,South,0,0
+SALE-9929,SKU-1031,Blender,Home & Kitchen,2025-11-18,15,705.71,10585.65,Marketplace,West,0,10
+SALE-9930,SKU-1014,File Folders,Office,2025-03-14,4,290.71,1162.84,Website,South,0,0
+SALE-9931,SKU-1043,Sunscreen SPF50,Beauty,2025-03-13,36,334.2,12031.2,Retail Store,North,0,5
+SALE-9932,SKU-1027,Winter Jacket,Clothing,2026-02-26,28,483.4,13535.2,B2B Direct,South,0,15
+SALE-9933,SKU-1023,Running Shoes,Clothing,2025-08-31,13,410.32,5334.16,Marketplace,West,0,0
+SALE-9934,SKU-1000,Wireless Earbuds,Electronics,2025-06-28,27,451.79,12198.33,B2B Direct,Central,1,0
+SALE-9935,SKU-1046,Body Lotion,Beauty,2025-07-09,4,51.61,206.44,Website,North,0,0
+SALE-9936,SKU-1020,Men T-Shirt,Clothing,2025-08-30,39,371.05,14470.95,Mobile App,East,0,0
+SALE-9937,SKU-1007,Power Bank,Electronics,2026-02-03,5,304.06,1520.3,Website,East,0,10
+SALE-9938,SKU-1022,Hoodie,Clothing,2025-06-24,29,103.08,2989.32,Marketplace,East,0,5
+SALE-9939,SKU-1033,Cutting Board,Home & Kitchen,2025-07-18,21,426.25,8951.25,B2B Direct,Central,0,15
+SALE-9940,SKU-1045,Hand Cream,Beauty,2026-01-16,32,336.24,10759.68,Marketplace,North,1,10
+SALE-9941,SKU-1033,Cutting Board,Home & Kitchen,2025-06-30,20,426.25,8525.0,B2B Direct,South,0,10
+SALE-9942,SKU-1009,Laptop Stand,Electronics,2025-03-22,16,84.62,1353.92,Retail Store,West,0,10
+SALE-9943,SKU-1017,Printer Ink Cartridge,Office,2025-07-24,38,704.45,26769.1,Retail Store,East,0,15
+SALE-9944,SKU-1024,Baseball Cap,Clothing,2025-11-12,2,174.86,349.72,Retail Store,West,0,0
+SALE-9945,SKU-1011,A4 Paper (Ream),Office,2026-02-04,28,515.31,14428.68,B2B Direct,North,0,5
+SALE-9946,SKU-1022,Hoodie,Clothing,2025-03-17,39,85.9,3350.1,Marketplace,East,0,0
+SALE-9947,SKU-1046,Body Lotion,Beauty,2026-01-16,28,43.01,1204.28,Retail Store,North,0,20
+SALE-9948,SKU-1043,Sunscreen SPF50,Beauty,2025-07-29,35,401.04,14036.4,Retail Store,West,0,10
+SALE-9949,SKU-1016,Desk Organizer,Office,2025-05-26,25,317.54,7938.5,Retail Store,South,1,0
+SALE-9950,SKU-1043,Sunscreen SPF50,Beauty,2025-07-22,6,401.04,2406.24,Mobile App,Central,0,0
+SALE-9951,SKU-1039,Dish Rack,Home & Kitchen,2025-07-22,24,390.0,9360.0,Marketplace,East,0,5
+SALE-9952,SKU-1007,Power Bank,Electronics,2025-08-08,37,304.06,11250.22,Marketplace,East,0,0
+SALE-9953,SKU-1000,Wireless Earbuds,Electronics,2025-10-28,3,376.49,1129.47,Marketplace,West,0,0
+SALE-9954,SKU-1003,Gaming Mouse,Electronics,2025-12-25,6,467.49,2804.94,Marketplace,Central,0,0
+SALE-9955,SKU-1011,A4 Paper (Ream),Office,2025-07-14,50,618.37,30918.5,Marketplace,East,0,5
+SALE-9956,SKU-1009,Laptop Stand,Electronics,2026-01-14,42,84.62,3554.04,Website,South,0,0
+SALE-9957,SKU-1032,Non-stick Pan,Home & Kitchen,2025-10-15,38,378.77,14393.26,Marketplace,North,0,0
+SALE-9958,SKU-1045,Hand Cream,Beauty,2025-07-14,17,403.49,6859.33,Website,East,0,5
+SALE-9959,SKU-1022,Hoodie,Clothing,2025-04-28,5,85.9,429.5,B2B Direct,West,0,0
+SALE-9960,SKU-1020,Men T-Shirt,Clothing,2025-12-21,24,519.47,12467.28,Retail Store,North,0,0
+SALE-9961,SKU-1001,USB-C Hub,Electronics,2025-08-18,39,507.79,19803.81,Marketplace,East,0,0
+SALE-9962,SKU-1018,Scissors,Office,2026-01-16,2,125.99,251.98,Mobile App,East,0,0
+SALE-9963,SKU-1037,Air Fryer,Home & Kitchen,2025-03-17,7,250.76,1755.32,B2B Direct,South,0,10
+SALE-9964,SKU-1032,Non-stick Pan,Home & Kitchen,2025-12-26,46,530.28,24392.88,Marketplace,South,0,0
+SALE-9965,SKU-1046,Body Lotion,Beauty,2025-05-19,25,43.01,1075.25,Website,North,0,20
+SALE-9966,SKU-1040,Face Moisturizer,Beauty,2025-12-09,47,302.16,14201.52,Retail Store,Central,0,15
+SALE-9967,SKU-1003,Gaming Mouse,Electronics,2026-01-08,31,333.92,10351.52,B2B Direct,Central,0,0
+SALE-9968,SKU-1036,Electric Kettle,Home & Kitchen,2025-08-01,16,40.34,645.44,Marketplace,South,0,0
+SALE-9969,SKU-1007,Power Bank,Electronics,2026-02-21,16,304.06,4864.96,Retail Store,West,0,5
+SALE-9970,SKU-1004,Webcam,Electronics,2025-09-05,42,342.33,14377.86,Retail Store,Central,0,0
+SALE-9971,SKU-1036,Electric Kettle,Home & Kitchen,2025-05-07,35,40.34,1411.9,Mobile App,West,0,0
+SALE-9972,SKU-1016,Desk Organizer,Office,2025-07-28,22,381.05,8383.1,Marketplace,North,0,5
+SALE-9973,SKU-1009,Laptop Stand,Electronics,2025-12-23,32,118.47,3791.04,Mobile App,South,0,0
+SALE-9974,SKU-1016,Desk Organizer,Office,2025-12-12,46,444.56,20449.76,Retail Store,North,0,10
+SALE-9975,SKU-1001,USB-C Hub,Electronics,2026-02-20,11,507.79,5585.69,Website,South,0,15
+SALE-9976,SKU-1027,Winter Jacket,Clothing,2025-09-01,9,483.4,4350.6,Retail Store,Central,0,0
+SALE-9977,SKU-1021,Women Jeans,Clothing,2025-12-31,39,427.62,16677.18,B2B Direct,North,0,10
+SALE-9978,SKU-1022,Hoodie,Clothing,2025-10-19,27,85.9,2319.3,Retail Store,West,0,10
+SALE-9979,SKU-1046,Body Lotion,Beauty,2025-06-05,47,51.61,2425.67,B2B Direct,Central,0,0
+SALE-9980,SKU-1037,Air Fryer,Home & Kitchen,2025-09-09,44,250.76,11033.44,Retail Store,West,0,5
+SALE-9981,SKU-1037,Air Fryer,Home & Kitchen,2025-07-25,50,300.91,15045.5,Website,South,0,0
+SALE-9982,SKU-1033,Cutting Board,Home & Kitchen,2025-11-27,38,497.29,18897.02,B2B Direct,West,0,0
+SALE-9983,SKU-1011,A4 Paper (Ream),Office,2025-05-16,3,515.31,1545.93,Mobile App,West,0,15
+SALE-9984,SKU-1020,Men T-Shirt,Clothing,2025-04-23,23,371.05,8534.15,Marketplace,South,0,0
+SALE-9985,SKU-1014,File Folders,Office,2025-05-29,19,290.71,5523.49,Marketplace,Central,1,5
+SALE-9986,SKU-1009,Laptop Stand,Electronics,2025-04-22,14,84.62,1184.68,B2B Direct,Central,0,15
+SALE-9987,SKU-1034,Kitchen Knife Set,Home & Kitchen,2025-12-04,13,391.86,5094.18,Website,West,0,0
+SALE-9988,SKU-1036,Electric Kettle,Home & Kitchen,2025-10-08,47,40.34,1895.98,Retail Store,Central,0,0
+SALE-9989,SKU-1007,Power Bank,Electronics,2026-02-28,8,304.06,2432.48,Retail Store,West,0,15
+SALE-9990,SKU-1017,Printer Ink Cartridge,Office,2026-02-09,8,587.04,4696.32,Marketplace,North,0,10
+SALE-9991,SKU-1020,Men T-Shirt,Clothing,2025-05-23,33,371.05,12244.65,Marketplace,East,0,5
+SALE-9992,SKU-1049,Serum 30ml,Beauty,2025-04-10,46,409.33,18829.18,Marketplace,North,0,10
+SALE-9993,SKU-1033,Cutting Board,Home & Kitchen,2025-08-13,13,355.21,4617.73,B2B Direct,North,0,0
+SALE-9994,SKU-1037,Air Fryer,Home & Kitchen,2025-09-12,15,250.76,3761.4,Mobile App,East,0,10
+SALE-9995,SKU-1046,Body Lotion,Beauty,2025-11-13,19,60.21,1143.99,Mobile App,South,0,20
+SALE-9996,SKU-1046,Body Lotion,Beauty,2025-06-21,1,51.61,51.61,Retail Store,North,0,0
+SALE-9997,SKU-1011,A4 Paper (Ream),Office,2025-03-23,27,515.31,13913.37,Marketplace,Central,0,0
+SALE-9998,SKU-1022,Hoodie,Clothing,2025-11-06,34,120.26,4088.84,Mobile App,East,0,5
+SALE-9999,SKU-1031,Blender,Home & Kitchen,2026-01-20,26,504.08,13106.08,B2B Direct,East,0,0
+SALE-10000,SKU-1007,Power Bank,Electronics,2025-07-29,27,364.87,9851.49,Retail Store,East,0,0
+SALE-10001,SKU-1029,Sport Leggings,Clothing,2025-08-14,43,72.05,3098.15,Website,East,0,0
+SALE-10002,SKU-1030,Coffee Maker,Home & Kitchen,2025-11-09,39,589.27,22981.53,Retail Store,South,0,5
+SALE-10003,SKU-1026,Polo Shirt,Clothing,2025-04-04,36,255.0,9180.0,Marketplace,East,0,0
+SALE-10004,SKU-1028,Denim Shorts,Clothing,2025-10-07,26,191.99,4991.74,Marketplace,North,0,0
+SALE-10005,SKU-1040,Face Moisturizer,Beauty,2025-03-27,20,215.83,4316.6,Retail Store,West,0,0
+SALE-10006,SKU-1013,Stapler,Office,2026-01-18,8,196.06,1568.48,B2B Direct,Central,0,5
+SALE-10007,SKU-1046,Body Lotion,Beauty,2025-03-14,25,43.01,1075.25,Website,East,0,5
+SALE-10008,SKU-1041,Shampoo 500ml,Beauty,2025-03-29,34,344.31,11706.54,Mobile App,East,0,0
+SALE-10009,SKU-1034,Kitchen Knife Set,Home & Kitchen,2025-09-22,46,279.9,12875.4,Mobile App,East,1,0
+SALE-10010,SKU-1013,Stapler,Office,2025-12-12,47,274.48,12900.56,Mobile App,North,0,10
+SALE-10011,SKU-1033,Cutting Board,Home & Kitchen,2025-04-25,33,355.21,11721.93,Retail Store,West,0,0
+SALE-10012,SKU-1014,File Folders,Office,2026-01-21,50,290.71,14535.5,Mobile App,North,0,10
+SALE-10013,SKU-1024,Baseball Cap,Clothing,2026-02-02,26,124.9,3247.4,Mobile App,East,0,5
+SALE-10014,SKU-1045,Hand Cream,Beauty,2025-10-02,2,336.24,672.48,Website,Central,3,0
+SALE-10015,SKU-1037,Air Fryer,Home & Kitchen,2025-09-20,13,250.76,3259.88,B2B Direct,East,0,10
+SALE-10016,SKU-1019,Tape Dispenser,Office,2025-07-22,30,573.42,17202.6,Mobile App,North,2,5
+SALE-10017,SKU-1024,Baseball Cap,Clothing,2025-07-31,28,149.88,4196.64,Website,South,0,0
+SALE-10018,SKU-1044,Lip Balm,Beauty,2025-12-02,33,667.88,22040.04,Mobile App,West,1,10
+SALE-10019,SKU-1023,Running Shoes,Clothing,2025-12-08,46,574.45,26424.7,Website,West,0,0
+SALE-10020,SKU-1049,Serum 30ml,Beauty,2025-06-30,29,491.2,14244.8,Marketplace,West,0,0
+SALE-10021,SKU-1009,Laptop Stand,Electronics,2026-01-20,6,84.62,507.72,Website,Central,0,15
+SALE-10022,SKU-1037,Air Fryer,Home & Kitchen,2025-07-09,6,300.91,1805.46,Mobile App,West,0,5
+SALE-10023,SKU-1036,Electric Kettle,Home & Kitchen,2025-07-01,4,48.41,193.64,Retail Store,East,0,0
+SALE-10024,SKU-1009,Laptop Stand,Electronics,2025-03-22,21,84.62,1777.02,B2B Direct,Central,0,0
+SALE-10025,SKU-1013,Stapler,Office,2025-12-16,32,274.48,8783.36,B2B Direct,West,2,0
+SALE-10026,SKU-1029,Sport Leggings,Clothing,2026-03-01,31,72.05,2233.55,B2B Direct,Central,3,0
+SALE-10027,SKU-1006,LED Desk Lamp,Electronics,2025-10-07,45,484.57,21805.65,Website,West,0,0
+SALE-10028,SKU-1047,Eye Cream,Beauty,2025-05-05,11,73.21,805.31,Mobile App,West,0,0
+SALE-10029,SKU-1010,Ballpoint Pens (Box),Office,2026-01-18,34,139.01,4726.34,Retail Store,South,0,0
+SALE-10030,SKU-1000,Wireless Earbuds,Electronics,2025-08-02,8,376.49,3011.92,Retail Store,East,3,5
+SALE-10031,SKU-1033,Cutting Board,Home & Kitchen,2025-08-16,40,355.21,14208.4,Marketplace,Central,0,0
+SALE-10032,SKU-1043,Sunscreen SPF50,Beauty,2025-06-16,40,401.04,16041.6,Marketplace,Central,0,0
+SALE-10033,SKU-1021,Women Jeans,Clothing,2025-05-12,11,305.44,3359.84,B2B Direct,West,0,0
+SALE-10034,SKU-1030,Coffee Maker,Home & Kitchen,2025-04-07,1,420.91,420.91,Marketplace,South,0,5
+SALE-10035,SKU-1021,Women Jeans,Clothing,2025-04-21,4,305.44,1221.76,B2B Direct,West,0,0
+SALE-10036,SKU-1035,Food Storage Containers,Home & Kitchen,2025-06-27,23,269.52,6198.96,Website,South,0,15
+SALE-10037,SKU-1027,Winter Jacket,Clothing,2025-12-28,47,676.76,31807.72,Marketplace,East,0,15
+SALE-10038,SKU-1035,Food Storage Containers,Home & Kitchen,2025-12-06,42,314.44,13206.48,Mobile App,North,0,10
+SALE-10039,SKU-1017,Printer Ink Cartridge,Office,2025-06-03,17,704.45,11975.65,B2B Direct,North,0,5
+SALE-10040,SKU-1049,Serum 30ml,Beauty,2025-09-16,22,409.33,9005.26,B2B Direct,Central,0,10
+SALE-10041,SKU-1039,Dish Rack,Home & Kitchen,2026-02-09,31,325.0,10075.0,Mobile App,South,0,20
+SALE-10042,SKU-1005,Monitor Stand,Electronics,2026-01-12,10,357.41,3574.1,Mobile App,South,0,0
+SALE-10043,SKU-1003,Gaming Mouse,Electronics,2025-05-13,33,333.92,11019.36,Retail Store,West,0,0
+SALE-10044,SKU-1048,Toner,Beauty,2025-05-03,16,284.78,4556.48,B2B Direct,West,0,10
+SALE-10045,SKU-1022,Hoodie,Clothing,2025-08-10,34,85.9,2920.6,Marketplace,Central,0,10
+SALE-10046,SKU-1010,Ballpoint Pens (Box),Office,2026-01-22,18,139.01,2502.18,Mobile App,West,0,5
+SALE-10047,SKU-1016,Desk Organizer,Office,2026-02-17,8,317.54,2540.32,B2B Direct,West,0,0
+SALE-10048,SKU-1023,Running Shoes,Clothing,2025-10-28,50,410.32,20516.0,Marketplace,West,0,15
+SALE-10049,SKU-1012,Sticky Notes Pack,Office,2025-09-15,24,254.78,6114.72,Mobile App,North,0,5
+SALE-10050,SKU-1000,Wireless Earbuds,Electronics,2025-12-29,20,527.09,10541.8,Marketplace,North,2,5
+SALE-10051,SKU-1000,Wireless Earbuds,Electronics,2026-01-08,18,376.49,6776.82,Website,East,0,0
+SALE-10052,SKU-1044,Lip Balm,Beauty,2026-02-27,17,477.06,8110.02,Marketplace,North,0,15
+SALE-10053,SKU-1030,Coffee Maker,Home & Kitchen,2026-01-09,41,420.91,17257.31,Retail Store,West,0,15
+SALE-10054,SKU-1048,Toner,Beauty,2025-12-08,7,398.69,2790.83,Website,East,0,10
+SALE-10055,SKU-1045,Hand Cream,Beauty,2025-06-02,9,403.49,3631.41,Website,West,0,5
+SALE-10056,SKU-1003,Gaming Mouse,Electronics,2025-08-11,7,333.92,2337.44,B2B Direct,East,0,10
+SALE-10057,SKU-1021,Women Jeans,Clothing,2026-02-11,21,305.44,6414.24,Mobile App,Central,3,5
+SALE-10058,SKU-1042,Conditioner 500ml,Beauty,2025-09-26,27,62.8,1695.6,Website,North,0,5
+SALE-10059,SKU-1046,Body Lotion,Beauty,2025-07-18,6,51.61,309.66,Mobile App,West,0,0
+SALE-10060,SKU-1032,Non-stick Pan,Home & Kitchen,2025-09-29,12,378.77,4545.24,Website,East,0,0
+SALE-10061,SKU-1029,Sport Leggings,Clothing,2025-12-19,45,100.87,4539.15,Website,Central,0,15
+SALE-10062,SKU-1011,A4 Paper (Ream),Office,2025-04-17,12,515.31,6183.72,Marketplace,Central,3,10
+SALE-10063,SKU-1000,Wireless Earbuds,Electronics,2025-06-23,41,451.79,18523.39,Marketplace,West,0,15
+SALE-10064,SKU-1019,Tape Dispenser,Office,2026-02-15,42,477.85,20069.7,Mobile App,South,0,10
+SALE-10065,SKU-1011,A4 Paper (Ream),Office,2025-07-24,9,618.37,5565.33,B2B Direct,East,0,0
+SALE-10066,SKU-1012,Sticky Notes Pack,Office,2025-06-02,19,305.74,5809.06,Marketplace,West,0,0
+SALE-10067,SKU-1023,Running Shoes,Clothing,2025-08-29,50,410.32,20516.0,B2B Direct,West,0,0
+SALE-10068,SKU-1037,Air Fryer,Home & Kitchen,2025-09-17,10,250.76,2507.6,B2B Direct,Central,1,0
+SALE-10069,SKU-1041,Shampoo 500ml,Beauty,2026-02-16,19,344.31,6541.89,Mobile App,East,3,5
+SALE-10070,SKU-1047,Eye Cream,Beauty,2025-07-19,6,87.85,527.1,B2B Direct,South,0,0
+SALE-10071,SKU-1007,Power Bank,Electronics,2025-11-23,43,425.68,18304.24,Mobile App,West,0,0
+SALE-10072,SKU-1036,Electric Kettle,Home & Kitchen,2025-09-13,43,40.34,1734.62,B2B Direct,North,0,5
+SALE-10073,SKU-1000,Wireless Earbuds,Electronics,2025-05-24,27,376.49,10165.23,Retail Store,East,0,0
+SALE-10074,SKU-1022,Hoodie,Clothing,2025-08-07,11,85.9,944.9,Retail Store,Central,0,0
+SALE-10075,SKU-1039,Dish Rack,Home & Kitchen,2025-10-23,38,325.0,12350.0,B2B Direct,West,0,10
+SALE-10076,SKU-1016,Desk Organizer,Office,2025-09-11,39,317.54,12384.06,Marketplace,West,0,0
+SALE-10077,SKU-1014,File Folders,Office,2025-11-18,7,406.99,2848.93,Retail Store,West,2,0
+SALE-10078,SKU-1001,USB-C Hub,Electronics,2025-05-26,33,507.79,16757.07,Mobile App,East,3,15
+SALE-10079,SKU-1012,Sticky Notes Pack,Office,2025-12-19,49,356.69,17477.81,Mobile App,South,0,20
+SALE-10080,SKU-1005,Monitor Stand,Electronics,2025-08-09,50,357.41,17870.5,Mobile App,East,0,0
+SALE-10081,SKU-1042,Conditioner 500ml,Beauty,2025-05-18,13,62.8,816.4,Mobile App,East,0,0
+SALE-10082,SKU-1013,Stapler,Office,2025-10-13,6,196.06,1176.36,Mobile App,South,0,10
+SALE-10083,SKU-1000,Wireless Earbuds,Electronics,2025-11-03,11,527.09,5797.99,Marketplace,North,0,0
+SALE-10084,SKU-1013,Stapler,Office,2025-10-31,43,196.06,8430.58,Retail Store,West,0,15
+SALE-10085,SKU-1024,Baseball Cap,Clothing,2025-05-08,21,124.9,2622.9,Mobile App,West,0,10
+SALE-10086,SKU-1046,Body Lotion,Beauty,2025-10-07,39,43.01,1677.39,Retail Store,Central,0,5
+SALE-10087,SKU-1037,Air Fryer,Home & Kitchen,2025-03-17,15,250.76,3761.4,B2B Direct,South,0,0
+SALE-10088,SKU-1000,Wireless Earbuds,Electronics,2026-01-10,39,376.49,14683.11,Retail Store,North,0,0
+SALE-10089,SKU-1002,Mechanical Keyboard,Electronics,2025-06-20,20,295.31,5906.2,Retail Store,North,0,0
+SALE-10090,SKU-1009,Laptop Stand,Electronics,2025-07-27,20,101.54,2030.8,Retail Store,West,0,20
+SALE-10091,SKU-1011,A4 Paper (Ream),Office,2025-05-26,26,515.31,13398.06,B2B Direct,North,0,0
+SALE-10092,SKU-1046,Body Lotion,Beauty,2025-04-24,42,43.01,1806.42,Retail Store,North,0,5
+SALE-10093,SKU-1024,Baseball Cap,Clothing,2026-02-18,30,124.9,3747.0,Website,West,3,0
+SALE-10094,SKU-1049,Serum 30ml,Beauty,2025-03-31,20,409.33,8186.6,Retail Store,East,0,5
+SALE-10095,SKU-1028,Denim Shorts,Clothing,2025-11-16,24,268.79,6450.96,Retail Store,East,3,0
+SALE-10096,SKU-1011,A4 Paper (Ream),Office,2025-10-07,35,515.31,18035.85,Retail Store,North,0,15
+SALE-10097,SKU-1045,Hand Cream,Beauty,2025-12-31,17,470.74,8002.58,Mobile App,Central,0,0
+SALE-10098,SKU-1003,Gaming Mouse,Electronics,2025-10-27,19,333.92,6344.48,Website,North,0,0
+SALE-10099,SKU-1038,Mixing Bowls Set,Home & Kitchen,2026-02-18,24,217.33,5215.92,Marketplace,West,0,10
+SALE-10100,SKU-1001,USB-C Hub,Electronics,2025-12-06,18,710.91,12796.38,Mobile App,East,0,0
+SALE-10101,SKU-1019,Tape Dispenser,Office,2026-01-23,3,477.85,1433.55,B2B Direct,North,0,5
+SALE-10102,SKU-1025,Socks (Pack-6),Clothing,2025-07-09,12,470.4,5644.8,Website,Central,0,0
+SALE-10103,SKU-1031,Blender,Home & Kitchen,2025-10-10,18,504.08,9073.44,Marketplace,West,0,15
+SALE-10104,SKU-1046,Body Lotion,Beauty,2025-11-27,37,60.21,2227.77,Retail Store,North,0,0
+SALE-10105,SKU-1038,Mixing Bowls Set,Home & Kitchen,2026-01-24,7,217.33,1521.31,Retail Store,Central,0,15
+SALE-10106,SKU-1047,Eye Cream,Beauty,2025-08-05,28,73.21,2049.88,Retail Store,North,1,0
+SALE-10107,SKU-1041,Shampoo 500ml,Beauty,2025-04-13,28,344.31,9640.68,Website,South,0,0
+SALE-10108,SKU-1032,Non-stick Pan,Home & Kitchen,2025-12-05,16,530.28,8484.48,Website,East,0,10
+SALE-10109,SKU-1027,Winter Jacket,Clothing,2025-07-22,48,580.08,27843.84,Mobile App,East,0,5
+SALE-10110,SKU-1011,A4 Paper (Ream),Office,2026-02-14,19,515.31,9790.89,Marketplace,North,0,10
+SALE-10111,SKU-1042,Conditioner 500ml,Beauty,2025-05-09,18,62.8,1130.4,Marketplace,West,0,5
+SALE-10112,SKU-1006,LED Desk Lamp,Electronics,2025-06-25,15,581.48,8722.2,Website,East,0,0
+SALE-10113,SKU-1045,Hand Cream,Beauty,2026-01-09,30,336.24,10087.2,B2B Direct,West,0,5
+SALE-10114,SKU-1030,Coffee Maker,Home & Kitchen,2025-12-14,1,589.27,589.27,Marketplace,East,0,0
+SALE-10115,SKU-1029,Sport Leggings,Clothing,2025-11-14,14,100.87,1412.18,B2B Direct,South,0,0
+SALE-10116,SKU-1042,Conditioner 500ml,Beauty,2025-12-21,6,87.92,527.52,Retail Store,Central,0,10
+SALE-10117,SKU-1033,Cutting Board,Home & Kitchen,2025-09-09,20,355.21,7104.2,Marketplace,East,0,0
+SALE-10118,SKU-1039,Dish Rack,Home & Kitchen,2025-12-28,11,455.0,5005.0,B2B Direct,East,0,20
+SALE-10119,SKU-1001,USB-C Hub,Electronics,2025-07-27,36,609.35,21936.6,Retail Store,South,2,0
+SALE-10120,SKU-1038,Mixing Bowls Set,Home & Kitchen,2025-05-06,7,217.33,1521.31,Retail Store,South,1,5
+SALE-10121,SKU-1011,A4 Paper (Ream),Office,2025-05-24,50,515.31,25765.5,Retail Store,Central,0,0
+SALE-10122,SKU-1038,Mixing Bowls Set,Home & Kitchen,2025-07-24,21,260.8,5476.8,Marketplace,North,0,20
+SALE-10123,SKU-1048,Toner,Beauty,2026-01-23,21,284.78,5980.38,B2B Direct,Central,0,15
+SALE-10124,SKU-1031,Blender,Home & Kitchen,2025-10-27,19,504.08,9577.52,Retail Store,South,0,0
+SALE-10125,SKU-1021,Women Jeans,Clothing,2025-10-27,42,305.44,12828.48,Mobile App,North,0,0
+SALE-10126,SKU-1026,Polo Shirt,Clothing,2025-09-30,13,255.0,3315.0,Website,Central,0,5
+SALE-10127,SKU-1005,Monitor Stand,Electronics,2026-01-04,37,357.41,13224.17,Retail Store,North,0,0
+SALE-10128,SKU-1040,Face Moisturizer,Beauty,2025-10-31,44,215.83,9496.52,Website,East,0,15
+SALE-10129,SKU-1041,Shampoo 500ml,Beauty,2025-09-19,36,344.31,12395.16,B2B Direct,South,0,10
+SALE-10130,SKU-1015,Whiteboard Markers,Office,2025-06-01,31,305.68,9476.08,Mobile App,East,0,15
+SALE-10131,SKU-1013,Stapler,Office,2025-12-24,30,274.48,8234.4,Retail Store,South,0,20
+SALE-10132,SKU-1011,A4 Paper (Ream),Office,2025-10-26,33,515.31,17005.23,Website,Central,0,15
+SALE-10133,SKU-1015,Whiteboard Markers,Office,2025-10-26,47,254.73,11972.31,Website,North,0,5
+SALE-10134,SKU-1033,Cutting Board,Home & Kitchen,2025-10-30,25,355.21,8880.25,Website,West,0,5
+SALE-10135,SKU-1045,Hand Cream,Beauty,2026-01-08,42,336.24,14122.08,B2B Direct,North,0,10
+SALE-10136,SKU-1018,Scissors,Office,2025-09-23,47,125.99,5921.53,Website,East,0,5
+SALE-10137,SKU-1041,Shampoo 500ml,Beauty,2025-10-15,28,344.31,9640.68,Website,North,0,10
+SALE-10138,SKU-1037,Air Fryer,Home & Kitchen,2025-04-30,47,250.76,11785.72,Mobile App,East,0,0
+SALE-10139,SKU-1015,Whiteboard Markers,Office,2025-11-06,14,356.62,4992.68,Marketplace,North,0,0
+SALE-10140,SKU-1045,Hand Cream,Beauty,2025-11-10,49,470.74,23066.26,Mobile App,East,0,0
+SALE-10141,SKU-1028,Denim Shorts,Clothing,2026-02-25,17,191.99,3263.83,B2B Direct,East,0,0
+SALE-10142,SKU-1033,Cutting Board,Home & Kitchen,2025-07-29,2,426.25,852.5,Mobile App,East,0,0
+SALE-10143,SKU-1045,Hand Cream,Beauty,2025-05-24,37,336.24,12440.88,Marketplace,West,0,0
+SALE-10144,SKU-1047,Eye Cream,Beauty,2026-02-22,9,73.21,658.89,Mobile App,Central,0,0
+SALE-10145,SKU-1014,File Folders,Office,2025-03-18,14,290.71,4069.94,B2B Direct,East,0,0
+SALE-10146,SKU-1046,Body Lotion,Beauty,2025-11-19,48,60.21,2890.08,B2B Direct,West,0,0
+SALE-10147,SKU-1022,Hoodie,Clothing,2026-01-27,10,85.9,859.0,B2B Direct,Central,0,0
+SALE-10148,SKU-1031,Blender,Home & Kitchen,2026-01-29,11,504.08,5544.88,B2B Direct,West,0,0
+SALE-10149,SKU-1042,Conditioner 500ml,Beauty,2025-04-06,22,62.8,1381.6,Mobile App,East,0,0
+SALE-10150,SKU-1049,Serum 30ml,Beauty,2025-05-04,42,409.33,17191.86,Mobile App,East,0,15
+SALE-10151,SKU-1000,Wireless Earbuds,Electronics,2025-11-27,15,527.09,7906.35,Mobile App,East,0,5
+SALE-10152,SKU-1021,Women Jeans,Clothing,2025-11-18,5,427.62,2138.1,Marketplace,Central,0,5
+SALE-10153,SKU-1005,Monitor Stand,Electronics,2025-04-01,29,357.41,10364.89,B2B Direct,Central,0,10
+SALE-10154,SKU-1011,A4 Paper (Ream),Office,2026-02-20,42,515.31,21643.02,Mobile App,South,0,0
+SALE-10155,SKU-1038,Mixing Bowls Set,Home & Kitchen,2025-07-18,36,260.8,9388.8,Marketplace,North,0,10
+SALE-10156,SKU-1004,Webcam,Electronics,2025-05-10,34,342.33,11639.22,Marketplace,North,0,5
+SALE-10157,SKU-1037,Air Fryer,Home & Kitchen,2025-11-03,30,351.06,10531.8,Website,Central,0,5
+SALE-10158,SKU-1012,Sticky Notes Pack,Office,2025-11-03,8,356.69,2853.52,Retail Store,North,0,5
+SALE-10159,SKU-1013,Stapler,Office,2026-01-04,32,196.06,6273.92,Marketplace,Central,0,15
+SALE-10160,SKU-1007,Power Bank,Electronics,2025-10-16,50,304.06,15203.0,Mobile App,Central,0,0
+SALE-10161,SKU-1000,Wireless Earbuds,Electronics,2025-07-10,49,451.79,22137.71,Retail Store,Central,0,0
+SALE-10162,SKU-1032,Non-stick Pan,Home & Kitchen,2025-11-06,33,530.28,17499.24,Marketplace,East,0,0
+SALE-10163,SKU-1017,Printer Ink Cartridge,Office,2026-02-14,36,587.04,21133.44,B2B Direct,East,0,20
+SALE-10164,SKU-1011,A4 Paper (Ream),Office,2025-11-08,1,721.43,721.43,Marketplace,Central,0,0
+SALE-10165,SKU-1048,Toner,Beauty,2025-10-11,44,284.78,12530.32,Marketplace,North,0,5
+SALE-10166,SKU-1011,A4 Paper (Ream),Office,2025-06-11,50,618.37,30918.5,Website,South,0,0
+SALE-10167,SKU-1049,Serum 30ml,Beauty,2025-11-30,31,573.06,17764.86,Website,East,0,5
+SALE-10168,SKU-1020,Men T-Shirt,Clothing,2025-05-23,13,371.05,4823.65,Retail Store,South,0,0
+SALE-10169,SKU-1033,Cutting Board,Home & Kitchen,2025-11-01,42,497.29,20886.18,B2B Direct,West,0,15
+SALE-10170,SKU-1030,Coffee Maker,Home & Kitchen,2025-08-06,24,420.91,10101.84,Mobile App,East,0,10
+SALE-10171,SKU-1020,Men T-Shirt,Clothing,2025-10-20,20,371.05,7421.0,Retail Store,Central,0,0
+SALE-10172,SKU-1025,Socks (Pack-6),Clothing,2025-04-01,27,392.0,10584.0,Marketplace,South,0,0
+SALE-10173,SKU-1045,Hand Cream,Beauty,2025-06-15,14,403.49,5648.86,Marketplace,East,0,0
+SALE-10174,SKU-1024,Baseball Cap,Clothing,2025-08-17,36,124.9,4496.4,B2B Direct,South,0,0
+SALE-10175,SKU-1017,Printer Ink Cartridge,Office,2025-04-27,5,587.04,2935.2,Mobile App,South,0,15
+SALE-10176,SKU-1037,Air Fryer,Home & Kitchen,2025-10-30,3,250.76,752.28,Retail Store,West,0,5
+SALE-10177,SKU-1024,Baseball Cap,Clothing,2025-04-03,7,124.9,874.3,Website,East,0,0
+SALE-10178,SKU-1018,Scissors,Office,2025-04-29,31,125.99,3905.69,Mobile App,North,2,10
+SALE-10179,SKU-1009,Laptop Stand,Electronics,2025-05-20,38,84.62,3215.56,Marketplace,Central,0,0
+SALE-10180,SKU-1020,Men T-Shirt,Clothing,2025-12-22,35,519.47,18181.45,Marketplace,Central,0,5
+SALE-10181,SKU-1008,Smart Speaker,Electronics,2025-04-07,45,213.01,9585.45,Marketplace,East,0,0
+SALE-10182,SKU-1020,Men T-Shirt,Clothing,2025-10-29,15,371.05,5565.75,Retail Store,East,0,20
+SALE-10183,SKU-1016,Desk Organizer,Office,2025-07-12,39,381.05,14860.95,Website,South,0,0
+SALE-10184,SKU-1031,Blender,Home & Kitchen,2025-03-28,34,504.08,17138.72,Website,Central,0,0
+SALE-10185,SKU-1002,Mechanical Keyboard,Electronics,2025-11-17,21,344.53,7235.13,B2B Direct,West,0,5
+SALE-10186,SKU-1047,Eye Cream,Beauty,2025-04-11,37,73.21,2708.77,Website,Central,0,10
+SALE-10187,SKU-1005,Monitor Stand,Electronics,2025-12-22,30,500.37,15011.1,B2B Direct,South,0,0
+SALE-10188,SKU-1017,Printer Ink Cartridge,Office,2025-10-28,29,587.04,17024.16,Mobile App,East,0,5
+SALE-10189,SKU-1029,Sport Leggings,Clothing,2025-11-29,50,100.87,5043.5,Retail Store,North,0,0
+SALE-10190,SKU-1024,Baseball Cap,Clothing,2025-03-13,1,124.9,124.9,Mobile App,East,0,15
+SALE-10191,SKU-1037,Air Fryer,Home & Kitchen,2026-02-12,50,250.76,12538.0,Marketplace,Central,0,0
+SALE-10192,SKU-1036,Electric Kettle,Home & Kitchen,2025-09-01,46,40.34,1855.64,B2B Direct,South,0,0
+SALE-10193,SKU-1011,A4 Paper (Ream),Office,2025-04-24,2,515.31,1030.62,B2B Direct,Central,0,5
+SALE-10194,SKU-1004,Webcam,Electronics,2025-08-18,21,342.33,7188.93,Mobile App,South,0,0
+SALE-10195,SKU-1017,Printer Ink Cartridge,Office,2025-07-01,14,704.45,9862.3,Marketplace,North,0,15
+SALE-10196,SKU-1007,Power Bank,Electronics,2025-09-12,2,304.06,608.12,Retail Store,South,0,0
+SALE-10197,SKU-1012,Sticky Notes Pack,Office,2025-06-17,50,305.74,15287.0,Retail Store,Central,0,0
+SALE-10198,SKU-1037,Air Fryer,Home & Kitchen,2025-11-23,8,351.06,2808.48,Mobile App,South,1,10
+SALE-10199,SKU-1022,Hoodie,Clothing,2025-08-13,27,85.9,2319.3,Mobile App,South,0,0

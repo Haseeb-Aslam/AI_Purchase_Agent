@@ -1,0 +1,601 @@
+po_id,supplier_id,supplier_name,sku_id,product_name,category,order_date,qty_ordered,qty_received,unit_price_usd,total_value_usd,currency,expected_delivery,actual_delivery,delay_days,status,invoice_no,payment_status,notes
+PO-5000,SUP-114,AmeriTrade Supplies,SKU-1015,Whiteboard Markers,Office,2025-04-17,152,152,160.43,24385.36,USD,2025-04-20,2025-05-02,12,Delivered,INV-84691,Overdue,Bulk discount applied
+PO-5001,SUP-107,TrustMart B2B,SKU-1021,Women Jeans,Clothing,2025-03-18,263,263,130.47,34313.61,USD,2025-04-03,2025-04-16,13,Delivered,INV-37802,Pending,Quality check required
+PO-5002,SUP-105,MegaDist Corp,SKU-1021,Women Jeans,Clothing,2025-07-25,460,460,121.68,55972.8,USD,2025-08-13,2025-08-11,-2,Delivered,INV-77715,Paid,
+PO-5003,SUP-104,EcoSource Inc.,SKU-1046,Body Lotion,Beauty,2025-09-28,260,260,30.32,7883.2,USD,2025-10-04,2025-10-17,13,Delivered,INV-94659,Overdue,Rush order
+PO-5004,SUP-108,ValueChain Partners,SKU-1001,USB-C Hub,Electronics,2025-04-20,160,0,197.06,31529.6,USD,2025-05-12,,,Cancelled,INV-41890,Pending,
+PO-5005,SUP-111,AsiaTrade Hub,SKU-1037,Air Fryer,Home & Kitchen,2025-09-08,252,252,152.26,38369.52,USD,2025-09-11,2025-09-22,11,Delivered,INV-82140,Pending,
+PO-5006,SUP-112,EuroGoods Direct,SKU-1029,Sport Leggings,Clothing,2025-07-20,166,166,44.86,7446.76,USD,2025-07-26,2025-07-30,4,Delivered,INV-51359,Paid,Bulk discount applied
+PO-5007,SUP-109,NexGen Procurement,SKU-1048,Toner,Beauty,2026-02-20,104,0,146.67,15253.68,USD,2026-03-12,,,Cancelled,INV-73464,Pending,
+PO-5008,SUP-112,EuroGoods Direct,SKU-1037,Air Fryer,Home & Kitchen,2025-11-27,315,315,140.43,44235.45,USD,2025-12-03,2025-12-07,4,Delivered,INV-48829,Paid,
+PO-5009,SUP-103,PrimeVendor Ltd,SKU-1019,Tape Dispenser,Office,2025-03-11,372,372,223.84,83268.48,USD,2025-03-15,2025-03-14,-1,Delivered,INV-17146,Overdue,
+PO-5010,SUP-112,EuroGoods Direct,SKU-1008,Smart Speaker,Electronics,2026-01-24,454,454,96.31,43724.74,USD,2026-01-30,2026-01-28,-2,Delivered,INV-85243,Pending,Rush order
+PO-5011,SUP-108,ValueChain Partners,SKU-1028,Denim Shorts,Clothing,2025-08-25,104,104,129.34,13451.36,USD,2025-09-16,2025-09-29,13,Delivered,INV-24953,Paid,Rush order
+PO-5012,SUP-108,ValueChain Partners,SKU-1004,Webcam,Electronics,2025-12-24,332,332,242.36,80463.52,USD,2026-01-15,2026-01-17,2,Delivered,INV-83772,Pending,
+PO-5013,SUP-104,EcoSource Inc.,SKU-1007,Power Bank,Electronics,2025-12-14,401,0,181.73,72873.73,USD,2025-12-20,,,In Transit,INV-91057,Pending,
+PO-5014,SUP-113,PacificSource,SKU-1033,Cutting Board,Home & Kitchen,2025-09-14,240,240,188.23,45175.2,USD,2025-10-07,2025-10-18,11,Delivered,INV-50026,Overdue,Seasonal stock
+PO-5015,SUP-101,GlobalTech Supplies,SKU-1039,Dish Rack,Home & Kitchen,2025-04-23,495,0,257.99,127705.05,USD,2025-05-08,,,Cancelled,INV-37659,Pending,
+PO-5016,SUP-111,AsiaTrade Hub,SKU-1005,Monitor Stand,Electronics,2025-05-23,132,132,132.31,17464.92,USD,2025-05-26,2025-05-29,3,Delivered,INV-10350,Pending,Rush order
+PO-5017,SUP-112,EuroGoods Direct,SKU-1038,Mixing Bowls Set,Home & Kitchen,2025-10-30,159,159,83.79,13322.61,USD,2025-11-05,2025-11-12,7,Delivered,INV-69510,Paid,Bulk discount applied
+PO-5018,SUP-104,EcoSource Inc.,SKU-1016,Desk Organizer,Office,2026-01-18,311,311,136.56,42470.16,USD,2026-01-24,2026-02-04,11,Delivered,INV-25043,Overdue,
+PO-5019,SUP-111,AsiaTrade Hub,SKU-1009,Laptop Stand,Electronics,2025-07-18,433,433,39.28,17008.24,USD,2025-07-21,2025-07-24,3,Delivered,INV-50319,Overdue,Bulk discount applied
+PO-5020,SUP-114,AmeriTrade Supplies,SKU-1036,Electric Kettle,Home & Kitchen,2025-07-29,234,0,17.31,4050.54,USD,2025-08-01,,,Cancelled,INV-49857,Pending,Bulk discount applied
+PO-5021,SUP-107,TrustMart B2B,SKU-1017,Printer Ink Cartridge,Office,2025-11-15,286,286,228.65,65393.9,USD,2025-12-01,2025-11-30,-1,Delivered,INV-66626,Overdue,
+PO-5022,SUP-110,SwiftLogistics,SKU-1016,Desk Organizer,Office,2025-03-17,56,0,120.11,6726.16,USD,2025-04-01,,,Cancelled,INV-85392,Pending,Seasonal stock
+PO-5023,SUP-101,GlobalTech Supplies,SKU-1048,Toner,Beauty,2026-02-11,430,430,150.34,64646.2,USD,2026-02-26,2026-03-01,3,Delivered,INV-71669,Overdue,Bulk discount applied
+PO-5024,SUP-108,ValueChain Partners,SKU-1017,Printer Ink Cartridge,Office,2025-06-04,309,185,224.78,69457.02,USD,2025-06-26,2025-07-09,13,Partially Delivered,INV-21959,Pending,Rush order
+PO-5025,SUP-106,QuickMart Wholesale,SKU-1026,Polo Shirt,Clothing,2025-08-21,174,104,169.69,29526.06,USD,2025-09-02,2025-09-05,3,Partially Delivered,INV-53228,Pending,Rush order
+PO-5026,SUP-112,EuroGoods Direct,SKU-1031,Blender,Home & Kitchen,2025-07-29,349,209,251.47,87763.03,USD,2025-08-04,2025-08-03,-1,Partially Delivered,INV-69614,Pending,
+PO-5027,SUP-106,QuickMart Wholesale,SKU-1016,Desk Organizer,Office,2025-08-16,69,0,148.31,10233.39,USD,2025-08-28,,,Pending,INV-77449,Pending,Quality check required
+PO-5028,SUP-101,GlobalTech Supplies,SKU-1042,Conditioner 500ml,Beauty,2025-12-06,246,246,27.16,6681.36,USD,2025-12-21,2026-01-04,14,Delivered,INV-57419,Overdue,Quality check required
+PO-5029,SUP-108,ValueChain Partners,SKU-1040,Face Moisturizer,Beauty,2025-10-16,399,399,74.71,29809.29,USD,2025-11-07,2025-11-09,2,Delivered,INV-47752,Pending,Bulk discount applied
+PO-5030,SUP-108,ValueChain Partners,SKU-1007,Power Bank,Electronics,2025-03-18,332,332,192.2,63810.4,USD,2025-04-09,2025-04-12,3,Delivered,INV-50730,Overdue,
+PO-5031,SUP-109,NexGen Procurement,SKU-1026,Polo Shirt,Clothing,2025-04-20,125,125,184.87,23108.75,USD,2025-05-10,2025-05-22,12,Delivered,INV-25396,Overdue,Quality check required
+PO-5032,SUP-103,PrimeVendor Ltd,SKU-1031,Blender,Home & Kitchen,2025-07-31,270,0,235.9,63693.0,USD,2025-08-04,,,Pending,INV-73242,Pending,Rush order
+PO-5033,SUP-104,EcoSource Inc.,SKU-1029,Sport Leggings,Clothing,2025-12-11,84,0,46.72,3924.48,USD,2025-12-17,,,In Transit,INV-76616,Pending,Bulk discount applied
+PO-5034,SUP-115,NorthStar Vendors,SKU-1008,Smart Speaker,Electronics,2025-04-08,151,90,96.83,14621.33,USD,2025-04-26,2025-05-07,11,Partially Delivered,INV-54548,Pending,Quality check required
+PO-5035,SUP-109,NexGen Procurement,SKU-1017,Printer Ink Cartridge,Office,2025-03-05,154,92,244.17,37602.18,USD,2025-03-25,2025-04-07,13,Partially Delivered,INV-29476,Pending,Rush order
+PO-5036,SUP-109,NexGen Procurement,SKU-1030,Coffee Maker,Home & Kitchen,2025-08-27,180,0,225.2,40536.0,USD,2025-09-16,,,In Transit,INV-59441,Pending,Rush order
+PO-5037,SUP-115,NorthStar Vendors,SKU-1020,Men T-Shirt,Clothing,2025-06-08,367,0,184.91,67861.97,USD,2025-06-26,,,Pending,INV-40613,Pending,Quality check required
+PO-5038,SUP-113,PacificSource,SKU-1026,Polo Shirt,Clothing,2025-03-26,172,0,173.2,29790.4,USD,2025-04-18,,,Cancelled,INV-59968,Pending,Rush order
+PO-5039,SUP-111,AsiaTrade Hub,SKU-1041,Shampoo 500ml,Beauty,2025-05-20,263,263,192.87,50724.81,USD,2025-05-23,2025-06-06,14,Delivered,INV-87356,Pending,Quality check required
+PO-5040,SUP-102,FastShip Co.,SKU-1028,Denim Shorts,Clothing,2025-04-24,279,279,127.51,35575.29,USD,2025-05-13,2025-05-15,2,Delivered,INV-63736,Overdue,
+PO-5041,SUP-102,FastShip Co.,SKU-1030,Coffee Maker,Home & Kitchen,2025-07-17,183,0,229.81,42055.23,USD,2025-08-05,,,Pending,INV-95175,Pending,
+PO-5042,SUP-114,AmeriTrade Supplies,SKU-1021,Women Jeans,Clothing,2026-02-12,449,449,119.52,53664.48,USD,2026-02-15,2026-02-28,13,Delivered,INV-80912,Paid,Seasonal stock
+PO-5043,SUP-102,FastShip Co.,SKU-1015,Whiteboard Markers,Office,2026-01-21,360,360,162.09,58352.4,USD,2026-02-09,2026-02-09,0,Delivered,INV-66881,Paid,Quality check required
+PO-5044,SUP-111,AsiaTrade Hub,SKU-1045,Hand Cream,Beauty,2025-04-24,237,237,167.74,39754.38,USD,2025-04-27,2025-04-25,-2,Delivered,INV-16028,Pending,Quality check required
+PO-5045,SUP-101,GlobalTech Supplies,SKU-1018,Scissors,Office,2025-09-03,201,201,72.48,14568.48,USD,2025-09-18,2025-10-02,14,Delivered,INV-64008,Overdue,Bulk discount applied
+PO-5046,SUP-113,PacificSource,SKU-1011,A4 Paper (Ream),Office,2025-05-30,99,59,192.49,19056.51,USD,2025-06-22,2025-07-02,10,Partially Delivered,INV-91226,Pending,Bulk discount applied
+PO-5047,SUP-104,EcoSource Inc.,SKU-1031,Blender,Home & Kitchen,2025-12-27,83,0,205.18,17029.94,USD,2026-01-02,,,Cancelled,INV-43289,Pending,Rush order
+PO-5048,SUP-105,MegaDist Corp,SKU-1042,Conditioner 500ml,Beauty,2025-03-08,470,470,30.34,14259.8,USD,2025-03-27,2025-03-30,3,Delivered,INV-19681,Pending,
+PO-5049,SUP-110,SwiftLogistics,SKU-1019,Tape Dispenser,Office,2026-01-25,227,0,233.94,53104.38,USD,2026-02-09,,,Pending,INV-49599,Pending,
+PO-5050,SUP-107,TrustMart B2B,SKU-1030,Coffee Maker,Home & Kitchen,2025-04-27,131,131,214.16,28054.96,USD,2025-05-13,2025-05-20,7,Delivered,INV-48696,Paid,Quality check required
+PO-5051,SUP-111,AsiaTrade Hub,SKU-1025,Socks (Pack-6),Clothing,2025-07-22,14,0,155.63,2178.82,USD,2025-07-25,,,Cancelled,INV-16428,Pending,Seasonal stock
+PO-5052,SUP-112,EuroGoods Direct,SKU-1031,Blender,Home & Kitchen,2025-07-28,407,0,241.97,98481.79,USD,2025-08-03,,,In Transit,INV-56179,Pending,
+PO-5053,SUP-111,AsiaTrade Hub,SKU-1012,Sticky Notes Pack,Office,2026-01-15,138,0,163.54,22568.52,USD,2026-01-18,,,Cancelled,INV-96400,Pending,Bulk discount applied
+PO-5054,SUP-114,AmeriTrade Supplies,SKU-1008,Smart Speaker,Electronics,2026-01-19,59,0,100.25,5914.75,USD,2026-01-22,,,Cancelled,INV-15167,Pending,
+PO-5055,SUP-113,PacificSource,SKU-1028,Denim Shorts,Clothing,2025-03-21,306,306,109.39,33473.34,USD,2025-04-13,2025-04-13,0,Delivered,INV-48680,Pending,Bulk discount applied
+PO-5056,SUP-107,TrustMart B2B,SKU-1011,A4 Paper (Ream),Office,2025-06-14,77,77,237.77,18308.29,USD,2025-06-30,2025-07-14,14,Delivered,INV-75771,Pending,Quality check required
+PO-5057,SUP-103,PrimeVendor Ltd,SKU-1016,Desk Organizer,Office,2025-11-05,422,253,122.63,51749.86,USD,2025-11-09,2025-11-17,8,Partially Delivered,INV-25095,Pending,Rush order
+PO-5058,SUP-102,FastShip Co.,SKU-1009,Laptop Stand,Electronics,2025-06-27,450,0,46.11,20749.5,USD,2025-07-16,,,Cancelled,INV-62089,Pending,Quality check required
+PO-5059,SUP-113,PacificSource,SKU-1035,Food Storage Containers,Home & Kitchen,2025-09-07,56,56,132.73,7432.88,USD,2025-09-30,2025-10-06,6,Delivered,INV-80329,Paid,Rush order
+PO-5060,SUP-106,QuickMart Wholesale,SKU-1043,Sunscreen SPF50,Beauty,2026-02-11,144,86,150.09,21612.96,USD,2026-02-23,2026-03-04,9,Partially Delivered,INV-24201,Pending,Bulk discount applied
+PO-5061,SUP-104,EcoSource Inc.,SKU-1030,Coffee Maker,Home & Kitchen,2025-03-16,327,0,246.7,80670.9,USD,2025-03-22,,,In Transit,INV-52992,Pending,Seasonal stock
+PO-5062,SUP-104,EcoSource Inc.,SKU-1041,Shampoo 500ml,Beauty,2025-04-05,335,0,185.89,62273.15,USD,2025-04-11,,,Cancelled,INV-49608,Pending,Bulk discount applied
+PO-5063,SUP-107,TrustMart B2B,SKU-1007,Power Bank,Electronics,2025-05-14,33,33,210.54,6947.82,USD,2025-05-30,2025-06-12,13,Delivered,INV-25220,Paid,
+PO-5064,SUP-115,NorthStar Vendors,SKU-1034,Kitchen Knife Set,Home & Kitchen,2025-05-12,208,0,138.51,28810.08,USD,2025-05-30,,,Cancelled,INV-80804,Pending,Rush order
+PO-5065,SUP-110,SwiftLogistics,SKU-1047,Eye Cream,Beauty,2025-05-22,463,463,32.68,15130.84,USD,2025-06-06,2025-06-19,13,Delivered,INV-90694,Pending,
+PO-5066,SUP-101,GlobalTech Supplies,SKU-1044,Lip Balm,Beauty,2025-09-09,121,121,214.0,25894.0,USD,2025-09-24,2025-10-03,9,Delivered,INV-23022,Overdue,
+PO-5067,SUP-109,NexGen Procurement,SKU-1041,Shampoo 500ml,Beauty,2025-09-03,41,41,164.8,6756.8,USD,2025-09-23,2025-09-24,1,Delivered,INV-69600,Paid,Bulk discount applied
+PO-5068,SUP-104,EcoSource Inc.,SKU-1041,Shampoo 500ml,Beauty,2026-01-25,315,315,193.18,60851.7,USD,2026-01-31,2026-02-08,8,Delivered,INV-41925,Paid,Quality check required
+PO-5069,SUP-110,SwiftLogistics,SKU-1013,Stapler,Office,2025-04-08,434,434,152.64,66245.76,USD,2025-04-23,2025-04-27,4,Delivered,INV-40539,Pending,Quality check required
+PO-5070,SUP-103,PrimeVendor Ltd,SKU-1038,Mixing Bowls Set,Home & Kitchen,2025-03-05,151,151,107.16,16181.16,USD,2025-03-09,2025-03-11,2,Delivered,INV-80807,Pending,Quality check required
+PO-5071,SUP-103,PrimeVendor Ltd,SKU-1007,Power Bank,Electronics,2026-02-05,453,453,160.52,72715.56,USD,2026-02-09,2026-02-18,9,Delivered,INV-41186,Overdue,
+PO-5072,SUP-101,GlobalTech Supplies,SKU-1011,A4 Paper (Ream),Office,2025-07-17,36,0,195.55,7039.8,USD,2025-08-01,,,Pending,INV-78955,Pending,
+PO-5073,SUP-112,EuroGoods Direct,SKU-1004,Webcam,Electronics,2025-11-02,239,0,248.5,59391.5,USD,2025-11-08,,,In Transit,INV-87812,Pending,
+PO-5074,SUP-108,ValueChain Partners,SKU-1032,Non-stick Pan,Home & Kitchen,2025-06-25,494,0,224.18,110744.92,USD,2025-07-17,,,Cancelled,INV-96363,Pending,Seasonal stock
+PO-5075,SUP-105,MegaDist Corp,SKU-1029,Sport Leggings,Clothing,2026-01-27,25,0,42.17,1054.25,USD,2026-02-15,,,Pending,INV-62640,Pending,Rush order
+PO-5076,SUP-111,AsiaTrade Hub,SKU-1006,LED Desk Lamp,Electronics,2025-11-10,374,374,223.48,83581.52,USD,2025-11-13,2025-11-13,0,Delivered,INV-52219,Overdue,
+PO-5077,SUP-102,FastShip Co.,SKU-1008,Smart Speaker,Electronics,2025-07-22,329,0,93.17,30652.93,USD,2025-08-10,,,In Transit,INV-52622,Pending,Rush order
+PO-5078,SUP-110,SwiftLogistics,SKU-1033,Cutting Board,Home & Kitchen,2025-08-01,242,0,168.46,40767.32,USD,2025-08-16,,,Pending,INV-22999,Pending,Quality check required
+PO-5079,SUP-112,EuroGoods Direct,SKU-1007,Power Bank,Electronics,2026-02-02,343,0,206.81,70935.83,USD,2026-02-08,,,In Transit,INV-38183,Pending,Rush order
+PO-5080,SUP-108,ValueChain Partners,SKU-1014,File Folders,Office,2025-10-01,183,0,199.6,36526.8,USD,2025-10-23,,,Pending,INV-64524,Pending,Bulk discount applied
+PO-5081,SUP-102,FastShip Co.,SKU-1020,Men T-Shirt,Clothing,2025-10-08,170,170,209.8,35666.0,USD,2025-10-27,2025-10-29,2,Delivered,INV-72163,Paid,
+PO-5082,SUP-114,AmeriTrade Supplies,SKU-1005,Monitor Stand,Electronics,2025-04-20,231,0,129.01,29801.31,USD,2025-04-23,,,Cancelled,INV-58843,Pending,Quality check required
+PO-5083,SUP-103,PrimeVendor Ltd,SKU-1035,Food Storage Containers,Home & Kitchen,2025-04-03,310,0,138.65,42981.5,USD,2025-04-07,,,In Transit,INV-53207,Pending,Bulk discount applied
+PO-5084,SUP-102,FastShip Co.,SKU-1026,Polo Shirt,Clothing,2025-09-01,457,274,169.46,77443.22,USD,2025-09-20,2025-10-01,11,Partially Delivered,INV-16743,Pending,
+PO-5085,SUP-110,SwiftLogistics,SKU-1019,Tape Dispenser,Office,2025-08-31,63,63,226.67,14280.21,USD,2025-09-15,2025-09-17,2,Delivered,INV-96079,Pending,
+PO-5086,SUP-114,AmeriTrade Supplies,SKU-1006,LED Desk Lamp,Electronics,2025-08-30,442,442,202.9,89681.8,USD,2025-09-02,2025-09-08,6,Delivered,INV-85248,Paid,Quality check required
+PO-5087,SUP-107,TrustMart B2B,SKU-1035,Food Storage Containers,Home & Kitchen,2026-01-16,324,0,128.6,41666.4,USD,2026-02-01,,,In Transit,INV-13441,Pending,Seasonal stock
+PO-5088,SUP-115,NorthStar Vendors,SKU-1042,Conditioner 500ml,Beauty,2026-02-22,146,146,24.04,3509.84,USD,2026-03-12,2026-03-19,7,Delivered,INV-54541,Pending,
+PO-5089,SUP-103,PrimeVendor Ltd,SKU-1009,Laptop Stand,Electronics,2025-12-18,346,346,42.58,14732.68,USD,2025-12-22,2025-12-20,-2,Delivered,INV-22026,Overdue,Seasonal stock
+PO-5090,SUP-104,EcoSource Inc.,SKU-1024,Baseball Cap,Clothing,2025-10-04,242,242,79.49,19236.58,USD,2025-10-10,2025-10-17,7,Delivered,INV-52517,Overdue,Seasonal stock
+PO-5091,SUP-102,FastShip Co.,SKU-1003,Gaming Mouse,Electronics,2025-05-22,90,90,153.4,13806.0,USD,2025-06-10,2025-06-10,0,Delivered,INV-45665,Pending,Bulk discount applied
+PO-5092,SUP-107,TrustMart B2B,SKU-1031,Blender,Home & Kitchen,2026-01-08,236,236,217.0,51212.0,USD,2026-01-24,2026-02-07,14,Delivered,INV-24918,Pending,Rush order
+PO-5093,SUP-102,FastShip Co.,SKU-1018,Scissors,Office,2026-02-14,357,0,75.99,27128.43,USD,2026-03-05,,,In Transit,INV-97442,Pending,
+PO-5094,SUP-101,GlobalTech Supplies,SKU-1014,File Folders,Office,2025-09-22,316,316,158.54,50098.64,USD,2025-10-07,2025-10-14,7,Delivered,INV-37686,Paid,Quality check required
+PO-5095,SUP-105,MegaDist Corp,SKU-1018,Scissors,Office,2025-08-18,71,0,63.36,4498.56,USD,2025-09-06,,,Cancelled,INV-66446,Pending,
+PO-5096,SUP-103,PrimeVendor Ltd,SKU-1024,Baseball Cap,Clothing,2025-12-01,370,0,76.8,28416.0,USD,2025-12-05,,,In Transit,INV-97562,Pending,Quality check required
+PO-5097,SUP-106,QuickMart Wholesale,SKU-1004,Webcam,Electronics,2025-09-23,451,0,246.09,110986.59,USD,2025-10-05,,,Pending,INV-12456,Pending,Rush order
+PO-5098,SUP-115,NorthStar Vendors,SKU-1004,Webcam,Electronics,2025-08-11,304,0,225.12,68436.48,USD,2025-08-29,,,Pending,INV-93904,Pending,Rush order
+PO-5099,SUP-105,MegaDist Corp,SKU-1007,Power Bank,Electronics,2025-09-27,20,20,211.62,4232.4,USD,2025-10-16,2025-10-28,12,Delivered,INV-57428,Paid,Rush order
+PO-5100,SUP-114,AmeriTrade Supplies,SKU-1006,LED Desk Lamp,Electronics,2025-07-06,233,0,204.8,47718.4,USD,2025-07-09,,,In Transit,INV-20308,Pending,Rush order
+PO-5101,SUP-114,AmeriTrade Supplies,SKU-1019,Tape Dispenser,Office,2025-08-24,123,123,210.84,25933.32,USD,2025-08-27,2025-08-27,0,Delivered,INV-76910,Overdue,
+PO-5102,SUP-109,NexGen Procurement,SKU-1032,Non-stick Pan,Home & Kitchen,2025-06-11,473,473,234.38,110861.74,USD,2025-07-01,2025-07-03,2,Delivered,INV-40968,Paid,
+PO-5103,SUP-105,MegaDist Corp,SKU-1012,Sticky Notes Pack,Office,2025-05-31,318,190,139.74,44437.32,USD,2025-06-19,2025-06-19,0,Partially Delivered,INV-33218,Pending,Quality check required
+PO-5104,SUP-111,AsiaTrade Hub,SKU-1031,Blender,Home & Kitchen,2025-10-27,396,0,226.7,89773.2,USD,2025-10-30,,,In Transit,INV-68838,Pending,Bulk discount applied
+PO-5105,SUP-115,NorthStar Vendors,SKU-1036,Electric Kettle,Home & Kitchen,2026-01-27,335,335,22.2,7437.0,USD,2026-02-14,2026-02-22,8,Delivered,INV-29786,Pending,
+PO-5106,SUP-108,ValueChain Partners,SKU-1028,Denim Shorts,Clothing,2026-01-21,165,0,123.72,20413.8,USD,2026-02-12,,,In Transit,INV-17362,Pending,
+PO-5107,SUP-109,NexGen Procurement,SKU-1004,Webcam,Electronics,2025-08-09,246,246,226.64,55753.44,USD,2025-08-29,2025-09-07,9,Delivered,INV-47627,Paid,Bulk discount applied
+PO-5108,SUP-114,AmeriTrade Supplies,SKU-1005,Monitor Stand,Electronics,2026-01-12,314,0,146.52,46007.28,USD,2026-01-15,,,Pending,INV-86064,Pending,Seasonal stock
+PO-5109,SUP-113,PacificSource,SKU-1047,Eye Cream,Beauty,2025-03-25,240,0,37.51,9002.4,USD,2025-04-17,,,In Transit,INV-95437,Pending,
+PO-5110,SUP-106,QuickMart Wholesale,SKU-1038,Mixing Bowls Set,Home & Kitchen,2025-11-02,266,266,87.14,23179.24,USD,2025-11-14,2025-11-26,12,Delivered,INV-23566,Pending,Bulk discount applied
+PO-5111,SUP-102,FastShip Co.,SKU-1032,Non-stick Pan,Home & Kitchen,2026-01-28,98,0,187.75,18399.5,USD,2026-02-16,,,Cancelled,INV-67377,Pending,Rush order
+PO-5112,SUP-109,NexGen Procurement,SKU-1033,Cutting Board,Home & Kitchen,2026-01-10,91,91,161.52,14698.32,USD,2026-01-30,2026-02-09,10,Delivered,INV-63578,Pending,Bulk discount applied
+PO-5113,SUP-110,SwiftLogistics,SKU-1003,Gaming Mouse,Electronics,2026-01-21,341,341,135.91,46345.31,USD,2026-02-05,2026-02-06,1,Delivered,INV-83133,Overdue,Rush order
+PO-5114,SUP-105,MegaDist Corp,SKU-1016,Desk Organizer,Office,2026-02-03,474,474,134.33,63672.42,USD,2026-02-22,2026-03-02,8,Delivered,INV-20682,Overdue,Bulk discount applied
+PO-5115,SUP-103,PrimeVendor Ltd,SKU-1022,Hoodie,Clothing,2025-08-09,345,0,44.89,15487.05,USD,2025-08-13,,,Pending,INV-26901,Pending,Seasonal stock
+PO-5116,SUP-112,EuroGoods Direct,SKU-1005,Monitor Stand,Electronics,2025-08-09,296,177,140.96,41724.16,USD,2025-08-15,2025-08-23,8,Partially Delivered,INV-26750,Pending,Bulk discount applied
+PO-5117,SUP-112,EuroGoods Direct,SKU-1047,Eye Cream,Beauty,2026-02-17,477,0,33.77,16108.29,USD,2026-02-23,,,Cancelled,INV-97878,Pending,Rush order
+PO-5118,SUP-109,NexGen Procurement,SKU-1023,Running Shoes,Clothing,2025-03-13,195,195,153.25,29883.75,USD,2025-04-02,2025-04-10,8,Delivered,INV-73736,Paid,
+PO-5119,SUP-103,PrimeVendor Ltd,SKU-1009,Laptop Stand,Electronics,2025-04-12,161,161,48.26,7769.86,USD,2025-04-16,2025-04-30,14,Delivered,INV-80748,Overdue,Seasonal stock
+PO-5120,SUP-101,GlobalTech Supplies,SKU-1042,Conditioner 500ml,Beauty,2025-08-23,458,458,30.03,13753.74,USD,2025-09-07,2025-09-17,10,Delivered,INV-30218,Paid,
+PO-5121,SUP-114,AmeriTrade Supplies,SKU-1044,Lip Balm,Beauty,2026-01-17,424,0,243.15,103095.6,USD,2026-01-20,,,Cancelled,INV-67366,Pending,
+PO-5122,SUP-107,TrustMart B2B,SKU-1023,Running Shoes,Clothing,2026-02-13,378,0,149.87,56650.86,USD,2026-03-01,,,Pending,INV-90031,Pending,
+PO-5123,SUP-113,PacificSource,SKU-1047,Eye Cream,Beauty,2025-10-19,129,129,33.85,4366.65,USD,2025-11-11,2025-11-24,13,Delivered,INV-35430,Pending,Bulk discount applied
+PO-5124,SUP-110,SwiftLogistics,SKU-1028,Denim Shorts,Clothing,2025-10-26,403,0,106.63,42971.89,USD,2025-11-10,,,Pending,INV-75916,Pending,Seasonal stock
+PO-5125,SUP-107,TrustMart B2B,SKU-1010,Ballpoint Pens (Box),Office,2025-06-14,420,252,82.54,34666.8,USD,2025-06-30,2025-07-06,6,Partially Delivered,INV-16839,Pending,Bulk discount applied
+PO-5126,SUP-108,ValueChain Partners,SKU-1023,Running Shoes,Clothing,2025-12-12,488,292,143.49,70023.12,USD,2026-01-03,2026-01-17,14,Partially Delivered,INV-26341,Pending,
+PO-5127,SUP-102,FastShip Co.,SKU-1048,Toner,Beauty,2025-05-25,149,0,158.79,23659.71,USD,2025-06-13,,,In Transit,INV-29313,Pending,Quality check required
+PO-5128,SUP-107,TrustMart B2B,SKU-1005,Monitor Stand,Electronics,2025-06-25,428,428,144.13,61687.64,USD,2025-07-11,2025-07-09,-2,Delivered,INV-64381,Paid,Rush order
+PO-5129,SUP-109,NexGen Procurement,SKU-1023,Running Shoes,Clothing,2025-07-02,207,207,185.71,38441.97,USD,2025-07-22,2025-07-27,5,Delivered,INV-13694,Pending,
+PO-5130,SUP-114,AmeriTrade Supplies,SKU-1045,Hand Cream,Beauty,2026-01-30,181,181,201.62,36493.22,USD,2026-02-02,2026-02-01,-1,Delivered,INV-47601,Pending,Bulk discount applied
+PO-5131,SUP-114,AmeriTrade Supplies,SKU-1008,Smart Speaker,Electronics,2025-10-30,239,239,92.71,22157.69,USD,2025-11-02,2025-10-31,-2,Delivered,INV-43544,Paid,Quality check required
+PO-5132,SUP-103,PrimeVendor Ltd,SKU-1035,Food Storage Containers,Home & Kitchen,2026-01-09,280,168,119.61,33490.8,USD,2026-01-13,2026-01-20,7,Partially Delivered,INV-41147,Pending,
+PO-5133,SUP-102,FastShip Co.,SKU-1003,Gaming Mouse,Electronics,2025-07-04,224,0,148.59,33284.16,USD,2025-07-23,,,In Transit,INV-69914,Pending,
+PO-5134,SUP-102,FastShip Co.,SKU-1031,Blender,Home & Kitchen,2026-01-03,284,0,191.18,54295.12,USD,2026-01-22,,,In Transit,INV-85372,Pending,
+PO-5135,SUP-112,EuroGoods Direct,SKU-1009,Laptop Stand,Electronics,2025-07-31,229,229,37.48,8582.92,USD,2025-08-06,2025-08-11,5,Delivered,INV-84798,Pending,
+PO-5136,SUP-111,AsiaTrade Hub,SKU-1042,Conditioner 500ml,Beauty,2025-04-16,278,278,31.73,8820.94,USD,2025-04-19,2025-05-03,14,Delivered,INV-81313,Overdue,Quality check required
+PO-5137,SUP-109,NexGen Procurement,SKU-1035,Food Storage Containers,Home & Kitchen,2025-03-14,209,209,135.67,28355.03,USD,2025-04-03,2025-04-13,10,Delivered,INV-58929,Pending,Bulk discount applied
+PO-5138,SUP-101,GlobalTech Supplies,SKU-1022,Hoodie,Clothing,2025-04-07,186,0,39.23,7296.78,USD,2025-04-22,,,Cancelled,INV-92346,Pending,
+PO-5139,SUP-113,PacificSource,SKU-1037,Air Fryer,Home & Kitchen,2025-08-21,78,0,130.0,10140.0,USD,2025-09-13,,,In Transit,INV-54374,Pending,Quality check required
+PO-5140,SUP-111,AsiaTrade Hub,SKU-1011,A4 Paper (Ream),Office,2026-02-17,247,0,250.21,61801.87,USD,2026-02-20,,,Pending,INV-92802,Pending,
+PO-5141,SUP-113,PacificSource,SKU-1008,Smart Speaker,Electronics,2025-04-05,376,0,96.92,36441.92,USD,2025-04-28,,,Pending,INV-14847,Pending,
+PO-5142,SUP-104,EcoSource Inc.,SKU-1002,Mechanical Keyboard,Electronics,2025-06-14,463,463,126.33,58490.79,USD,2025-06-20,2025-07-04,14,Delivered,INV-62196,Overdue,Rush order
+PO-5143,SUP-105,MegaDist Corp,SKU-1002,Mechanical Keyboard,Electronics,2026-01-29,107,64,136.72,14629.04,USD,2026-02-17,2026-02-16,-1,Partially Delivered,INV-95948,Pending,
+PO-5144,SUP-105,MegaDist Corp,SKU-1007,Power Bank,Electronics,2025-09-08,233,0,207.45,48335.85,USD,2025-09-27,,,Cancelled,INV-67637,Pending,Rush order
+PO-5145,SUP-106,QuickMart Wholesale,SKU-1011,A4 Paper (Ream),Office,2025-11-13,364,218,219.28,79817.92,USD,2025-11-25,2025-12-09,14,Partially Delivered,INV-44959,Pending,Quality check required
+PO-5146,SUP-102,FastShip Co.,SKU-1046,Body Lotion,Beauty,2025-10-07,50,30,29.23,1461.5,USD,2025-10-26,2025-10-29,3,Partially Delivered,INV-81496,Pending,
+PO-5147,SUP-106,QuickMart Wholesale,SKU-1006,LED Desk Lamp,Electronics,2025-04-13,177,177,208.99,36991.23,USD,2025-04-25,2025-05-07,12,Delivered,INV-88986,Overdue,Rush order
+PO-5148,SUP-103,PrimeVendor Ltd,SKU-1044,Lip Balm,Beauty,2025-10-17,189,0,214.24,40491.36,USD,2025-10-21,,,Cancelled,INV-56210,Pending,Seasonal stock
+PO-5149,SUP-107,TrustMart B2B,SKU-1017,Printer Ink Cartridge,Office,2026-01-25,415,415,258.99,107480.85,USD,2026-02-10,2026-02-20,10,Delivered,INV-57619,Overdue,Quality check required
+PO-5150,SUP-112,EuroGoods Direct,SKU-1043,Sunscreen SPF50,Beauty,2025-05-24,497,298,126.45,62845.65,USD,2025-05-30,2025-06-11,12,Partially Delivered,INV-14561,Pending,
+PO-5151,SUP-102,FastShip Co.,SKU-1015,Whiteboard Markers,Office,2026-01-28,197,0,138.56,27296.32,USD,2026-02-16,,,In Transit,INV-14244,Pending,Seasonal stock
+PO-5152,SUP-103,PrimeVendor Ltd,SKU-1043,Sunscreen SPF50,Beauty,2025-10-20,495,0,140.96,69775.2,USD,2025-10-24,,,Pending,INV-20077,Pending,Seasonal stock
+PO-5153,SUP-103,PrimeVendor Ltd,SKU-1033,Cutting Board,Home & Kitchen,2025-09-07,213,213,159.09,33886.17,USD,2025-09-11,2025-09-16,5,Delivered,INV-24869,Paid,Bulk discount applied
+PO-5154,SUP-103,PrimeVendor Ltd,SKU-1031,Blender,Home & Kitchen,2025-11-24,208,208,249.41,51877.28,USD,2025-11-28,2025-12-04,6,Delivered,INV-44116,Overdue,Rush order
+PO-5155,SUP-104,EcoSource Inc.,SKU-1039,Dish Rack,Home & Kitchen,2025-07-28,365,0,268.73,98086.45,USD,2025-08-03,,,Pending,INV-36237,Pending,
+PO-5156,SUP-103,PrimeVendor Ltd,SKU-1004,Webcam,Electronics,2025-10-21,98,0,256.59,25145.82,USD,2025-10-25,,,Pending,INV-21506,Pending,Quality check required
+PO-5157,SUP-111,AsiaTrade Hub,SKU-1020,Men T-Shirt,Clothing,2026-02-08,187,0,212.39,39716.93,USD,2026-02-11,,,In Transit,INV-81063,Pending,
+PO-5158,SUP-115,NorthStar Vendors,SKU-1019,Tape Dispenser,Office,2025-05-23,374,0,235.18,87957.32,USD,2025-06-10,,,Cancelled,INV-93584,Pending,
+PO-5159,SUP-113,PacificSource,SKU-1023,Running Shoes,Clothing,2025-11-19,124,124,144.37,17901.88,USD,2025-12-12,2025-12-14,2,Delivered,INV-41029,Pending,
+PO-5160,SUP-106,QuickMart Wholesale,SKU-1035,Food Storage Containers,Home & Kitchen,2025-12-22,198,0,121.19,23995.62,USD,2026-01-03,,,In Transit,INV-27009,Pending,Seasonal stock
+PO-5161,SUP-115,NorthStar Vendors,SKU-1005,Monitor Stand,Electronics,2025-04-06,168,0,141.87,23834.16,USD,2025-04-24,,,Cancelled,INV-72739,Pending,Seasonal stock
+PO-5162,SUP-107,TrustMart B2B,SKU-1049,Serum 30ml,Beauty,2025-09-29,431,431,239.48,103215.88,USD,2025-10-15,2025-10-23,8,Delivered,INV-94192,Paid,Rush order
+PO-5163,SUP-108,ValueChain Partners,SKU-1043,Sunscreen SPF50,Beauty,2025-11-23,186,111,130.6,24291.6,USD,2025-12-15,2025-12-18,3,Partially Delivered,INV-26912,Pending,Rush order
+PO-5164,SUP-109,NexGen Procurement,SKU-1003,Gaming Mouse,Electronics,2025-05-06,275,275,128.35,35296.25,USD,2025-05-26,2025-05-29,3,Delivered,INV-52291,Overdue,
+PO-5165,SUP-106,QuickMart Wholesale,SKU-1033,Cutting Board,Home & Kitchen,2025-07-27,443,443,147.53,65355.79,USD,2025-08-08,2025-08-14,6,Delivered,INV-26406,Overdue,
+PO-5166,SUP-110,SwiftLogistics,SKU-1034,Kitchen Knife Set,Home & Kitchen,2025-04-20,267,0,146.18,39030.06,USD,2025-05-05,,,In Transit,INV-86106,Pending,
+PO-5167,SUP-103,PrimeVendor Ltd,SKU-1042,Conditioner 500ml,Beauty,2026-01-17,378,378,31.14,11770.92,USD,2026-01-21,2026-01-20,-1,Delivered,INV-13718,Paid,
+PO-5168,SUP-111,AsiaTrade Hub,SKU-1049,Serum 30ml,Beauty,2025-12-24,145,87,244.7,35481.5,USD,2025-12-27,2026-01-07,11,Partially Delivered,INV-91016,Pending,Bulk discount applied
+PO-5169,SUP-101,GlobalTech Supplies,SKU-1031,Blender,Home & Kitchen,2026-01-19,289,289,208.91,60374.99,USD,2026-02-03,2026-02-16,13,Delivered,INV-42096,Overdue,Rush order
+PO-5170,SUP-105,MegaDist Corp,SKU-1029,Sport Leggings,Clothing,2025-04-10,362,0,42.16,15261.92,USD,2025-04-29,,,Pending,INV-64476,Pending,Rush order
+PO-5171,SUP-108,ValueChain Partners,SKU-1013,Stapler,Office,2025-08-25,320,192,126.96,40627.2,USD,2025-09-16,2025-09-24,8,Partially Delivered,INV-55268,Pending,Rush order
+PO-5172,SUP-103,PrimeVendor Ltd,SKU-1048,Toner,Beauty,2025-09-09,273,273,164.07,44791.11,USD,2025-09-13,2025-09-18,5,Delivered,INV-71141,Paid,
+PO-5173,SUP-108,ValueChain Partners,SKU-1015,Whiteboard Markers,Office,2025-05-15,59,0,125.44,7400.96,USD,2025-06-06,,,Pending,INV-90658,Pending,Rush order
+PO-5174,SUP-104,EcoSource Inc.,SKU-1010,Ballpoint Pens (Box),Office,2025-08-18,488,488,81.91,39972.08,USD,2025-08-24,2025-08-28,4,Delivered,INV-30885,Pending,Seasonal stock
+PO-5175,SUP-108,ValueChain Partners,SKU-1031,Blender,Home & Kitchen,2025-08-08,264,0,191.61,50585.04,USD,2025-08-30,,,Pending,INV-76249,Pending,Rush order
+PO-5176,SUP-104,EcoSource Inc.,SKU-1013,Stapler,Office,2025-12-27,190,190,123.03,23375.7,USD,2026-01-02,2026-01-15,13,Delivered,INV-88317,Overdue,Bulk discount applied
+PO-5177,SUP-108,ValueChain Partners,SKU-1018,Scissors,Office,2025-12-03,14,0,81.47,1140.58,USD,2025-12-25,,,Pending,INV-27555,Pending,
+PO-5178,SUP-112,EuroGoods Direct,SKU-1023,Running Shoes,Clothing,2025-09-26,197,197,140.77,27731.69,USD,2025-10-02,2025-10-06,4,Delivered,INV-57516,Overdue,
+PO-5179,SUP-102,FastShip Co.,SKU-1024,Baseball Cap,Clothing,2025-11-17,240,240,89.79,21549.6,USD,2025-12-06,2025-12-07,1,Delivered,INV-26864,Paid,Rush order
+PO-5180,SUP-106,QuickMart Wholesale,SKU-1021,Women Jeans,Clothing,2025-12-14,490,490,113.72,55722.8,USD,2025-12-26,2025-12-30,4,Delivered,INV-88966,Overdue,Rush order
+PO-5181,SUP-109,NexGen Procurement,SKU-1002,Mechanical Keyboard,Electronics,2025-03-27,29,29,130.38,3781.02,USD,2025-04-16,2025-04-29,13,Delivered,INV-78069,Pending,
+PO-5182,SUP-110,SwiftLogistics,SKU-1032,Non-stick Pan,Home & Kitchen,2025-05-14,177,177,244.19,43221.63,USD,2025-05-29,2025-06-01,3,Delivered,INV-61505,Overdue,Bulk discount applied
+PO-5183,SUP-114,AmeriTrade Supplies,SKU-1019,Tape Dispenser,Office,2026-01-01,182,0,222.11,40424.02,USD,2026-01-04,,,In Transit,INV-79774,Pending,Rush order
+PO-5184,SUP-112,EuroGoods Direct,SKU-1036,Electric Kettle,Home & Kitchen,2025-08-04,253,253,21.23,5371.19,USD,2025-08-10,2025-08-18,8,Delivered,INV-98317,Paid,Rush order
+PO-5185,SUP-110,SwiftLogistics,SKU-1019,Tape Dispenser,Office,2026-02-19,332,0,191.04,63425.28,USD,2026-03-06,,,Pending,INV-44803,Pending,Bulk discount applied
+PO-5186,SUP-113,PacificSource,SKU-1049,Serum 30ml,Beauty,2025-12-25,305,305,215.74,65800.7,USD,2026-01-17,2026-01-30,13,Delivered,INV-32349,Overdue,Bulk discount applied
+PO-5187,SUP-112,EuroGoods Direct,SKU-1039,Dish Rack,Home & Kitchen,2025-09-14,85,85,262.11,22279.35,USD,2025-09-20,2025-09-19,-1,Delivered,INV-85047,Overdue,
+PO-5188,SUP-104,EcoSource Inc.,SKU-1001,USB-C Hub,Electronics,2025-10-15,170,0,209.39,35596.3,USD,2025-10-21,,,Pending,INV-36724,Pending,Rush order
+PO-5189,SUP-109,NexGen Procurement,SKU-1049,Serum 30ml,Beauty,2026-01-11,481,288,232.42,111794.02,USD,2026-01-31,2026-01-30,-1,Partially Delivered,INV-28098,Pending,Seasonal stock
+PO-5190,SUP-104,EcoSource Inc.,SKU-1035,Food Storage Containers,Home & Kitchen,2025-08-17,349,0,121.58,42431.42,USD,2025-08-23,,,Pending,INV-51124,Pending,
+PO-5191,SUP-108,ValueChain Partners,SKU-1034,Kitchen Knife Set,Home & Kitchen,2025-08-26,289,173,134.44,38853.16,USD,2025-09-17,2025-09-23,6,Partially Delivered,INV-89963,Pending,Rush order
+PO-5192,SUP-104,EcoSource Inc.,SKU-1015,Whiteboard Markers,Office,2025-07-24,295,295,135.88,40084.6,USD,2025-07-30,2025-08-06,7,Delivered,INV-37168,Overdue,Bulk discount applied
+PO-5193,SUP-108,ValueChain Partners,SKU-1020,Men T-Shirt,Clothing,2025-11-04,188,112,203.69,38293.72,USD,2025-11-26,2025-12-02,6,Partially Delivered,INV-47721,Pending,
+PO-5194,SUP-110,SwiftLogistics,SKU-1043,Sunscreen SPF50,Beauty,2025-12-07,204,0,163.38,33329.52,USD,2025-12-22,,,Pending,INV-55237,Pending,Quality check required
+PO-5195,SUP-113,PacificSource,SKU-1009,Laptop Stand,Electronics,2025-07-30,31,0,41.14,1275.34,USD,2025-08-22,,,Cancelled,INV-20358,Pending,
+PO-5196,SUP-115,NorthStar Vendors,SKU-1028,Denim Shorts,Clothing,2026-02-02,141,141,122.09,17214.69,USD,2026-02-20,2026-02-24,4,Delivered,INV-80592,Pending,Seasonal stock
+PO-5197,SUP-112,EuroGoods Direct,SKU-1017,Printer Ink Cartridge,Office,2025-05-13,65,0,236.79,15391.35,USD,2025-05-19,,,In Transit,INV-41363,Pending,
+PO-5198,SUP-101,GlobalTech Supplies,SKU-1042,Conditioner 500ml,Beauty,2025-11-30,125,125,28.99,3623.75,USD,2025-12-15,2025-12-16,1,Delivered,INV-64172,Pending,Bulk discount applied
+PO-5199,SUP-108,ValueChain Partners,SKU-1006,LED Desk Lamp,Electronics,2026-02-15,404,0,178.51,72118.04,USD,2026-03-09,,,In Transit,INV-30701,Pending,Rush order
+PO-5200,SUP-111,AsiaTrade Hub,SKU-1030,Coffee Maker,Home & Kitchen,2025-11-03,343,343,202.39,69419.77,USD,2025-11-06,2025-11-14,8,Delivered,INV-47409,Overdue,
+PO-5201,SUP-115,NorthStar Vendors,SKU-1049,Serum 30ml,Beauty,2025-04-18,343,0,239.43,82124.49,USD,2025-05-06,,,In Transit,INV-14888,Pending,
+PO-5202,SUP-107,TrustMart B2B,SKU-1011,A4 Paper (Ream),Office,2025-03-22,438,0,212.84,93223.92,USD,2025-04-07,,,Pending,INV-34420,Pending,Bulk discount applied
+PO-5203,SUP-114,AmeriTrade Supplies,SKU-1018,Scissors,Office,2025-03-23,14,0,69.63,974.82,USD,2025-03-26,,,In Transit,INV-24064,Pending,
+PO-5204,SUP-105,MegaDist Corp,SKU-1029,Sport Leggings,Clothing,2026-01-26,288,288,48.71,14028.48,USD,2026-02-14,2026-02-28,14,Delivered,INV-71344,Pending,
+PO-5205,SUP-113,PacificSource,SKU-1007,Power Bank,Electronics,2025-08-20,93,0,198.85,18493.05,USD,2025-09-12,,,Cancelled,INV-43720,Pending,Bulk discount applied
+PO-5206,SUP-103,PrimeVendor Ltd,SKU-1000,Wireless Earbuds,Electronics,2025-08-23,414,0,145.42,60203.88,USD,2025-08-27,,,Cancelled,INV-35318,Pending,
+PO-5207,SUP-110,SwiftLogistics,SKU-1040,Face Moisturizer,Beauty,2025-09-27,433,433,84.14,36432.62,USD,2025-10-12,2025-10-12,0,Delivered,INV-62538,Overdue,
+PO-5208,SUP-103,PrimeVendor Ltd,SKU-1008,Smart Speaker,Electronics,2025-11-03,175,175,101.09,17690.75,USD,2025-11-07,2025-11-13,6,Delivered,INV-60275,Paid,Rush order
+PO-5209,SUP-113,PacificSource,SKU-1017,Printer Ink Cartridge,Office,2025-08-19,164,0,234.57,38469.48,USD,2025-09-11,,,In Transit,INV-11498,Pending,
+PO-5210,SUP-111,AsiaTrade Hub,SKU-1023,Running Shoes,Clothing,2026-02-21,130,130,141.57,18404.1,USD,2026-02-24,2026-03-08,12,Delivered,INV-50213,Paid,Rush order
+PO-5211,SUP-111,AsiaTrade Hub,SKU-1032,Non-stick Pan,Home & Kitchen,2026-02-27,404,404,204.94,82795.76,USD,2026-03-02,2026-03-09,7,Delivered,INV-58174,Overdue,
+PO-5212,SUP-104,EcoSource Inc.,SKU-1008,Smart Speaker,Electronics,2025-11-03,88,0,88.52,7789.76,USD,2025-11-09,,,In Transit,INV-58971,Pending,Rush order
+PO-5213,SUP-112,EuroGoods Direct,SKU-1035,Food Storage Containers,Home & Kitchen,2025-10-31,397,0,123.69,49104.93,USD,2025-11-06,,,Cancelled,INV-38627,Pending,Quality check required
+PO-5214,SUP-104,EcoSource Inc.,SKU-1043,Sunscreen SPF50,Beauty,2026-01-03,457,0,158.75,72548.75,USD,2026-01-09,,,In Transit,INV-68556,Pending,Seasonal stock
+PO-5215,SUP-112,EuroGoods Direct,SKU-1023,Running Shoes,Clothing,2025-04-12,479,479,165.34,79197.86,USD,2025-04-18,2025-05-02,14,Delivered,INV-36497,Overdue,Seasonal stock
+PO-5216,SUP-103,PrimeVendor Ltd,SKU-1010,Ballpoint Pens (Box),Office,2025-08-18,447,447,80.57,36014.79,USD,2025-08-22,2025-08-26,4,Delivered,INV-86434,Pending,
+PO-5217,SUP-115,NorthStar Vendors,SKU-1032,Non-stick Pan,Home & Kitchen,2025-10-18,424,424,188.79,80046.96,USD,2025-11-05,2025-11-19,14,Delivered,INV-64450,Pending,Seasonal stock
+PO-5218,SUP-101,GlobalTech Supplies,SKU-1035,Food Storage Containers,Home & Kitchen,2025-10-26,354,0,133.3,47188.2,USD,2025-11-10,,,Cancelled,INV-12853,Pending,Rush order
+PO-5219,SUP-105,MegaDist Corp,SKU-1000,Wireless Earbuds,Electronics,2025-06-23,306,0,135.4,41432.4,USD,2025-07-12,,,Pending,INV-55158,Pending,Bulk discount applied
+PO-5220,SUP-102,FastShip Co.,SKU-1034,Kitchen Knife Set,Home & Kitchen,2025-04-03,488,0,156.55,76396.4,USD,2025-04-22,,,Pending,INV-14159,Pending,
+PO-5221,SUP-107,TrustMart B2B,SKU-1011,A4 Paper (Ream),Office,2025-05-12,402,0,228.49,91852.98,USD,2025-05-28,,,Cancelled,INV-94656,Pending,Rush order
+PO-5222,SUP-106,QuickMart Wholesale,SKU-1024,Baseball Cap,Clothing,2025-10-19,455,0,93.5,42542.5,USD,2025-10-31,,,Pending,INV-59236,Pending,
+PO-5223,SUP-111,AsiaTrade Hub,SKU-1042,Conditioner 500ml,Beauty,2025-12-05,78,78,29.12,2271.36,USD,2025-12-08,2025-12-09,1,Delivered,INV-33392,Overdue,Rush order
+PO-5224,SUP-109,NexGen Procurement,SKU-1008,Smart Speaker,Electronics,2025-06-26,437,437,76.7,33517.9,USD,2025-07-16,2025-07-23,7,Delivered,INV-70686,Overdue,Bulk discount applied
+PO-5225,SUP-109,NexGen Procurement,SKU-1027,Winter Jacket,Clothing,2025-12-01,204,204,206.85,42197.4,USD,2025-12-21,2026-01-02,12,Delivered,INV-55371,Paid,
+PO-5226,SUP-104,EcoSource Inc.,SKU-1046,Body Lotion,Beauty,2025-04-30,26,0,32.53,845.78,USD,2025-05-06,,,Pending,INV-90599,Pending,Quality check required
+PO-5227,SUP-115,NorthStar Vendors,SKU-1001,USB-C Hub,Electronics,2025-07-05,115,0,187.41,21552.15,USD,2025-07-23,,,In Transit,INV-14400,Pending,Rush order
+PO-5228,SUP-110,SwiftLogistics,SKU-1043,Sunscreen SPF50,Beauty,2026-02-27,456,0,127.2,58003.2,USD,2026-03-14,,,Cancelled,INV-15798,Pending,Rush order
+PO-5229,SUP-108,ValueChain Partners,SKU-1014,File Folders,Office,2025-12-05,121,72,195.72,23682.12,USD,2025-12-27,2025-12-26,-1,Partially Delivered,INV-28367,Pending,Seasonal stock
+PO-5230,SUP-105,MegaDist Corp,SKU-1014,File Folders,Office,2025-12-23,173,103,186.32,32233.36,USD,2026-01-11,2026-01-19,8,Partially Delivered,INV-41051,Pending,
+PO-5231,SUP-115,NorthStar Vendors,SKU-1009,Laptop Stand,Electronics,2026-02-05,276,276,40.28,11117.28,USD,2026-02-23,2026-03-01,6,Delivered,INV-17989,Overdue,Seasonal stock
+PO-5232,SUP-115,NorthStar Vendors,SKU-1047,Eye Cream,Beauty,2025-06-01,330,0,35.26,11635.8,USD,2025-06-19,,,In Transit,INV-74962,Pending,
+PO-5233,SUP-106,QuickMart Wholesale,SKU-1041,Shampoo 500ml,Beauty,2026-02-10,205,205,184.0,37720.0,USD,2026-02-22,2026-03-05,11,Delivered,INV-63511,Paid,
+PO-5234,SUP-107,TrustMart B2B,SKU-1011,A4 Paper (Ream),Office,2025-12-04,252,252,202.86,51120.72,USD,2025-12-20,2025-12-27,7,Delivered,INV-28920,Pending,
+PO-5235,SUP-109,NexGen Procurement,SKU-1026,Polo Shirt,Clothing,2025-10-03,295,0,163.08,48108.6,USD,2025-10-23,,,Pending,INV-41831,Pending,
+PO-5236,SUP-104,EcoSource Inc.,SKU-1021,Women Jeans,Clothing,2026-01-29,50,30,132.93,6646.5,USD,2026-02-04,2026-02-13,9,Partially Delivered,INV-22119,Pending,Seasonal stock
+PO-5237,SUP-112,EuroGoods Direct,SKU-1012,Sticky Notes Pack,Office,2025-03-30,147,0,149.91,22036.77,USD,2025-04-05,,,In Transit,INV-89026,Pending,
+PO-5238,SUP-114,AmeriTrade Supplies,SKU-1004,Webcam,Electronics,2025-06-08,421,0,247.41,104159.61,USD,2025-06-11,,,Cancelled,INV-98008,Pending,Seasonal stock
+PO-5239,SUP-104,EcoSource Inc.,SKU-1030,Coffee Maker,Home & Kitchen,2025-06-18,455,455,248.17,112917.35,USD,2025-06-24,2025-06-22,-2,Delivered,INV-37762,Paid,Bulk discount applied
+PO-5240,SUP-102,FastShip Co.,SKU-1047,Eye Cream,Beauty,2025-11-04,478,0,31.0,14818.0,USD,2025-11-23,,,In Transit,INV-36805,Pending,Rush order
+PO-5241,SUP-115,NorthStar Vendors,SKU-1015,Whiteboard Markers,Office,2025-12-11,174,0,155.97,27138.78,USD,2025-12-29,,,Pending,INV-71112,Pending,Seasonal stock
+PO-5242,SUP-111,AsiaTrade Hub,SKU-1022,Hoodie,Clothing,2025-08-08,143,0,40.69,5818.67,USD,2025-08-11,,,Pending,INV-71080,Pending,
+PO-5243,SUP-113,PacificSource,SKU-1046,Body Lotion,Beauty,2025-10-30,399,399,32.79,13083.21,USD,2025-11-22,2025-12-01,9,Delivered,INV-51015,Pending,
+PO-5244,SUP-110,SwiftLogistics,SKU-1014,File Folders,Office,2025-05-17,18,0,169.49,3050.82,USD,2025-06-01,,,In Transit,INV-85909,Pending,Bulk discount applied
+PO-5245,SUP-107,TrustMart B2B,SKU-1018,Scissors,Office,2025-05-21,110,0,70.31,7734.1,USD,2025-06-06,,,Pending,INV-84683,Pending,Quality check required
+PO-5246,SUP-104,EcoSource Inc.,SKU-1031,Blender,Home & Kitchen,2025-12-10,345,345,251.35,86715.75,USD,2025-12-16,2025-12-22,6,Delivered,INV-74044,Overdue,Bulk discount applied
+PO-5247,SUP-112,EuroGoods Direct,SKU-1031,Blender,Home & Kitchen,2025-10-25,96,96,237.68,22817.28,USD,2025-10-31,2025-11-03,3,Delivered,INV-28344,Overdue,Seasonal stock
+PO-5248,SUP-108,ValueChain Partners,SKU-1011,A4 Paper (Ream),Office,2025-12-06,338,0,248.7,84060.6,USD,2025-12-28,,,In Transit,INV-14433,Pending,Quality check required
+PO-5249,SUP-114,AmeriTrade Supplies,SKU-1004,Webcam,Electronics,2026-02-09,34,0,247.58,8417.72,USD,2026-02-12,,,Pending,INV-28021,Pending,Quality check required
+PO-5250,SUP-111,AsiaTrade Hub,SKU-1014,File Folders,Office,2025-04-07,372,372,163.65,60877.8,USD,2025-04-10,2025-04-24,14,Delivered,INV-69770,Pending,
+PO-5251,SUP-110,SwiftLogistics,SKU-1040,Face Moisturizer,Beauty,2026-02-08,488,0,88.87,43368.56,USD,2026-02-23,,,Pending,INV-96413,Pending,Rush order
+PO-5252,SUP-101,GlobalTech Supplies,SKU-1000,Wireless Earbuds,Electronics,2025-12-01,292,292,150.67,43995.64,USD,2025-12-16,2025-12-30,14,Delivered,INV-46010,Overdue,
+PO-5253,SUP-101,GlobalTech Supplies,SKU-1032,Non-stick Pan,Home & Kitchen,2026-02-24,355,355,212.51,75441.05,USD,2026-03-11,2026-03-12,1,Delivered,INV-22624,Overdue,
+PO-5254,SUP-104,EcoSource Inc.,SKU-1012,Sticky Notes Pack,Office,2026-01-15,279,279,144.25,40245.75,USD,2026-01-21,2026-01-27,6,Delivered,INV-62022,Paid,
+PO-5255,SUP-107,TrustMart B2B,SKU-1029,Sport Leggings,Clothing,2025-12-18,134,134,55.28,7407.52,USD,2026-01-03,2026-01-10,7,Delivered,INV-99658,Paid,Bulk discount applied
+PO-5256,SUP-114,AmeriTrade Supplies,SKU-1041,Shampoo 500ml,Beauty,2025-03-20,57,0,165.15,9413.55,USD,2025-03-23,,,Pending,INV-82443,Pending,Rush order
+PO-5257,SUP-101,GlobalTech Supplies,SKU-1040,Face Moisturizer,Beauty,2025-03-08,369,0,77.71,28674.99,USD,2025-03-23,,,Pending,INV-66873,Pending,Bulk discount applied
+PO-5258,SUP-113,PacificSource,SKU-1021,Women Jeans,Clothing,2025-12-18,449,0,134.72,60489.28,USD,2026-01-10,,,In Transit,INV-15577,Pending,
+PO-5259,SUP-104,EcoSource Inc.,SKU-1044,Lip Balm,Beauty,2025-12-19,253,253,203.07,51376.71,USD,2025-12-25,2025-12-31,6,Delivered,INV-81176,Overdue,Bulk discount applied
+PO-5260,SUP-101,GlobalTech Supplies,SKU-1011,A4 Paper (Ream),Office,2025-08-12,18,0,248.97,4481.46,USD,2025-08-27,,,In Transit,INV-28899,Pending,Quality check required
+PO-5261,SUP-114,AmeriTrade Supplies,SKU-1045,Hand Cream,Beauty,2025-09-23,485,485,162.9,79006.5,USD,2025-09-26,2025-10-01,5,Delivered,INV-84277,Pending,Bulk discount applied
+PO-5262,SUP-115,NorthStar Vendors,SKU-1034,Kitchen Knife Set,Home & Kitchen,2025-08-20,206,206,150.88,31081.28,USD,2025-09-07,2025-09-07,0,Delivered,INV-75639,Overdue,
+PO-5263,SUP-101,GlobalTech Supplies,SKU-1006,LED Desk Lamp,Electronics,2025-10-13,128,128,219.34,28075.52,USD,2025-10-28,2025-11-07,10,Delivered,INV-52778,Paid,Bulk discount applied
+PO-5264,SUP-105,MegaDist Corp,SKU-1028,Denim Shorts,Clothing,2025-11-10,126,0,109.09,13745.34,USD,2025-11-29,,,Pending,INV-66603,Pending,
+PO-5265,SUP-111,AsiaTrade Hub,SKU-1037,Air Fryer,Home & Kitchen,2026-02-05,204,0,131.81,26889.24,USD,2026-02-08,,,In Transit,INV-48715,Pending,Quality check required
+PO-5266,SUP-104,EcoSource Inc.,SKU-1045,Hand Cream,Beauty,2025-04-10,52,0,173.25,9009.0,USD,2025-04-16,,,Pending,INV-93086,Pending,
+PO-5267,SUP-112,EuroGoods Direct,SKU-1024,Baseball Cap,Clothing,2025-08-13,194,194,73.79,14315.26,USD,2025-08-19,2025-08-26,7,Delivered,INV-68292,Pending,Quality check required
+PO-5268,SUP-105,MegaDist Corp,SKU-1006,LED Desk Lamp,Electronics,2025-05-10,54,0,181.42,9796.68,USD,2025-05-29,,,Pending,INV-83005,Pending,Seasonal stock
+PO-5269,SUP-109,NexGen Procurement,SKU-1026,Polo Shirt,Clothing,2025-04-25,23,0,142.31,3273.13,USD,2025-05-15,,,In Transit,INV-22198,Pending,Seasonal stock
+PO-5270,SUP-110,SwiftLogistics,SKU-1020,Men T-Shirt,Clothing,2025-09-17,16,0,188.01,3008.16,USD,2025-10-02,,,Pending,INV-21101,Pending,Bulk discount applied
+PO-5271,SUP-115,NorthStar Vendors,SKU-1035,Food Storage Containers,Home & Kitchen,2025-07-06,302,0,123.11,37179.22,USD,2025-07-24,,,Cancelled,INV-59903,Pending,
+PO-5272,SUP-103,PrimeVendor Ltd,SKU-1017,Printer Ink Cartridge,Office,2025-08-05,147,147,228.61,33605.67,USD,2025-08-09,2025-08-12,3,Delivered,INV-66973,Pending,Rush order
+PO-5273,SUP-105,MegaDist Corp,SKU-1030,Coffee Maker,Home & Kitchen,2025-04-12,194,194,205.77,39919.38,USD,2025-05-01,2025-05-14,13,Delivered,INV-87831,Overdue,
+PO-5274,SUP-108,ValueChain Partners,SKU-1006,LED Desk Lamp,Electronics,2025-05-12,165,0,170.9,28198.5,USD,2025-06-03,,,Pending,INV-53544,Pending,Quality check required
+PO-5275,SUP-110,SwiftLogistics,SKU-1024,Baseball Cap,Clothing,2025-08-19,235,141,79.34,18644.9,USD,2025-09-03,2025-09-05,2,Partially Delivered,INV-49378,Pending,
+PO-5276,SUP-110,SwiftLogistics,SKU-1044,Lip Balm,Beauty,2025-06-14,255,0,205.8,52479.0,USD,2025-06-29,,,Pending,INV-51830,Pending,
+PO-5277,SUP-112,EuroGoods Direct,SKU-1044,Lip Balm,Beauty,2026-01-22,261,156,247.28,64540.08,USD,2026-01-28,2026-02-02,5,Partially Delivered,INV-52714,Pending,Rush order
+PO-5278,SUP-105,MegaDist Corp,SKU-1025,Socks (Pack-6),Clothing,2025-09-06,68,68,171.94,11691.92,USD,2025-09-25,2025-09-28,3,Delivered,INV-99353,Overdue,
+PO-5279,SUP-112,EuroGoods Direct,SKU-1029,Sport Leggings,Clothing,2025-06-19,234,140,52.56,12299.04,USD,2025-06-25,2025-06-25,0,Partially Delivered,INV-63627,Pending,Bulk discount applied
+PO-5280,SUP-108,ValueChain Partners,SKU-1008,Smart Speaker,Electronics,2026-01-22,165,0,82.94,13685.1,USD,2026-02-13,,,Cancelled,INV-30203,Pending,Bulk discount applied
+PO-5281,SUP-107,TrustMart B2B,SKU-1024,Baseball Cap,Clothing,2025-04-10,239,0,95.29,22774.31,USD,2025-04-26,,,Pending,INV-86315,Pending,Rush order
+PO-5282,SUP-109,NexGen Procurement,SKU-1032,Non-stick Pan,Home & Kitchen,2026-02-21,224,134,219.66,49203.84,USD,2026-03-13,2026-03-22,9,Partially Delivered,INV-80373,Pending,Seasonal stock
+PO-5283,SUP-111,AsiaTrade Hub,SKU-1005,Monitor Stand,Electronics,2025-04-28,403,0,135.48,54598.44,USD,2025-05-01,,,Cancelled,INV-56531,Pending,
+PO-5284,SUP-111,AsiaTrade Hub,SKU-1039,Dish Rack,Home & Kitchen,2025-03-26,298,0,273.43,81482.14,USD,2025-03-29,,,Cancelled,INV-94769,Pending,Rush order
+PO-5285,SUP-113,PacificSource,SKU-1021,Women Jeans,Clothing,2025-10-10,64,64,101.46,6493.44,USD,2025-11-02,2025-11-07,5,Delivered,INV-76935,Overdue,Seasonal stock
+PO-5286,SUP-109,NexGen Procurement,SKU-1037,Air Fryer,Home & Kitchen,2026-02-19,304,304,137.72,41866.88,USD,2026-03-11,2026-03-21,10,Delivered,INV-70694,Overdue,Seasonal stock
+PO-5287,SUP-112,EuroGoods Direct,SKU-1032,Non-stick Pan,Home & Kitchen,2025-05-20,186,0,248.39,46200.54,USD,2025-05-26,,,Pending,INV-23703,Pending,
+PO-5288,SUP-107,TrustMart B2B,SKU-1005,Monitor Stand,Electronics,2025-05-02,435,435,165.01,71779.35,USD,2025-05-18,2025-05-27,9,Delivered,INV-50880,Pending,Rush order
+PO-5289,SUP-113,PacificSource,SKU-1013,Stapler,Office,2025-11-25,257,257,135.42,34802.94,USD,2025-12-18,2025-12-30,12,Delivered,INV-69303,Pending,
+PO-5290,SUP-105,MegaDist Corp,SKU-1002,Mechanical Keyboard,Electronics,2025-05-01,21,0,160.66,3373.86,USD,2025-05-20,,,Cancelled,INV-24334,Pending,Bulk discount applied
+PO-5291,SUP-113,PacificSource,SKU-1010,Ballpoint Pens (Box),Office,2025-07-06,274,274,72.49,19862.26,USD,2025-07-29,2025-08-06,8,Delivered,INV-83380,Pending,Rush order
+PO-5292,SUP-104,EcoSource Inc.,SKU-1025,Socks (Pack-6),Clothing,2026-01-20,104,0,138.73,14427.92,USD,2026-01-26,,,Cancelled,INV-66640,Pending,Rush order
+PO-5293,SUP-101,GlobalTech Supplies,SKU-1047,Eye Cream,Beauty,2026-01-12,462,0,30.56,14118.72,USD,2026-01-27,,,In Transit,INV-66302,Pending,Rush order
+PO-5294,SUP-101,GlobalTech Supplies,SKU-1045,Hand Cream,Beauty,2025-06-21,115,0,173.81,19988.15,USD,2025-07-06,,,Cancelled,INV-18200,Pending,Seasonal stock
+PO-5295,SUP-102,FastShip Co.,SKU-1034,Kitchen Knife Set,Home & Kitchen,2025-06-07,197,0,133.28,26256.16,USD,2025-06-26,,,Pending,INV-24936,Pending,
+PO-5296,SUP-111,AsiaTrade Hub,SKU-1031,Blender,Home & Kitchen,2025-11-29,337,0,210.45,70921.65,USD,2025-12-02,,,Pending,INV-90125,Pending,Rush order
+PO-5297,SUP-110,SwiftLogistics,SKU-1007,Power Bank,Electronics,2025-08-29,190,0,205.06,38961.4,USD,2025-09-13,,,In Transit,INV-32613,Pending,Quality check required
+PO-5298,SUP-111,AsiaTrade Hub,SKU-1045,Hand Cream,Beauty,2025-08-03,480,480,192.03,92174.4,USD,2025-08-06,2025-08-08,2,Delivered,INV-51049,Paid,
+PO-5299,SUP-105,MegaDist Corp,SKU-1007,Power Bank,Electronics,2025-06-05,201,0,196.8,39556.8,USD,2025-06-24,,,In Transit,INV-60916,Pending,Rush order
+PO-5300,SUP-110,SwiftLogistics,SKU-1008,Smart Speaker,Electronics,2025-12-23,206,0,87.68,18062.08,USD,2026-01-07,,,Pending,INV-93296,Pending,Seasonal stock
+PO-5301,SUP-112,EuroGoods Direct,SKU-1041,Shampoo 500ml,Beauty,2025-05-31,294,294,153.34,45081.96,USD,2025-06-06,2025-06-08,2,Delivered,INV-34523,Pending,Quality check required
+PO-5302,SUP-108,ValueChain Partners,SKU-1039,Dish Rack,Home & Kitchen,2025-03-31,453,453,229.77,104085.81,USD,2025-04-22,2025-05-05,13,Delivered,INV-27895,Paid,Quality check required
+PO-5303,SUP-107,TrustMart B2B,SKU-1035,Food Storage Containers,Home & Kitchen,2025-11-17,344,0,122.17,42026.48,USD,2025-12-03,,,Cancelled,INV-74451,Pending,Rush order
+PO-5304,SUP-112,EuroGoods Direct,SKU-1028,Denim Shorts,Clothing,2025-11-09,95,95,100.01,9500.95,USD,2025-11-15,2025-11-20,5,Delivered,INV-48284,Paid,
+PO-5305,SUP-104,EcoSource Inc.,SKU-1034,Kitchen Knife Set,Home & Kitchen,2025-07-29,96,0,151.91,14583.36,USD,2025-08-04,,,In Transit,INV-74921,Pending,Seasonal stock
+PO-5306,SUP-109,NexGen Procurement,SKU-1007,Power Bank,Electronics,2025-12-22,68,0,173.68,11810.24,USD,2026-01-11,,,In Transit,INV-58085,Pending,Seasonal stock
+PO-5307,SUP-114,AmeriTrade Supplies,SKU-1048,Toner,Beauty,2025-03-25,399,0,171.47,68416.53,USD,2025-03-28,,,In Transit,INV-38644,Pending,Rush order
+PO-5308,SUP-102,FastShip Co.,SKU-1047,Eye Cream,Beauty,2026-02-01,394,236,31.05,12233.7,USD,2026-02-20,2026-02-19,-1,Partially Delivered,INV-68947,Pending,
+PO-5309,SUP-106,QuickMart Wholesale,SKU-1005,Monitor Stand,Electronics,2025-10-14,453,271,167.28,75777.84,USD,2025-10-26,2025-10-31,5,Partially Delivered,INV-37509,Pending,Quality check required
+PO-5310,SUP-112,EuroGoods Direct,SKU-1037,Air Fryer,Home & Kitchen,2026-02-19,189,0,165.71,31319.19,USD,2026-02-25,,,In Transit,INV-92938,Pending,Rush order
+PO-5311,SUP-103,PrimeVendor Ltd,SKU-1039,Dish Rack,Home & Kitchen,2025-05-14,411,411,219.12,90058.32,USD,2025-05-18,2025-05-17,-1,Delivered,INV-84720,Pending,Seasonal stock
+PO-5312,SUP-105,MegaDist Corp,SKU-1038,Mixing Bowls Set,Home & Kitchen,2025-12-04,96,0,92.03,8834.88,USD,2025-12-23,,,Cancelled,INV-48356,Pending,
+PO-5313,SUP-110,SwiftLogistics,SKU-1017,Printer Ink Cartridge,Office,2025-11-22,470,470,241.04,113288.8,USD,2025-12-07,2025-12-09,2,Delivered,INV-63948,Paid,
+PO-5314,SUP-114,AmeriTrade Supplies,SKU-1041,Shampoo 500ml,Beauty,2025-05-07,369,369,187.98,69364.62,USD,2025-05-10,2025-05-12,2,Delivered,INV-52217,Paid,Quality check required
+PO-5315,SUP-114,AmeriTrade Supplies,SKU-1043,Sunscreen SPF50,Beauty,2025-09-21,260,0,131.19,34109.4,USD,2025-09-24,,,Cancelled,INV-45221,Pending,Bulk discount applied
+PO-5316,SUP-107,TrustMart B2B,SKU-1024,Baseball Cap,Clothing,2025-10-21,48,28,86.61,4157.28,USD,2025-11-06,2025-11-06,0,Partially Delivered,INV-62802,Pending,Seasonal stock
+PO-5317,SUP-112,EuroGoods Direct,SKU-1017,Printer Ink Cartridge,Office,2026-02-22,489,0,254.27,124338.03,USD,2026-02-28,,,Pending,INV-73968,Pending,
+PO-5318,SUP-110,SwiftLogistics,SKU-1000,Wireless Earbuds,Electronics,2025-04-20,384,0,175.96,67568.64,USD,2025-05-05,,,Cancelled,INV-97050,Pending,Bulk discount applied
+PO-5319,SUP-106,QuickMart Wholesale,SKU-1004,Webcam,Electronics,2025-12-02,213,0,210.94,44930.22,USD,2025-12-14,,,Pending,INV-37767,Pending,Rush order
+PO-5320,SUP-105,MegaDist Corp,SKU-1020,Men T-Shirt,Clothing,2025-07-27,182,182,202.92,36931.44,USD,2025-08-15,2025-08-28,13,Delivered,INV-55054,Overdue,Quality check required
+PO-5321,SUP-101,GlobalTech Supplies,SKU-1002,Mechanical Keyboard,Electronics,2025-04-23,330,0,157.89,52103.7,USD,2025-05-08,,,Pending,INV-12134,Pending,
+PO-5322,SUP-115,NorthStar Vendors,SKU-1010,Ballpoint Pens (Box),Office,2025-10-15,243,0,68.43,16628.49,USD,2025-11-02,,,Pending,INV-36518,Pending,Bulk discount applied
+PO-5323,SUP-115,NorthStar Vendors,SKU-1008,Smart Speaker,Electronics,2026-01-30,164,164,80.77,13246.28,USD,2026-02-17,2026-02-17,0,Delivered,INV-95798,Pending,
+PO-5324,SUP-102,FastShip Co.,SKU-1023,Running Shoes,Clothing,2026-02-07,472,472,169.35,79933.2,USD,2026-02-26,2026-03-08,10,Delivered,INV-91999,Pending,Bulk discount applied
+PO-5325,SUP-112,EuroGoods Direct,SKU-1048,Toner,Beauty,2025-07-01,229,0,168.48,38581.92,USD,2025-07-07,,,Cancelled,INV-22475,Pending,
+PO-5326,SUP-104,EcoSource Inc.,SKU-1030,Coffee Maker,Home & Kitchen,2025-04-12,77,0,227.9,17548.3,USD,2025-04-18,,,In Transit,INV-99126,Pending,Rush order
+PO-5327,SUP-101,GlobalTech Supplies,SKU-1000,Wireless Earbuds,Electronics,2026-02-23,185,111,168.97,31259.45,USD,2026-03-10,2026-03-21,11,Partially Delivered,INV-27324,Pending,Rush order
+PO-5328,SUP-102,FastShip Co.,SKU-1014,File Folders,Office,2025-09-16,55,55,194.46,10695.3,USD,2025-10-05,2025-10-06,1,Delivered,INV-51071,Pending,
+PO-5329,SUP-103,PrimeVendor Ltd,SKU-1024,Baseball Cap,Clothing,2025-05-11,338,338,95.34,32224.92,USD,2025-05-15,2025-05-15,0,Delivered,INV-79534,Overdue,
+PO-5330,SUP-110,SwiftLogistics,SKU-1041,Shampoo 500ml,Beauty,2025-05-27,235,235,162.47,38180.45,USD,2025-06-11,2025-06-13,2,Delivered,INV-63963,Overdue,Bulk discount applied
+PO-5331,SUP-108,ValueChain Partners,SKU-1013,Stapler,Office,2025-04-17,469,281,125.18,58709.42,USD,2025-05-09,2025-05-10,1,Partially Delivered,INV-87276,Pending,Bulk discount applied
+PO-5332,SUP-107,TrustMart B2B,SKU-1022,Hoodie,Clothing,2025-10-09,171,171,46.03,7871.13,USD,2025-10-25,2025-10-31,6,Delivered,INV-94491,Paid,
+PO-5333,SUP-109,NexGen Procurement,SKU-1038,Mixing Bowls Set,Home & Kitchen,2026-01-05,379,227,100.06,37922.74,USD,2026-01-25,2026-01-23,-2,Partially Delivered,INV-96298,Pending,
+PO-5334,SUP-104,EcoSource Inc.,SKU-1033,Cutting Board,Home & Kitchen,2026-01-08,270,0,152.92,41288.4,USD,2026-01-14,,,Pending,INV-48737,Pending,Bulk discount applied
+PO-5335,SUP-101,GlobalTech Supplies,SKU-1015,Whiteboard Markers,Office,2025-11-12,207,0,128.06,26508.42,USD,2025-11-27,,,Pending,INV-93634,Pending,Seasonal stock
+PO-5336,SUP-102,FastShip Co.,SKU-1033,Cutting Board,Home & Kitchen,2025-03-10,194,194,189.48,36759.12,USD,2025-03-29,2025-04-08,10,Delivered,INV-84498,Pending,
+PO-5337,SUP-109,NexGen Procurement,SKU-1043,Sunscreen SPF50,Beauty,2025-05-31,400,240,145.24,58096.0,USD,2025-06-20,2025-06-20,0,Partially Delivered,INV-12187,Pending,Seasonal stock
+PO-5338,SUP-102,FastShip Co.,SKU-1000,Wireless Earbuds,Electronics,2025-07-16,120,120,133.91,16069.2,USD,2025-08-04,2025-08-14,10,Delivered,INV-76402,Pending,Bulk discount applied
+PO-5339,SUP-112,EuroGoods Direct,SKU-1032,Non-stick Pan,Home & Kitchen,2025-10-02,226,226,229.67,51905.42,USD,2025-10-08,2025-10-10,2,Delivered,INV-46368,Paid,
+PO-5340,SUP-102,FastShip Co.,SKU-1032,Non-stick Pan,Home & Kitchen,2025-06-16,423,423,195.1,82527.3,USD,2025-07-05,2025-07-15,10,Delivered,INV-86865,Overdue,Quality check required
+PO-5341,SUP-114,AmeriTrade Supplies,SKU-1041,Shampoo 500ml,Beauty,2026-02-15,339,0,148.35,50290.65,USD,2026-02-18,,,Cancelled,INV-67342,Pending,Bulk discount applied
+PO-5342,SUP-114,AmeriTrade Supplies,SKU-1015,Whiteboard Markers,Office,2025-04-02,135,0,126.94,17136.9,USD,2025-04-05,,,Pending,INV-25202,Pending,Rush order
+PO-5343,SUP-110,SwiftLogistics,SKU-1038,Mixing Bowls Set,Home & Kitchen,2025-04-01,168,0,101.72,17088.96,USD,2025-04-16,,,Cancelled,INV-33022,Pending,
+PO-5344,SUP-101,GlobalTech Supplies,SKU-1045,Hand Cream,Beauty,2025-05-13,369,0,159.34,58796.46,USD,2025-05-28,,,Pending,INV-55443,Pending,Seasonal stock
+PO-5345,SUP-109,NexGen Procurement,SKU-1046,Body Lotion,Beauty,2025-07-14,95,0,28.72,2728.4,USD,2025-08-03,,,Cancelled,INV-45227,Pending,Bulk discount applied
+PO-5346,SUP-115,NorthStar Vendors,SKU-1007,Power Bank,Electronics,2025-03-19,181,181,202.97,36737.57,USD,2025-04-06,2025-04-20,14,Delivered,INV-18371,Pending,Bulk discount applied
+PO-5347,SUP-110,SwiftLogistics,SKU-1040,Face Moisturizer,Beauty,2025-04-12,264,264,84.83,22395.12,USD,2025-04-27,2025-04-26,-1,Delivered,INV-75484,Overdue,
+PO-5348,SUP-106,QuickMart Wholesale,SKU-1010,Ballpoint Pens (Box),Office,2025-07-12,405,0,70.82,28682.1,USD,2025-07-24,,,In Transit,INV-98358,Pending,Bulk discount applied
+PO-5349,SUP-102,FastShip Co.,SKU-1014,File Folders,Office,2025-11-19,11,6,157.97,1737.67,USD,2025-12-08,2025-12-06,-2,Partially Delivered,INV-42053,Pending,
+PO-5350,SUP-108,ValueChain Partners,SKU-1023,Running Shoes,Clothing,2025-09-16,481,288,145.73,70096.13,USD,2025-10-08,2025-10-07,-1,Partially Delivered,INV-82465,Pending,Quality check required
+PO-5351,SUP-115,NorthStar Vendors,SKU-1045,Hand Cream,Beauty,2026-02-02,224,224,170.9,38281.6,USD,2026-02-20,2026-03-03,11,Delivered,INV-51934,Pending,Quality check required
+PO-5352,SUP-102,FastShip Co.,SKU-1036,Electric Kettle,Home & Kitchen,2025-09-10,71,71,19.45,1380.95,USD,2025-09-29,2025-10-02,3,Delivered,INV-39253,Overdue,
+PO-5353,SUP-107,TrustMart B2B,SKU-1004,Webcam,Electronics,2025-10-28,453,271,215.27,97517.31,USD,2025-11-13,2025-11-20,7,Partially Delivered,INV-52899,Pending,
+PO-5354,SUP-109,NexGen Procurement,SKU-1029,Sport Leggings,Clothing,2025-03-08,198,0,44.14,8739.72,USD,2025-03-28,,,In Transit,INV-49834,Pending,Bulk discount applied
+PO-5355,SUP-110,SwiftLogistics,SKU-1015,Whiteboard Markers,Office,2025-10-27,198,0,148.23,29349.54,USD,2025-11-11,,,Pending,INV-35614,Pending,Bulk discount applied
+PO-5356,SUP-115,NorthStar Vendors,SKU-1034,Kitchen Knife Set,Home & Kitchen,2025-07-07,87,0,120.19,10456.53,USD,2025-07-25,,,Pending,INV-13133,Pending,
+PO-5357,SUP-109,NexGen Procurement,SKU-1022,Hoodie,Clothing,2026-01-23,439,439,44.83,19680.37,USD,2026-02-12,2026-02-20,8,Delivered,INV-10191,Overdue,Rush order
+PO-5358,SUP-114,AmeriTrade Supplies,SKU-1047,Eye Cream,Beauty,2025-08-08,63,63,30.63,1929.69,USD,2025-08-11,2025-08-22,11,Delivered,INV-74491,Paid,
+PO-5359,SUP-112,EuroGoods Direct,SKU-1017,Printer Ink Cartridge,Office,2025-04-20,32,19,257.21,8230.72,USD,2025-04-26,2025-05-10,14,Partially Delivered,INV-64140,Pending,Bulk discount applied
+PO-5360,SUP-115,NorthStar Vendors,SKU-1023,Running Shoes,Clothing,2025-10-24,392,392,142.65,55918.8,USD,2025-11-11,2025-11-25,14,Delivered,INV-27499,Overdue,Quality check required
+PO-5361,SUP-107,TrustMart B2B,SKU-1004,Webcam,Electronics,2026-01-01,300,0,200.52,60156.0,USD,2026-01-17,,,Cancelled,INV-27132,Pending,
+PO-5362,SUP-105,MegaDist Corp,SKU-1016,Desk Organizer,Office,2025-08-12,484,0,141.87,68665.08,USD,2025-08-31,,,Cancelled,INV-52762,Pending,
+PO-5363,SUP-108,ValueChain Partners,SKU-1017,Printer Ink Cartridge,Office,2025-07-01,48,48,258.7,12417.6,USD,2025-07-23,2025-07-24,1,Delivered,INV-30369,Paid,
+PO-5364,SUP-108,ValueChain Partners,SKU-1029,Sport Leggings,Clothing,2025-08-11,218,218,43.01,9376.18,USD,2025-09-02,2025-09-06,4,Delivered,INV-69233,Pending,Rush order
+PO-5365,SUP-105,MegaDist Corp,SKU-1007,Power Bank,Electronics,2025-04-19,90,90,203.0,18270.0,USD,2025-05-08,2025-05-07,-1,Delivered,INV-38183,Pending,
+PO-5366,SUP-102,FastShip Co.,SKU-1045,Hand Cream,Beauty,2025-07-09,192,192,180.2,34598.4,USD,2025-07-28,2025-08-04,7,Delivered,INV-44100,Paid,
+PO-5367,SUP-107,TrustMart B2B,SKU-1028,Denim Shorts,Clothing,2025-12-13,393,393,115.54,45407.22,USD,2025-12-29,2026-01-10,12,Delivered,INV-23357,Paid,
+PO-5368,SUP-101,GlobalTech Supplies,SKU-1003,Gaming Mouse,Electronics,2025-06-25,76,0,130.23,9897.48,USD,2025-07-10,,,Pending,INV-58790,Pending,Bulk discount applied
+PO-5369,SUP-111,AsiaTrade Hub,SKU-1041,Shampoo 500ml,Beauty,2025-04-16,308,184,174.11,53625.88,USD,2025-04-19,2025-04-19,0,Partially Delivered,INV-12857,Pending,
+PO-5370,SUP-104,EcoSource Inc.,SKU-1041,Shampoo 500ml,Beauty,2025-10-17,424,254,151.45,64214.8,USD,2025-10-23,2025-10-31,8,Partially Delivered,INV-26059,Pending,
+PO-5371,SUP-108,ValueChain Partners,SKU-1003,Gaming Mouse,Electronics,2025-05-29,483,289,145.88,70460.04,USD,2025-06-20,2025-06-30,10,Partially Delivered,INV-75028,Pending,
+PO-5372,SUP-107,TrustMart B2B,SKU-1043,Sunscreen SPF50,Beauty,2025-10-08,98,98,140.24,13743.52,USD,2025-10-24,2025-10-30,6,Delivered,INV-46681,Pending,
+PO-5373,SUP-101,GlobalTech Supplies,SKU-1039,Dish Rack,Home & Kitchen,2026-01-15,325,325,221.86,72104.5,USD,2026-01-30,2026-02-12,13,Delivered,INV-64000,Overdue,Rush order
+PO-5374,SUP-101,GlobalTech Supplies,SKU-1005,Monitor Stand,Electronics,2025-07-25,206,206,130.75,26934.5,USD,2025-08-09,2025-08-23,14,Delivered,INV-42656,Overdue,Quality check required
+PO-5375,SUP-109,NexGen Procurement,SKU-1001,USB-C Hub,Electronics,2025-09-15,410,0,227.82,93406.2,USD,2025-10-05,,,Pending,INV-81371,Pending,Quality check required
+PO-5376,SUP-108,ValueChain Partners,SKU-1022,Hoodie,Clothing,2025-12-18,267,267,40.22,10738.74,USD,2026-01-09,2026-01-12,3,Delivered,INV-13416,Pending,Seasonal stock
+PO-5377,SUP-104,EcoSource Inc.,SKU-1001,USB-C Hub,Electronics,2025-07-25,39,0,233.78,9117.42,USD,2025-07-31,,,Pending,INV-79393,Pending,
+PO-5378,SUP-113,PacificSource,SKU-1037,Air Fryer,Home & Kitchen,2025-07-01,91,0,132.44,12052.04,USD,2025-07-24,,,Cancelled,INV-41608,Pending,
+PO-5379,SUP-109,NexGen Procurement,SKU-1047,Eye Cream,Beauty,2025-04-01,401,401,38.37,15386.37,USD,2025-04-21,2025-05-01,10,Delivered,INV-56504,Paid,
+PO-5380,SUP-104,EcoSource Inc.,SKU-1037,Air Fryer,Home & Kitchen,2025-08-13,422,422,160.33,67659.26,USD,2025-08-19,2025-08-17,-2,Delivered,INV-56095,Overdue,Seasonal stock
+PO-5381,SUP-103,PrimeVendor Ltd,SKU-1036,Electric Kettle,Home & Kitchen,2025-06-08,438,0,22.21,9727.98,USD,2025-06-12,,,Pending,INV-81057,Pending,
+PO-5382,SUP-103,PrimeVendor Ltd,SKU-1031,Blender,Home & Kitchen,2025-03-23,56,0,193.75,10850.0,USD,2025-03-27,,,In Transit,INV-38679,Pending,
+PO-5383,SUP-109,NexGen Procurement,SKU-1030,Coffee Maker,Home & Kitchen,2025-03-04,179,179,248.88,44549.52,USD,2025-03-24,2025-03-26,2,Delivered,INV-54663,Overdue,
+PO-5384,SUP-115,NorthStar Vendors,SKU-1020,Men T-Shirt,Clothing,2025-04-03,21,0,179.59,3771.39,USD,2025-04-21,,,Cancelled,INV-28566,Pending,Quality check required
+PO-5385,SUP-102,FastShip Co.,SKU-1033,Cutting Board,Home & Kitchen,2025-09-06,47,0,161.99,7613.53,USD,2025-09-25,,,Cancelled,INV-61851,Pending,Seasonal stock
+PO-5386,SUP-102,FastShip Co.,SKU-1021,Women Jeans,Clothing,2025-08-05,175,175,105.81,18516.75,USD,2025-08-24,2025-09-04,11,Delivered,INV-93789,Pending,Bulk discount applied
+PO-5387,SUP-106,QuickMart Wholesale,SKU-1011,A4 Paper (Ream),Office,2025-12-16,365,0,244.37,89195.05,USD,2025-12-28,,,In Transit,INV-56769,Pending,
+PO-5388,SUP-111,AsiaTrade Hub,SKU-1037,Air Fryer,Home & Kitchen,2025-06-01,203,0,141.48,28720.44,USD,2025-06-04,,,Cancelled,INV-48602,Pending,
+PO-5389,SUP-103,PrimeVendor Ltd,SKU-1046,Body Lotion,Beauty,2025-03-04,495,0,31.59,15637.05,USD,2025-03-08,,,In Transit,INV-61327,Pending,Quality check required
+PO-5390,SUP-113,PacificSource,SKU-1036,Electric Kettle,Home & Kitchen,2025-03-20,103,61,20.02,2062.06,USD,2025-04-12,2025-04-17,5,Partially Delivered,INV-93839,Pending,Seasonal stock
+PO-5391,SUP-102,FastShip Co.,SKU-1031,Blender,Home & Kitchen,2025-05-15,179,179,238.49,42689.71,USD,2025-06-03,2025-06-12,9,Delivered,INV-51879,Paid,Bulk discount applied
+PO-5392,SUP-115,NorthStar Vendors,SKU-1005,Monitor Stand,Electronics,2026-02-10,337,337,156.0,52572.0,USD,2026-02-28,2026-03-12,12,Delivered,INV-11493,Pending,
+PO-5393,SUP-104,EcoSource Inc.,SKU-1044,Lip Balm,Beauty,2025-04-07,189,189,202.15,38206.35,USD,2025-04-13,2025-04-11,-2,Delivered,INV-16310,Pending,Rush order
+PO-5394,SUP-112,EuroGoods Direct,SKU-1026,Polo Shirt,Clothing,2025-05-28,462,0,157.61,72815.82,USD,2025-06-03,,,Pending,INV-56036,Pending,Seasonal stock
+PO-5395,SUP-107,TrustMart B2B,SKU-1006,LED Desk Lamp,Electronics,2025-11-04,413,0,220.82,91198.66,USD,2025-11-20,,,Cancelled,INV-39567,Pending,
+PO-5396,SUP-108,ValueChain Partners,SKU-1004,Webcam,Electronics,2025-03-21,160,160,197.69,31630.4,USD,2025-04-12,2025-04-13,1,Delivered,INV-19725,Pending,
+PO-5397,SUP-115,NorthStar Vendors,SKU-1024,Baseball Cap,Clothing,2025-05-25,384,384,73.02,28039.68,USD,2025-06-12,2025-06-20,8,Delivered,INV-87860,Overdue,Rush order
+PO-5398,SUP-112,EuroGoods Direct,SKU-1001,USB-C Hub,Electronics,2025-10-10,492,0,224.08,110247.36,USD,2025-10-16,,,In Transit,INV-66911,Pending,
+PO-5399,SUP-101,GlobalTech Supplies,SKU-1006,LED Desk Lamp,Electronics,2025-08-20,115,0,227.24,26132.6,USD,2025-09-04,,,Pending,INV-82628,Pending,Bulk discount applied
+PO-5400,SUP-115,NorthStar Vendors,SKU-1046,Body Lotion,Beauty,2025-12-05,145,145,31.23,4528.35,USD,2025-12-23,2025-12-28,5,Delivered,INV-22571,Paid,Rush order
+PO-5401,SUP-110,SwiftLogistics,SKU-1035,Food Storage Containers,Home & Kitchen,2025-11-10,88,88,106.45,9367.6,USD,2025-11-25,2025-12-06,11,Delivered,INV-21485,Pending,Quality check required
+PO-5402,SUP-111,AsiaTrade Hub,SKU-1040,Face Moisturizer,Beauty,2026-01-05,255,255,78.42,19997.1,USD,2026-01-08,2026-01-12,4,Delivered,INV-32391,Overdue,
+PO-5403,SUP-102,FastShip Co.,SKU-1030,Coffee Maker,Home & Kitchen,2025-05-02,167,0,240.27,40125.09,USD,2025-05-21,,,Pending,INV-74106,Pending,Bulk discount applied
+PO-5404,SUP-105,MegaDist Corp,SKU-1005,Monitor Stand,Electronics,2026-01-26,288,288,141.42,40728.96,USD,2026-02-14,2026-02-24,10,Delivered,INV-58418,Paid,Rush order
+PO-5405,SUP-101,GlobalTech Supplies,SKU-1016,Desk Organizer,Office,2025-10-15,248,148,121.43,30114.64,USD,2025-10-30,2025-11-05,6,Partially Delivered,INV-83956,Pending,
+PO-5406,SUP-103,PrimeVendor Ltd,SKU-1048,Toner,Beauty,2026-02-23,351,0,142.22,49919.22,USD,2026-02-27,,,Cancelled,INV-55061,Pending,Quality check required
+PO-5407,SUP-109,NexGen Procurement,SKU-1026,Polo Shirt,Clothing,2025-12-30,126,75,164.19,20687.94,USD,2026-01-19,2026-01-29,10,Partially Delivered,INV-78495,Pending,Rush order
+PO-5408,SUP-109,NexGen Procurement,SKU-1043,Sunscreen SPF50,Beauty,2025-11-02,303,0,162.78,49322.34,USD,2025-11-22,,,Pending,INV-49171,Pending,
+PO-5409,SUP-107,TrustMart B2B,SKU-1045,Hand Cream,Beauty,2025-03-21,267,0,189.69,50647.23,USD,2025-04-06,,,In Transit,INV-84905,Pending,Bulk discount applied
+PO-5410,SUP-110,SwiftLogistics,SKU-1009,Laptop Stand,Electronics,2025-05-04,496,496,47.14,23381.44,USD,2025-05-19,2025-05-22,3,Delivered,INV-37772,Paid,
+PO-5411,SUP-101,GlobalTech Supplies,SKU-1027,Winter Jacket,Clothing,2025-04-13,359,215,185.46,66580.14,USD,2025-04-28,2025-04-30,2,Partially Delivered,INV-87994,Pending,
+PO-5412,SUP-106,QuickMart Wholesale,SKU-1046,Body Lotion,Beauty,2025-04-07,54,0,28.86,1558.44,USD,2025-04-19,,,Pending,INV-82358,Pending,
+PO-5413,SUP-114,AmeriTrade Supplies,SKU-1017,Printer Ink Cartridge,Office,2025-11-25,244,244,256.94,62693.36,USD,2025-11-28,2025-12-12,14,Delivered,INV-64997,Paid,Rush order
+PO-5414,SUP-103,PrimeVendor Ltd,SKU-1009,Laptop Stand,Electronics,2025-12-19,311,311,44.91,13967.01,USD,2025-12-23,2025-12-24,1,Delivered,INV-83752,Paid,Quality check required
+PO-5415,SUP-105,MegaDist Corp,SKU-1034,Kitchen Knife Set,Home & Kitchen,2025-08-27,459,0,136.76,62772.84,USD,2025-09-15,,,Pending,INV-95824,Pending,Rush order
+PO-5416,SUP-110,SwiftLogistics,SKU-1038,Mixing Bowls Set,Home & Kitchen,2025-11-01,29,0,87.74,2544.46,USD,2025-11-16,,,Pending,INV-28855,Pending,Seasonal stock
+PO-5417,SUP-110,SwiftLogistics,SKU-1043,Sunscreen SPF50,Beauty,2026-02-22,215,215,126.77,27255.55,USD,2026-03-09,2026-03-14,5,Delivered,INV-16460,Overdue,Rush order
+PO-5418,SUP-115,NorthStar Vendors,SKU-1017,Printer Ink Cartridge,Office,2025-09-10,20,12,218.23,4364.6,USD,2025-09-28,2025-10-05,7,Partially Delivered,INV-50756,Pending,
+PO-5419,SUP-114,AmeriTrade Supplies,SKU-1031,Blender,Home & Kitchen,2026-02-23,360,216,196.48,70732.8,USD,2026-02-26,2026-03-03,5,Partially Delivered,INV-27614,Pending,
+PO-5420,SUP-112,EuroGoods Direct,SKU-1028,Denim Shorts,Clothing,2025-08-15,147,0,121.47,17856.09,USD,2025-08-21,,,In Transit,INV-94614,Pending,
+PO-5421,SUP-104,EcoSource Inc.,SKU-1028,Denim Shorts,Clothing,2025-06-20,477,0,124.64,59453.28,USD,2025-06-26,,,Cancelled,INV-73499,Pending,Quality check required
+PO-5422,SUP-109,NexGen Procurement,SKU-1023,Running Shoes,Clothing,2025-04-01,273,273,176.1,48075.3,USD,2025-04-21,2025-04-28,7,Delivered,INV-76426,Pending,
+PO-5423,SUP-113,PacificSource,SKU-1033,Cutting Board,Home & Kitchen,2025-12-20,24,14,152.19,3652.56,USD,2026-01-12,2026-01-16,4,Partially Delivered,INV-17553,Pending,
+PO-5424,SUP-101,GlobalTech Supplies,SKU-1029,Sport Leggings,Clothing,2025-03-29,480,480,46.4,22272.0,USD,2025-04-13,2025-04-19,6,Delivered,INV-58280,Pending,Seasonal stock
+PO-5425,SUP-107,TrustMart B2B,SKU-1040,Face Moisturizer,Beauty,2025-05-06,358,358,74.18,26556.44,USD,2025-05-22,2025-06-04,13,Delivered,INV-87862,Pending,
+PO-5426,SUP-114,AmeriTrade Supplies,SKU-1030,Coffee Maker,Home & Kitchen,2025-12-29,292,292,212.12,61939.04,USD,2026-01-01,2026-01-07,6,Delivered,INV-21847,Pending,
+PO-5427,SUP-107,TrustMart B2B,SKU-1003,Gaming Mouse,Electronics,2025-05-26,447,447,145.81,65177.07,USD,2025-06-11,2025-06-16,5,Delivered,INV-94853,Paid,Bulk discount applied
+PO-5428,SUP-104,EcoSource Inc.,SKU-1017,Printer Ink Cartridge,Office,2026-01-31,219,131,229.95,50359.05,USD,2026-02-06,2026-02-04,-2,Partially Delivered,INV-72140,Pending,
+PO-5429,SUP-111,AsiaTrade Hub,SKU-1011,A4 Paper (Ream),Office,2026-01-05,420,420,187.98,78951.6,USD,2026-01-08,2026-01-15,7,Delivered,INV-94245,Pending,Rush order
+PO-5430,SUP-115,NorthStar Vendors,SKU-1024,Baseball Cap,Clothing,2025-08-29,245,0,77.33,18945.85,USD,2025-09-16,,,Pending,INV-49602,Pending,Bulk discount applied
+PO-5431,SUP-109,NexGen Procurement,SKU-1039,Dish Rack,Home & Kitchen,2025-09-23,309,0,211.83,65455.47,USD,2025-10-13,,,In Transit,INV-96816,Pending,Quality check required
+PO-5432,SUP-114,AmeriTrade Supplies,SKU-1023,Running Shoes,Clothing,2025-12-16,341,341,166.74,56858.34,USD,2025-12-19,2025-12-26,7,Delivered,INV-99707,Paid,Rush order
+PO-5433,SUP-102,FastShip Co.,SKU-1021,Women Jeans,Clothing,2025-07-23,337,337,112.32,37851.84,USD,2025-08-11,2025-08-17,6,Delivered,INV-95998,Overdue,Bulk discount applied
+PO-5434,SUP-105,MegaDist Corp,SKU-1012,Sticky Notes Pack,Office,2025-05-19,274,274,167.52,45900.48,USD,2025-06-07,2025-06-17,10,Delivered,INV-96577,Pending,Bulk discount applied
+PO-5435,SUP-103,PrimeVendor Ltd,SKU-1046,Body Lotion,Beauty,2025-03-17,345,345,29.81,10284.45,USD,2025-03-21,2025-03-27,6,Delivered,INV-64862,Pending,Rush order
+PO-5436,SUP-112,EuroGoods Direct,SKU-1002,Mechanical Keyboard,Electronics,2025-12-27,372,223,166.86,62071.92,USD,2026-01-02,2026-01-06,4,Partially Delivered,INV-54979,Pending,Bulk discount applied
+PO-5437,SUP-112,EuroGoods Direct,SKU-1014,File Folders,Office,2026-02-18,283,0,189.55,53642.65,USD,2026-02-24,,,Pending,INV-98063,Pending,
+PO-5438,SUP-109,NexGen Procurement,SKU-1019,Tape Dispenser,Office,2025-05-30,440,0,231.82,102000.8,USD,2025-06-19,,,In Transit,INV-33741,Pending,
+PO-5439,SUP-102,FastShip Co.,SKU-1030,Coffee Maker,Home & Kitchen,2025-05-08,389,233,206.22,80219.58,USD,2025-05-27,2025-05-30,3,Partially Delivered,INV-99091,Pending,
+PO-5440,SUP-111,AsiaTrade Hub,SKU-1005,Monitor Stand,Electronics,2025-06-25,191,114,134.42,25674.22,USD,2025-06-28,2025-07-05,7,Partially Delivered,INV-65112,Pending,Quality check required
+PO-5441,SUP-115,NorthStar Vendors,SKU-1021,Women Jeans,Clothing,2025-09-10,143,0,121.31,17347.33,USD,2025-09-28,,,Pending,INV-25437,Pending,Rush order
+PO-5442,SUP-101,GlobalTech Supplies,SKU-1040,Face Moisturizer,Beauty,2025-12-27,307,307,97.09,29806.63,USD,2026-01-11,2026-01-24,13,Delivered,INV-35499,Overdue,
+PO-5443,SUP-114,AmeriTrade Supplies,SKU-1043,Sunscreen SPF50,Beauty,2025-09-15,281,281,137.86,38738.66,USD,2025-09-18,2025-09-20,2,Delivered,INV-28004,Paid,
+PO-5444,SUP-107,TrustMart B2B,SKU-1036,Electric Kettle,Home & Kitchen,2025-10-24,83,0,18.4,1527.2,USD,2025-11-09,,,Cancelled,INV-33639,Pending,Quality check required
+PO-5445,SUP-102,FastShip Co.,SKU-1031,Blender,Home & Kitchen,2025-08-21,333,333,254.16,84635.28,USD,2025-09-09,2025-09-08,-1,Delivered,INV-10617,Pending,
+PO-5446,SUP-104,EcoSource Inc.,SKU-1048,Toner,Beauty,2025-05-29,305,0,173.61,52951.05,USD,2025-06-04,,,Pending,INV-21539,Pending,
+PO-5447,SUP-110,SwiftLogistics,SKU-1027,Winter Jacket,Clothing,2026-01-22,229,0,183.7,42067.3,USD,2026-02-06,,,Pending,INV-60242,Pending,
+PO-5448,SUP-101,GlobalTech Supplies,SKU-1034,Kitchen Knife Set,Home & Kitchen,2025-06-14,384,384,135.21,51920.64,USD,2025-06-29,2025-07-07,8,Delivered,INV-79603,Paid,
+PO-5449,SUP-111,AsiaTrade Hub,SKU-1000,Wireless Earbuds,Electronics,2026-01-18,385,0,143.33,55182.05,USD,2026-01-21,,,Cancelled,INV-55134,Pending,
+PO-5450,SUP-103,PrimeVendor Ltd,SKU-1006,LED Desk Lamp,Electronics,2025-09-16,267,267,204.79,54678.93,USD,2025-09-20,2025-09-20,0,Delivered,INV-15992,Pending,
+PO-5451,SUP-108,ValueChain Partners,SKU-1046,Body Lotion,Beauty,2025-11-25,315,0,30.05,9465.75,USD,2025-12-17,,,Pending,INV-27536,Pending,
+PO-5452,SUP-115,NorthStar Vendors,SKU-1031,Blender,Home & Kitchen,2025-09-03,394,236,202.34,79721.96,USD,2025-09-21,2025-10-01,10,Partially Delivered,INV-12506,Pending,
+PO-5453,SUP-104,EcoSource Inc.,SKU-1046,Body Lotion,Beauty,2025-05-10,118,0,31.87,3760.66,USD,2025-05-16,,,In Transit,INV-76143,Pending,
+PO-5454,SUP-102,FastShip Co.,SKU-1023,Running Shoes,Clothing,2026-01-31,415,0,140.4,58266.0,USD,2026-02-19,,,Cancelled,INV-43526,Pending,Quality check required
+PO-5455,SUP-109,NexGen Procurement,SKU-1039,Dish Rack,Home & Kitchen,2025-03-28,314,0,274.2,86098.8,USD,2025-04-17,,,Cancelled,INV-24170,Pending,Bulk discount applied
+PO-5456,SUP-114,AmeriTrade Supplies,SKU-1001,USB-C Hub,Electronics,2025-03-28,363,0,190.44,69129.72,USD,2025-03-31,,,Pending,INV-59840,Pending,
+PO-5457,SUP-109,NexGen Procurement,SKU-1016,Desk Organizer,Office,2025-11-01,369,0,117.23,43257.87,USD,2025-11-21,,,Cancelled,INV-99881,Pending,Bulk discount applied
+PO-5458,SUP-101,GlobalTech Supplies,SKU-1019,Tape Dispenser,Office,2025-10-05,348,0,195.84,68152.32,USD,2025-10-20,,,In Transit,INV-45386,Pending,Seasonal stock
+PO-5459,SUP-110,SwiftLogistics,SKU-1044,Lip Balm,Beauty,2025-05-13,224,224,238.58,53441.92,USD,2025-05-28,2025-06-11,14,Delivered,INV-90962,Paid,
+PO-5460,SUP-102,FastShip Co.,SKU-1006,LED Desk Lamp,Electronics,2025-11-13,111,66,205.97,22862.67,USD,2025-12-02,2025-12-08,6,Partially Delivered,INV-78569,Pending,
+PO-5461,SUP-106,QuickMart Wholesale,SKU-1045,Hand Cream,Beauty,2025-09-29,161,0,167.42,26954.62,USD,2025-10-11,,,In Transit,INV-75058,Pending,
+PO-5462,SUP-112,EuroGoods Direct,SKU-1030,Coffee Maker,Home & Kitchen,2025-08-20,130,0,189.66,24655.8,USD,2025-08-26,,,Cancelled,INV-21665,Pending,
+PO-5463,SUP-114,AmeriTrade Supplies,SKU-1036,Electric Kettle,Home & Kitchen,2026-02-09,262,262,17.45,4571.9,USD,2026-02-12,2026-02-26,14,Delivered,INV-19836,Overdue,Bulk discount applied
+PO-5464,SUP-102,FastShip Co.,SKU-1016,Desk Organizer,Office,2026-01-27,128,128,128.78,16483.84,USD,2026-02-15,2026-02-21,6,Delivered,INV-70853,Paid,
+PO-5465,SUP-114,AmeriTrade Supplies,SKU-1011,A4 Paper (Ream),Office,2025-03-24,446,267,206.03,91889.38,USD,2025-03-27,2025-04-04,8,Partially Delivered,INV-65836,Pending,Bulk discount applied
+PO-5466,SUP-102,FastShip Co.,SKU-1006,LED Desk Lamp,Electronics,2025-03-27,14,0,220.12,3081.68,USD,2025-04-15,,,Cancelled,INV-94829,Pending,
+PO-5467,SUP-106,QuickMart Wholesale,SKU-1022,Hoodie,Clothing,2025-10-14,499,0,43.94,21926.06,USD,2025-10-26,,,Cancelled,INV-22183,Pending,
+PO-5468,SUP-114,AmeriTrade Supplies,SKU-1021,Women Jeans,Clothing,2025-06-05,68,0,114.93,7815.24,USD,2025-06-08,,,Pending,INV-45629,Pending,Quality check required
+PO-5469,SUP-107,TrustMart B2B,SKU-1044,Lip Balm,Beauty,2025-11-03,419,251,212.63,89091.97,USD,2025-11-19,2025-11-22,3,Partially Delivered,INV-24818,Pending,
+PO-5470,SUP-112,EuroGoods Direct,SKU-1046,Body Lotion,Beauty,2025-04-03,492,492,32.83,16152.36,USD,2025-04-09,2025-04-20,11,Delivered,INV-87430,Pending,Quality check required
+PO-5471,SUP-110,SwiftLogistics,SKU-1043,Sunscreen SPF50,Beauty,2025-10-14,102,61,151.23,15425.46,USD,2025-10-29,2025-11-07,9,Partially Delivered,INV-90131,Pending,
+PO-5472,SUP-114,AmeriTrade Supplies,SKU-1043,Sunscreen SPF50,Beauty,2025-05-09,257,257,164.44,42261.08,USD,2025-05-12,2025-05-23,11,Delivered,INV-67761,Paid,
+PO-5473,SUP-105,MegaDist Corp,SKU-1041,Shampoo 500ml,Beauty,2025-08-11,16,0,179.98,2879.68,USD,2025-08-30,,,Cancelled,INV-78788,Pending,Quality check required
+PO-5474,SUP-112,EuroGoods Direct,SKU-1036,Electric Kettle,Home & Kitchen,2025-12-18,124,0,22.15,2746.6,USD,2025-12-24,,,Cancelled,INV-54341,Pending,Seasonal stock
+PO-5475,SUP-109,NexGen Procurement,SKU-1044,Lip Balm,Beauty,2026-02-25,326,0,191.91,62562.66,USD,2026-03-17,,,Cancelled,INV-42581,Pending,Rush order
+PO-5476,SUP-106,QuickMart Wholesale,SKU-1042,Conditioner 500ml,Beauty,2026-02-13,338,202,26.93,9102.34,USD,2026-02-25,2026-02-24,-1,Partially Delivered,INV-11526,Pending,Bulk discount applied
+PO-5477,SUP-115,NorthStar Vendors,SKU-1010,Ballpoint Pens (Box),Office,2025-11-17,444,0,79.38,35244.72,USD,2025-12-05,,,Pending,INV-31679,Pending,
+PO-5478,SUP-113,PacificSource,SKU-1031,Blender,Home & Kitchen,2025-08-15,133,133,211.59,28141.47,USD,2025-09-07,2025-09-06,-1,Delivered,INV-76444,Paid,Seasonal stock
+PO-5479,SUP-111,AsiaTrade Hub,SKU-1024,Baseball Cap,Clothing,2025-09-26,428,0,76.91,32917.48,USD,2025-09-29,,,Pending,INV-68220,Pending,Quality check required
+PO-5480,SUP-110,SwiftLogistics,SKU-1028,Denim Shorts,Clothing,2025-04-18,448,448,113.82,50991.36,USD,2025-05-03,2025-05-04,1,Delivered,INV-75191,Overdue,Bulk discount applied
+PO-5481,SUP-101,GlobalTech Supplies,SKU-1006,LED Desk Lamp,Electronics,2025-09-26,221,0,172.6,38144.6,USD,2025-10-11,,,In Transit,INV-10022,Pending,Quality check required
+PO-5482,SUP-102,FastShip Co.,SKU-1038,Mixing Bowls Set,Home & Kitchen,2026-01-14,336,0,91.49,30740.64,USD,2026-02-02,,,In Transit,INV-83706,Pending,
+PO-5483,SUP-111,AsiaTrade Hub,SKU-1042,Conditioner 500ml,Beauty,2025-10-23,496,297,26.58,13183.68,USD,2025-10-26,2025-10-25,-1,Partially Delivered,INV-39218,Pending,Quality check required
+PO-5484,SUP-108,ValueChain Partners,SKU-1021,Women Jeans,Clothing,2025-12-15,402,0,122.49,49240.98,USD,2026-01-06,,,Pending,INV-96136,Pending,
+PO-5485,SUP-112,EuroGoods Direct,SKU-1028,Denim Shorts,Clothing,2025-05-01,59,59,122.49,7226.91,USD,2025-05-07,2025-05-05,-2,Delivered,INV-54742,Pending,Quality check required
+PO-5486,SUP-111,AsiaTrade Hub,SKU-1018,Scissors,Office,2025-12-09,277,277,71.26,19739.02,USD,2025-12-12,2025-12-11,-1,Delivered,INV-31516,Pending,
+PO-5487,SUP-114,AmeriTrade Supplies,SKU-1045,Hand Cream,Beauty,2025-09-29,64,64,172.51,11040.64,USD,2025-10-02,2025-10-06,4,Delivered,INV-25826,Pending,
+PO-5488,SUP-108,ValueChain Partners,SKU-1012,Sticky Notes Pack,Office,2025-08-24,65,65,167.14,10864.1,USD,2025-09-15,2025-09-16,1,Delivered,INV-69048,Pending,Bulk discount applied
+PO-5489,SUP-110,SwiftLogistics,SKU-1032,Non-stick Pan,Home & Kitchen,2025-05-11,265,0,185.55,49170.75,USD,2025-05-26,,,Cancelled,INV-16366,Pending,Seasonal stock
+PO-5490,SUP-115,NorthStar Vendors,SKU-1027,Winter Jacket,Clothing,2025-12-28,257,154,212.42,54591.94,USD,2026-01-15,2026-01-18,3,Partially Delivered,INV-85832,Pending,
+PO-5491,SUP-112,EuroGoods Direct,SKU-1008,Smart Speaker,Electronics,2025-04-26,208,0,93.81,19512.48,USD,2025-05-02,,,In Transit,INV-52184,Pending,Seasonal stock
+PO-5492,SUP-115,NorthStar Vendors,SKU-1024,Baseball Cap,Clothing,2025-10-04,321,192,93.47,30003.87,USD,2025-10-22,2025-10-27,5,Partially Delivered,INV-45860,Pending,Rush order
+PO-5493,SUP-106,QuickMart Wholesale,SKU-1018,Scissors,Office,2025-10-21,422,0,66.07,27881.54,USD,2025-11-02,,,Pending,INV-88974,Pending,Bulk discount applied
+PO-5494,SUP-115,NorthStar Vendors,SKU-1047,Eye Cream,Beauty,2025-11-21,163,0,36.87,6009.81,USD,2025-12-09,,,In Transit,INV-51144,Pending,Bulk discount applied
+PO-5495,SUP-112,EuroGoods Direct,SKU-1035,Food Storage Containers,Home & Kitchen,2026-01-21,121,0,111.68,13513.28,USD,2026-01-27,,,In Transit,INV-48086,Pending,Bulk discount applied
+PO-5496,SUP-106,QuickMart Wholesale,SKU-1043,Sunscreen SPF50,Beauty,2025-05-10,373,373,152.89,57027.97,USD,2025-05-22,2025-06-05,14,Delivered,INV-81105,Overdue,Bulk discount applied
+PO-5497,SUP-106,QuickMart Wholesale,SKU-1045,Hand Cream,Beauty,2025-05-02,399,0,177.82,70950.18,USD,2025-05-14,,,Pending,INV-86389,Pending,Seasonal stock
+PO-5498,SUP-111,AsiaTrade Hub,SKU-1045,Hand Cream,Beauty,2025-10-03,355,213,199.26,70737.3,USD,2025-10-06,2025-10-13,7,Partially Delivered,INV-65363,Pending,Quality check required
+PO-5499,SUP-101,GlobalTech Supplies,SKU-1033,Cutting Board,Home & Kitchen,2025-04-27,22,22,162.35,3571.7,USD,2025-05-12,2025-05-11,-1,Delivered,INV-36201,Pending,Quality check required
+PO-5500,SUP-113,PacificSource,SKU-1010,Ballpoint Pens (Box),Office,2025-07-28,359,215,74.27,26662.93,USD,2025-08-20,2025-08-19,-1,Partially Delivered,INV-48684,Pending,
+PO-5501,SUP-113,PacificSource,SKU-1034,Kitchen Knife Set,Home & Kitchen,2025-03-20,193,193,153.27,29581.11,USD,2025-04-12,2025-04-17,5,Delivered,INV-94819,Overdue,Rush order
+PO-5502,SUP-104,EcoSource Inc.,SKU-1032,Non-stick Pan,Home & Kitchen,2026-02-23,157,157,229.11,35970.27,USD,2026-03-01,2026-03-11,10,Delivered,INV-60797,Pending,Quality check required
+PO-5503,SUP-111,AsiaTrade Hub,SKU-1020,Men T-Shirt,Clothing,2025-12-11,37,37,171.73,6354.01,USD,2025-12-14,2025-12-18,4,Delivered,INV-91338,Pending,Quality check required
+PO-5504,SUP-104,EcoSource Inc.,SKU-1040,Face Moisturizer,Beauty,2026-02-27,373,223,89.65,33439.45,USD,2026-03-05,2026-03-09,4,Partially Delivered,INV-35362,Pending,
+PO-5505,SUP-108,ValueChain Partners,SKU-1011,A4 Paper (Ream),Office,2026-02-16,48,48,199.4,9571.2,USD,2026-03-10,2026-03-24,14,Delivered,INV-25643,Pending,
+PO-5506,SUP-107,TrustMart B2B,SKU-1017,Printer Ink Cartridge,Office,2025-12-13,145,0,204.35,29630.75,USD,2025-12-29,,,In Transit,INV-43425,Pending,
+PO-5507,SUP-106,QuickMart Wholesale,SKU-1029,Sport Leggings,Clothing,2025-05-22,30,30,43.48,1304.4,USD,2025-06-03,2025-06-02,-1,Delivered,INV-91968,Overdue,Quality check required
+PO-5508,SUP-111,AsiaTrade Hub,SKU-1019,Tape Dispenser,Office,2025-11-10,414,414,226.33,93700.62,USD,2025-11-13,2025-11-13,0,Delivered,INV-51662,Overdue,
+PO-5509,SUP-103,PrimeVendor Ltd,SKU-1033,Cutting Board,Home & Kitchen,2025-04-07,412,0,168.44,69397.28,USD,2025-04-11,,,Pending,INV-81182,Pending,Seasonal stock
+PO-5510,SUP-107,TrustMart B2B,SKU-1005,Monitor Stand,Electronics,2025-08-29,123,0,162.57,19996.11,USD,2025-09-14,,,Cancelled,INV-53500,Pending,
+PO-5511,SUP-106,QuickMart Wholesale,SKU-1018,Scissors,Office,2025-06-23,496,0,79.43,39397.28,USD,2025-07-05,,,In Transit,INV-72240,Pending,Seasonal stock
+PO-5512,SUP-114,AmeriTrade Supplies,SKU-1048,Toner,Beauty,2026-01-30,14,14,143.06,2002.84,USD,2026-02-02,2026-02-14,12,Delivered,INV-41502,Overdue,Seasonal stock
+PO-5513,SUP-115,NorthStar Vendors,SKU-1039,Dish Rack,Home & Kitchen,2025-07-06,500,500,207.47,103735.0,USD,2025-07-24,2025-08-03,10,Delivered,INV-24860,Pending,
+PO-5514,SUP-109,NexGen Procurement,SKU-1046,Body Lotion,Beauty,2025-07-26,22,13,33.42,735.24,USD,2025-08-15,2025-08-24,9,Partially Delivered,INV-77411,Pending,Quality check required
+PO-5515,SUP-109,NexGen Procurement,SKU-1028,Denim Shorts,Clothing,2025-11-08,32,0,107.11,3427.52,USD,2025-11-28,,,Cancelled,INV-35232,Pending,
+PO-5516,SUP-109,NexGen Procurement,SKU-1005,Monitor Stand,Electronics,2025-04-22,95,57,166.33,15801.35,USD,2025-05-12,2025-05-10,-2,Partially Delivered,INV-92173,Pending,
+PO-5517,SUP-104,EcoSource Inc.,SKU-1042,Conditioner 500ml,Beauty,2026-01-20,406,0,25.54,10369.24,USD,2026-01-26,,,Cancelled,INV-65601,Pending,Quality check required
+PO-5518,SUP-102,FastShip Co.,SKU-1013,Stapler,Office,2025-12-04,434,0,150.06,65126.04,USD,2025-12-23,,,Cancelled,INV-67047,Pending,Bulk discount applied
+PO-5519,SUP-114,AmeriTrade Supplies,SKU-1004,Webcam,Electronics,2026-02-18,88,0,197.93,17417.84,USD,2026-02-21,,,Cancelled,INV-53478,Pending,
+PO-5520,SUP-102,FastShip Co.,SKU-1004,Webcam,Electronics,2025-03-31,101,0,249.59,25208.59,USD,2025-04-19,,,In Transit,INV-19232,Pending,Seasonal stock
+PO-5521,SUP-114,AmeriTrade Supplies,SKU-1014,File Folders,Office,2025-07-14,218,0,176.25,38422.5,USD,2025-07-17,,,Cancelled,INV-63011,Pending,Rush order
+PO-5522,SUP-106,QuickMart Wholesale,SKU-1001,USB-C Hub,Electronics,2025-09-19,354,354,190.6,67472.4,USD,2025-10-01,2025-10-01,0,Delivered,INV-86756,Paid,Bulk discount applied
+PO-5523,SUP-114,AmeriTrade Supplies,SKU-1004,Webcam,Electronics,2025-09-03,485,485,230.05,111574.25,USD,2025-09-06,2025-09-13,7,Delivered,INV-89503,Paid,
+PO-5524,SUP-113,PacificSource,SKU-1028,Denim Shorts,Clothing,2025-09-15,212,212,124.57,26408.84,USD,2025-10-08,2025-10-21,13,Delivered,INV-30489,Overdue,
+PO-5525,SUP-103,PrimeVendor Ltd,SKU-1047,Eye Cream,Beauty,2025-09-20,417,0,36.42,15187.14,USD,2025-09-24,,,In Transit,INV-48663,Pending,Bulk discount applied
+PO-5526,SUP-103,PrimeVendor Ltd,SKU-1019,Tape Dispenser,Office,2026-02-13,464,278,248.41,115262.24,USD,2026-02-17,2026-02-26,9,Partially Delivered,INV-11461,Pending,Seasonal stock
+PO-5527,SUP-114,AmeriTrade Supplies,SKU-1035,Food Storage Containers,Home & Kitchen,2025-05-15,73,0,106.0,7738.0,USD,2025-05-18,,,In Transit,INV-88204,Pending,Rush order
+PO-5528,SUP-109,NexGen Procurement,SKU-1035,Food Storage Containers,Home & Kitchen,2025-04-16,166,0,112.0,18592.0,USD,2025-05-06,,,Cancelled,INV-55069,Pending,
+PO-5529,SUP-107,TrustMart B2B,SKU-1041,Shampoo 500ml,Beauty,2025-11-21,82,82,153.05,12550.1,USD,2025-12-07,2025-12-13,6,Delivered,INV-35470,Paid,
+PO-5530,SUP-111,AsiaTrade Hub,SKU-1036,Electric Kettle,Home & Kitchen,2025-03-31,445,0,20.86,9282.7,USD,2025-04-03,,,In Transit,INV-70458,Pending,Bulk discount applied
+PO-5531,SUP-109,NexGen Procurement,SKU-1004,Webcam,Electronics,2025-07-30,353,353,200.86,70903.58,USD,2025-08-19,2025-08-23,4,Delivered,INV-86099,Pending,
+PO-5532,SUP-106,QuickMart Wholesale,SKU-1008,Smart Speaker,Electronics,2026-02-10,345,345,82.75,28548.75,USD,2026-02-22,2026-02-22,0,Delivered,INV-35362,Pending,Rush order
+PO-5533,SUP-108,ValueChain Partners,SKU-1021,Women Jeans,Clothing,2026-01-13,347,0,111.65,38742.55,USD,2026-02-04,,,In Transit,INV-29974,Pending,Seasonal stock
+PO-5534,SUP-110,SwiftLogistics,SKU-1023,Running Shoes,Clothing,2025-08-12,500,500,158.9,79450.0,USD,2025-08-27,2025-09-04,8,Delivered,INV-42266,Paid,Bulk discount applied
+PO-5535,SUP-112,EuroGoods Direct,SKU-1041,Shampoo 500ml,Beauty,2025-10-13,151,151,186.69,28190.19,USD,2025-10-19,2025-10-27,8,Delivered,INV-72908,Pending,Rush order
+PO-5536,SUP-106,QuickMart Wholesale,SKU-1049,Serum 30ml,Beauty,2025-08-07,259,259,237.9,61616.1,USD,2025-08-19,2025-08-19,0,Delivered,INV-46780,Paid,Seasonal stock
+PO-5537,SUP-104,EcoSource Inc.,SKU-1016,Desk Organizer,Office,2026-01-18,49,49,139.08,6814.92,USD,2026-01-24,2026-02-07,14,Delivered,INV-92788,Paid,Quality check required
+PO-5538,SUP-110,SwiftLogistics,SKU-1037,Air Fryer,Home & Kitchen,2025-09-27,403,403,153.86,62005.58,USD,2025-10-12,2025-10-18,6,Delivered,INV-81233,Overdue,Rush order
+PO-5539,SUP-111,AsiaTrade Hub,SKU-1049,Serum 30ml,Beauty,2025-05-19,197,118,227.02,44722.94,USD,2025-05-22,2025-05-29,7,Partially Delivered,INV-27548,Pending,Rush order
+PO-5540,SUP-109,NexGen Procurement,SKU-1032,Non-stick Pan,Home & Kitchen,2025-04-19,213,213,208.29,44365.77,USD,2025-05-09,2025-05-14,5,Delivered,INV-90482,Overdue,
+PO-5541,SUP-113,PacificSource,SKU-1032,Non-stick Pan,Home & Kitchen,2025-05-14,238,0,195.34,46490.92,USD,2025-06-06,,,In Transit,INV-84162,Pending,Bulk discount applied
+PO-5542,SUP-114,AmeriTrade Supplies,SKU-1009,Laptop Stand,Electronics,2025-11-06,490,490,42.05,20604.5,USD,2025-11-09,2025-11-22,13,Delivered,INV-40375,Paid,
+PO-5543,SUP-106,QuickMart Wholesale,SKU-1014,File Folders,Office,2025-03-25,352,211,166.62,58650.24,USD,2025-04-06,2025-04-15,9,Partially Delivered,INV-60868,Pending,Rush order
+PO-5544,SUP-115,NorthStar Vendors,SKU-1029,Sport Leggings,Clothing,2025-03-27,30,30,55.14,1654.2,USD,2025-04-14,2025-04-15,1,Delivered,INV-78337,Overdue,Quality check required
+PO-5545,SUP-105,MegaDist Corp,SKU-1047,Eye Cream,Beauty,2025-07-16,306,306,33.95,10388.7,USD,2025-08-04,2025-08-14,10,Delivered,INV-95678,Pending,
+PO-5546,SUP-110,SwiftLogistics,SKU-1041,Shampoo 500ml,Beauty,2025-04-12,274,274,157.54,43165.96,USD,2025-04-27,2025-05-11,14,Delivered,INV-63194,Pending,Quality check required
+PO-5547,SUP-114,AmeriTrade Supplies,SKU-1022,Hoodie,Clothing,2025-11-08,415,0,42.21,17517.15,USD,2025-11-11,,,In Transit,INV-10864,Pending,Seasonal stock
+PO-5548,SUP-115,NorthStar Vendors,SKU-1008,Smart Speaker,Electronics,2025-10-15,94,0,82.63,7767.22,USD,2025-11-02,,,In Transit,INV-94341,Pending,
+PO-5549,SUP-104,EcoSource Inc.,SKU-1009,Laptop Stand,Electronics,2025-06-07,90,0,42.09,3788.1,USD,2025-06-13,,,Cancelled,INV-25509,Pending,Bulk discount applied
+PO-5550,SUP-104,EcoSource Inc.,SKU-1026,Polo Shirt,Clothing,2025-08-20,378,0,143.43,54216.54,USD,2025-08-26,,,Cancelled,INV-72759,Pending,Rush order
+PO-5551,SUP-104,EcoSource Inc.,SKU-1037,Air Fryer,Home & Kitchen,2025-05-25,341,341,164.5,56094.5,USD,2025-05-31,2025-06-05,5,Delivered,INV-15655,Paid,Seasonal stock
+PO-5552,SUP-110,SwiftLogistics,SKU-1010,Ballpoint Pens (Box),Office,2025-05-11,332,0,80.39,26689.48,USD,2025-05-26,,,In Transit,INV-29249,Pending,
+PO-5553,SUP-103,PrimeVendor Ltd,SKU-1016,Desk Organizer,Office,2025-06-04,274,0,147.86,40513.64,USD,2025-06-08,,,In Transit,INV-83872,Pending,Bulk discount applied
+PO-5554,SUP-101,GlobalTech Supplies,SKU-1046,Body Lotion,Beauty,2026-02-05,430,430,27.95,12018.5,USD,2026-02-20,2026-02-24,4,Delivered,INV-68877,Overdue,Rush order
+PO-5555,SUP-114,AmeriTrade Supplies,SKU-1030,Coffee Maker,Home & Kitchen,2025-05-30,122,0,243.21,29671.62,USD,2025-06-02,,,In Transit,INV-28705,Pending,Quality check required
+PO-5556,SUP-110,SwiftLogistics,SKU-1049,Serum 30ml,Beauty,2025-06-05,329,329,245.28,80697.12,USD,2025-06-20,2025-06-23,3,Delivered,INV-99861,Pending,Rush order
+PO-5557,SUP-110,SwiftLogistics,SKU-1037,Air Fryer,Home & Kitchen,2025-04-08,127,127,144.6,18364.2,USD,2025-04-23,2025-04-24,1,Delivered,INV-12170,Paid,Seasonal stock
+PO-5558,SUP-114,AmeriTrade Supplies,SKU-1032,Non-stick Pan,Home & Kitchen,2026-02-17,224,0,237.56,53213.44,USD,2026-02-20,,,In Transit,INV-22622,Pending,
+PO-5559,SUP-108,ValueChain Partners,SKU-1039,Dish Rack,Home & Kitchen,2026-01-05,29,0,266.03,7714.87,USD,2026-01-27,,,In Transit,INV-75972,Pending,Quality check required
+PO-5560,SUP-102,FastShip Co.,SKU-1005,Monitor Stand,Electronics,2025-11-05,347,0,130.45,45266.15,USD,2025-11-24,,,In Transit,INV-80685,Pending,Quality check required
+PO-5561,SUP-101,GlobalTech Supplies,SKU-1049,Serum 30ml,Beauty,2026-02-14,342,0,229.68,78550.56,USD,2026-03-01,,,Pending,INV-58546,Pending,Quality check required
+PO-5562,SUP-101,GlobalTech Supplies,SKU-1044,Lip Balm,Beauty,2025-11-30,229,137,200.43,45898.47,USD,2025-12-15,2025-12-28,13,Partially Delivered,INV-59969,Pending,
+PO-5563,SUP-110,SwiftLogistics,SKU-1047,Eye Cream,Beauty,2026-02-23,304,304,29.58,8992.32,USD,2026-03-10,2026-03-16,6,Delivered,INV-72539,Paid,Quality check required
+PO-5564,SUP-102,FastShip Co.,SKU-1018,Scissors,Office,2026-01-04,458,458,74.92,34313.36,USD,2026-01-23,2026-01-27,4,Delivered,INV-10716,Overdue,Bulk discount applied
+PO-5565,SUP-113,PacificSource,SKU-1000,Wireless Earbuds,Electronics,2025-12-24,277,277,137.43,38068.11,USD,2026-01-16,2026-01-26,10,Delivered,INV-95792,Paid,Bulk discount applied
+PO-5566,SUP-113,PacificSource,SKU-1020,Men T-Shirt,Clothing,2025-09-29,195,0,177.19,34552.05,USD,2025-10-22,,,Pending,INV-95403,Pending,Seasonal stock
+PO-5567,SUP-105,MegaDist Corp,SKU-1016,Desk Organizer,Office,2025-12-03,226,0,132.89,30033.14,USD,2025-12-22,,,In Transit,INV-46118,Pending,Bulk discount applied
+PO-5568,SUP-107,TrustMart B2B,SKU-1048,Toner,Beauty,2025-06-16,221,0,163.62,36160.02,USD,2025-07-02,,,In Transit,INV-73238,Pending,
+PO-5569,SUP-106,QuickMart Wholesale,SKU-1035,Food Storage Containers,Home & Kitchen,2025-12-13,257,257,113.57,29187.49,USD,2025-12-25,2026-01-03,9,Delivered,INV-62183,Overdue,
+PO-5570,SUP-114,AmeriTrade Supplies,SKU-1042,Conditioner 500ml,Beauty,2025-05-03,392,235,25.67,10062.64,USD,2025-05-06,2025-05-09,3,Partially Delivered,INV-23143,Pending,
+PO-5571,SUP-109,NexGen Procurement,SKU-1025,Socks (Pack-6),Clothing,2025-08-24,420,0,154.95,65079.0,USD,2025-09-13,,,Cancelled,INV-99727,Pending,Bulk discount applied
+PO-5572,SUP-101,GlobalTech Supplies,SKU-1010,Ballpoint Pens (Box),Office,2025-09-19,335,335,68.54,22960.9,USD,2025-10-04,2025-10-06,2,Delivered,INV-71822,Overdue,Rush order
+PO-5573,SUP-102,FastShip Co.,SKU-1004,Webcam,Electronics,2025-07-16,123,0,221.2,27207.6,USD,2025-08-04,,,In Transit,INV-14948,Pending,Bulk discount applied
+PO-5574,SUP-107,TrustMart B2B,SKU-1025,Socks (Pack-6),Clothing,2026-01-12,345,0,153.63,53002.35,USD,2026-01-28,,,Cancelled,INV-88311,Pending,
+PO-5575,SUP-113,PacificSource,SKU-1011,A4 Paper (Ream),Office,2026-01-25,263,263,215.53,56684.39,USD,2026-02-17,2026-03-03,14,Delivered,INV-47487,Paid,
+PO-5576,SUP-113,PacificSource,SKU-1038,Mixing Bowls Set,Home & Kitchen,2025-11-20,274,0,102.63,28120.62,USD,2025-12-13,,,In Transit,INV-32214,Pending,Bulk discount applied
+PO-5577,SUP-101,GlobalTech Supplies,SKU-1023,Running Shoes,Clothing,2025-07-04,345,345,138.64,47830.8,USD,2025-07-19,2025-07-19,0,Delivered,INV-46167,Pending,
+PO-5578,SUP-111,AsiaTrade Hub,SKU-1025,Socks (Pack-6),Clothing,2025-09-27,310,310,139.35,43198.5,USD,2025-09-30,2025-09-30,0,Delivered,INV-21818,Overdue,
+PO-5579,SUP-112,EuroGoods Direct,SKU-1035,Food Storage Containers,Home & Kitchen,2025-12-27,188,112,116.91,21979.08,USD,2026-01-02,2026-01-08,6,Partially Delivered,INV-39661,Pending,Seasonal stock
+PO-5580,SUP-104,EcoSource Inc.,SKU-1029,Sport Leggings,Clothing,2025-09-26,304,304,41.38,12579.52,USD,2025-10-02,2025-10-13,11,Delivered,INV-76353,Paid,Seasonal stock
+PO-5581,SUP-102,FastShip Co.,SKU-1032,Non-stick Pan,Home & Kitchen,2025-08-01,184,110,245.18,45113.12,USD,2025-08-20,2025-09-03,14,Partially Delivered,INV-43776,Pending,Seasonal stock
+PO-5582,SUP-114,AmeriTrade Supplies,SKU-1036,Electric Kettle,Home & Kitchen,2025-07-10,365,0,19.12,6978.8,USD,2025-07-13,,,Pending,INV-83815,Pending,Rush order
+PO-5583,SUP-113,PacificSource,SKU-1015,Whiteboard Markers,Office,2025-08-24,407,0,142.63,58050.41,USD,2025-09-16,,,Pending,INV-86916,Pending,Quality check required
+PO-5584,SUP-101,GlobalTech Supplies,SKU-1030,Coffee Maker,Home & Kitchen,2025-05-02,142,0,193.86,27528.12,USD,2025-05-17,,,Cancelled,INV-38885,Pending,Bulk discount applied
+PO-5585,SUP-112,EuroGoods Direct,SKU-1014,File Folders,Office,2025-08-12,221,0,206.4,45614.4,USD,2025-08-18,,,In Transit,INV-80208,Pending,
+PO-5586,SUP-112,EuroGoods Direct,SKU-1016,Desk Organizer,Office,2025-07-09,157,0,114.94,18045.58,USD,2025-07-15,,,Cancelled,INV-54825,Pending,
+PO-5587,SUP-109,NexGen Procurement,SKU-1011,A4 Paper (Ream),Office,2025-11-02,170,0,210.06,35710.2,USD,2025-11-22,,,In Transit,INV-45268,Pending,
+PO-5588,SUP-112,EuroGoods Direct,SKU-1043,Sunscreen SPF50,Beauty,2025-06-09,265,265,156.61,41501.65,USD,2025-06-15,2025-06-20,5,Delivered,INV-44787,Paid,
+PO-5589,SUP-104,EcoSource Inc.,SKU-1015,Whiteboard Markers,Office,2026-01-14,192,192,129.88,24936.96,USD,2026-01-20,2026-01-21,1,Delivered,INV-20287,Overdue,Bulk discount applied
+PO-5590,SUP-108,ValueChain Partners,SKU-1039,Dish Rack,Home & Kitchen,2025-03-07,401,401,264.58,106096.58,USD,2025-03-29,2025-04-11,13,Delivered,INV-58653,Overdue,
+PO-5591,SUP-108,ValueChain Partners,SKU-1036,Electric Kettle,Home & Kitchen,2025-07-22,261,156,17.64,4604.04,USD,2025-08-13,2025-08-27,14,Partially Delivered,INV-46735,Pending,Rush order
+PO-5592,SUP-104,EcoSource Inc.,SKU-1048,Toner,Beauty,2025-12-24,75,45,140.22,10516.5,USD,2025-12-30,2026-01-10,11,Partially Delivered,INV-72694,Pending,Seasonal stock
+PO-5593,SUP-101,GlobalTech Supplies,SKU-1032,Non-stick Pan,Home & Kitchen,2025-08-28,211,126,239.7,50576.7,USD,2025-09-12,2025-09-15,3,Partially Delivered,INV-69925,Pending,
+PO-5594,SUP-112,EuroGoods Direct,SKU-1033,Cutting Board,Home & Kitchen,2025-10-25,171,171,177.47,30347.37,USD,2025-10-31,2025-11-04,4,Delivered,INV-59732,Overdue,
+PO-5595,SUP-106,QuickMart Wholesale,SKU-1023,Running Shoes,Clothing,2026-01-11,451,0,150.92,68064.92,USD,2026-01-23,,,In Transit,INV-44452,Pending,
+PO-5596,SUP-105,MegaDist Corp,SKU-1030,Coffee Maker,Home & Kitchen,2026-01-11,185,0,213.16,39434.6,USD,2026-01-30,,,Pending,INV-65567,Pending,
+PO-5597,SUP-107,TrustMart B2B,SKU-1044,Lip Balm,Beauty,2025-09-10,196,196,240.08,47055.68,USD,2025-09-26,2025-10-08,12,Delivered,INV-33578,Overdue,
+PO-5598,SUP-110,SwiftLogistics,SKU-1043,Sunscreen SPF50,Beauty,2025-06-29,426,426,129.38,55115.88,USD,2025-07-14,2025-07-19,5,Delivered,INV-82789,Pending,Quality check required
+PO-5599,SUP-107,TrustMart B2B,SKU-1012,Sticky Notes Pack,Office,2025-05-17,419,419,176.3,73869.7,USD,2025-06-02,2025-06-15,13,Delivered,INV-11276,Paid,Rush order

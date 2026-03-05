@@ -1,0 +1,37 @@
+services:
+  mongo:
+    image: mongo:7
+    container_name: ai-purchase-mongo
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo_data:/data/db
+    healthcheck:
+      test: ["CMD", "mongosh", "--eval", "db.adminCommand('ping')"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: ai-purchase-app
+    ports:
+      - "8000:8000"
+    environment:
+      MONGODB_URI: mongodb://mongo:27017/
+      MONGODB_DB: ai_purchase_agent
+      DATA_DIR: /app/data
+      # OPENAI_API_KEY comes from env_file: backend/.env (do not override with empty value here)
+    env_file:
+      - backend/.env
+    volumes:
+      # Mount project root so CSV files are available for Import Data
+      - .:/app/data:ro
+    depends_on:
+      mongo:
+        condition: service_healthy
+
+volumes:
+  mongo_data:
